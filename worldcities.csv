@@ -1,0 +1,3792 @@
+city,lat,lng,country,code,population
+Wausau,44.9616,-89.6439,United States,USA,74186
+Camden,39.9361,-75.1072,United States,USA,74420
+Schaumburg,42.0307,-88.0838,United States,USA,74446
+Shanxian,34.7904,116.08,China,CHN,74459
+Manokwari,-0.8711,134.0693,Indonesia,IDN,74504
+Bolingbrook,41.6911,-88.1012,United States,USA,74518
+Missouri City,29.5634,-95.5377,United States,USA,74561
+Toledo,39.867,-4.0167,Spain,ESP,74632
+Greenock,55.9333,-4.75,United Kingdom,GBR,74635
+Cachoeira do Sul,-30.03,-52.91,Brazil,BRA,74694
+Zephyrhills,28.2404,-82.1796,United States,USA,74712
+Darhan,49.6167,106.35,Mongolia,MNG,74738
+Franklin,35.9215,-86.8522,United States,USA,74794
+Red Deer,52.2666,-113.8,Canada,CAN,74857
+Evanston,42.0463,-87.6942,United States,USA,74895
+Bombo,0.5833,32.5333,Uganda,UGA,75000
+Gode,5.95,43.45,Ethiopia,ETH,75000
+Oshkosh,44.0242,-88.561,United States,USA,75057
+Idah,7.1104,6.7399,Nigeria,NGA,75087
+Agrinio,38.6218,21.4077,Greece,GRC,75233
+Kompong Chhnang,12.2505,104.6666,Cambodia,KHM,75244
+Bethlehem,40.6266,-75.3679,United States,USA,75293
+Union City,37.603,-122.0187,United States,USA,75322
+Hilton Head Island,32.1896,-80.7499,United States,USA,75328
+Campo Murao,-24.0496,-52.42,Brazil,BRA,75401
+Arlington Heights,42.0955,-87.9825,United States,USA,75525
+Nevsehir,38.624,34.724,Turkey,TUR,75527
+Davis,38.5552,-121.7365,United States,USA,75553
+Wyoming,42.8909,-85.7067,United States,USA,75567
+Boynton Beach,26.5282,-80.0812,United States,USA,75569
+Galway,53.2724,-9.0488,Ireland,IRL,75594
+San Ramon,37.7625,-121.9366,United States,USA,75639
+Layton,41.0773,-111.9618,United States,USA,75655
+Buynaksk,42.8335,47.113,Russia,RUS,75800
+Kamensk Shakhtinskiy,48.3318,40.2518,Russia,RUS,75814
+Mackay,-21.1439,149.15,Australia,AUS,75922
+Tailai,46.3904,123.41,China,CHN,75992
+Baytown,29.7607,-94.9628,United States,USA,75992
+Tamanrasset,22.785,5.5228,Algeria,DZA,76000
+Saint Augustine,29.8979,-81.31,United States,USA,76129
+Birobidzhan,48.7974,132.9508,Russia,RUS,76146
+Sakhon Nakhon,17.1679,104.1479,Thailand,THA,76237
+Tuban,-6.8995,112.05,Indonesia,IDN,76242
+Babahoyo,-1.7996,-79.54,Ecuador,ECU,76279
+Masvingo,-20.0596,30.82,Zimbabwe,ZWE,76311
+Honiara,-9.438,159.9498,Solomon Islands,SLB,76328
+Perris,33.7897,-117.2233,United States,USA,76331
+Tucurui,-3.68,-49.72,Brazil,BRA,76337
+Anniston,33.6713,-85.8137,United States,USA,76350
+Gary,41.5906,-87.3472,United States,USA,76424
+Al Musayyib,32.7786,44.29,Iraq,IRQ,76454
+Baldwin Park,34.0829,-117.972,United States,USA,76464
+Porterville,36.0636,-119.0332,United States,USA,76512
+Sao Joao da Boa Vista,-21.98,-46.79,Brazil,BRA,76540
+Jatai,-17.8796,-51.75,Brazil,BRA,76547
+Uttaradit,17.6316,100.0972,Thailand,THA,76630
+Upland,34.1178,-117.6603,United States,USA,76684
+Oudtshoorn,-33.58,22.19,South Africa,ZAF,76708
+Lake Jackson,29.052,-95.4518,United States,USA,76721
+San Felipe,10.336,-68.746,Venezuela,VEN,76766
+Pori,61.4789,21.7749,Finland,FIN,76772
+Loveland,40.4168,-105.0622,United States,USA,76897
+Karur,10.9504,78.0833,India,IND,76915
+Sarqan,45.4203,79.9149,Kazakhstan,KAZ,76919
+Thakhek,17.4112,104.8361,Laos,LAO,76928
+Altoona,40.5084,-78.401,United States,USA,76943
+La Rochelle,46.1667,-1.15,France,FRA,76997
+Butare,-2.5896,29.73,Rwanda,RWA,77000
+Elizabethtown,37.7033,-85.8771,United States,USA,77016
+Sao Mateus,-18.7296,-39.86,Brazil,BRA,77117
+Hammond,41.617,-87.4908,United States,USA,77134
+Ovalle,-30.59,-71.2001,Chile,CHL,77138
+Fort Myers,26.6197,-81.8306,United States,USA,77146
+Battle Creek,42.2985,-85.2295,United States,USA,77174
+Jiexiu,37.04,111.9,China,CHN,77178
+San Carlos,9.658,-68.59,Venezuela,VEN,77192
+Ende,-8.8623,121.6489,Indonesia,IDN,77205
+Kayes,14.45,-11.44,Mali,MLI,77207
+Plymouth,45.0225,-93.4617,United States,USA,77216
+Goodyear,33.2613,-112.3622,United States,USA,77258
+Watsonville,36.9206,-121.7706,United States,USA,77266
+Folsom,38.6751,-121.1476,United States,USA,77271
+Pharr,26.1687,-98.1904,United States,USA,77320
+Soke,37.7512,27.4103,Turkey,TUR,77341
+Itauna,-20.06,-44.57,Brazil,BRA,77400
+Auburn,47.3039,-122.2108,United States,USA,77472
+Kars,40.6085,43.0975,Turkey,TUR,77486
+Milpitas,37.4338,-121.8921,United States,USA,77528
+Numan,9.4604,12.04,Nigeria,NGA,77617
+Hakkari,37.5744,43.7408,Turkey,TUR,77699
+Linkou,45.2819,130.2519,China,CHN,77754
+Marsala,37.8054,12.4387,Italy,ITA,77784
+Bellflower,33.888,-118.1271,United States,USA,77790
+Lebanon,40.3412,-76.4228,United States,USA,77839
+Gangtok,27.3333,88.6166,India,IND,77900
+Flagstaff,35.1867,-111.6175,United States,USA,78065
+Wheeling,40.0753,-80.6951,United States,USA,78088
+Wa,10.0604,-2.5,Ghana,GHA,78107
+Anderson,34.521,-82.6477,United States,USA,78138
+Zahle,33.8501,35.9042,Lebanon,LBN,78145
+Umea,63.83,20.24,Sweden,SWE,78197
+Pingyi,35.5104,117.62,China,CHN,78254
+Florence,34.83,-87.6658,United States,USA,78321
+St.-Jerome,45.7666,-74,Canada,CAN,78439
+Springdale,36.1897,-94.1574,United States,USA,78557
+Newark,40.0703,-82.4252,United States,USA,78563
+Sao Joao del Rei,-21.13,-44.25,Brazil,BRA,78592
+Dondo,-19.6196,34.73,Mozambique,MOZ,78648
+Ceuta,35.889,-5.307,Spain,ESP,78674
+Gualeguaychu,-33.02,-58.52,Argentina,ARG,78676
+Kankakee,41.1019,-87.8643,United States,USA,78682
+Biel,47.1666,7.25,Switzerland,CHE,78708
+Tres Lagoas,-20.79,-51.72,Brazil,BRA,78712
+Hania,35.5122,24.0156,Greece,GRC,78728
+Sagaing,21.88,95.962,Burma,MMR,78739
+Shulan,44.4091,126.9487,China,CHN,78764
+Chino Hills,33.9508,-117.7254,United States,USA,78822
+Kupyansk,49.7218,37.5981,Ukraine,UKR,78870
+Alameda,37.767,-122.2673,United States,USA,78906
+Slatina,44.435,24.371,Romania,ROU,78988
+Inowroclaw,52.7799,18.25,Poland,POL,79007
+Paysandu,-32.33,-58.08,Uruguay,URY,79016
+Kokomo,40.464,-86.1277,United States,USA,79048
+Kadoma,-18.33,29.9099,Zimbabwe,ZWE,79174
+Cheyenne,41.1418,-104.7943,United States,USA,79217
+Abaetetuba,-1.7245,-48.8849,Brazil,BRA,79420
+Parma,41.3842,-81.7286,United States,USA,79425
+Shadrinsk,56.0837,63.6333,Russia,RUS,79479
+Ouahigouya,13.5704,-2.42,Burkina Faso,BFA,79504
+Beni Mazar,28.4904,30.81,Egypt,EGY,79553
+New Rochelle,40.9305,-73.7836,United States,USA,79557
+Itumbiara,-18.3996,-49.21,Brazil,BRA,79582
+Kropotkin,45.4471,40.5821,Russia,RUS,79599
+Erdenet,49.0533,104.1183,Mongolia,MNG,79647
+Quillota,-32.88,-71.26,Chile,CHL,79686
+Khaskovo,41.9438,25.5633,Bulgaria,BGR,79699
+Brooklyn Park,45.1112,-93.3505,United States,USA,79707
+Prachin Buri,14.0572,101.3768,Thailand,THA,79757
+Deerfield Beach,26.305,-80.1278,United States,USA,79764
+Valdosta,30.8503,-83.2789,United States,USA,79844
+Ciudad Mante,22.7334,-98.95,Mexico,MEX,79981
+Nabatiye et Tahta,33.3833,35.45,Lebanon,LBN,80000
+Capenda-Camulemba,-9.4196,18.43,Angola,AGO,80000
+Xigaze,29.25,88.8833,China,CHN,80000
+Koktokay,47.0004,89.4666,China,CHN,80000
+Vorkuta,67.5,64.01,Russia,RUS,80039
+Al Karak,31.1851,35.7047,Jordan,JOR,80062
+Meiganga,6.5205,14.29,Cameroon,CMR,80100
+Musan,42.2304,129.2304,"Korea, North",PRK,80146
+Mbalmayo,3.5204,11.5,Cameroon,CMR,80206
+Lawrence,42.7003,-71.1626,United States,USA,80209
+Kilifi,-3.6096,39.85,Kenya,KEN,80339
+Uvinza,-5.1196,30.39,Tanzania,TZA,80350
+Tustin,33.7309,-117.8106,United States,USA,80395
+Mountain View,37.4001,-122.0796,United States,USA,80447
+Huacho,-11.11,-77.6199,Peru,PER,80474
+Necochea,-38.56,-58.75,Argentina,ARG,80478
+Bingol,38.885,40.498,Turkey,TUR,80568
+Atakpame,7.53,1.12,Togo,TGO,80683
+Klin,56.3431,36.6987,Russia,RUS,80778
+Abu Kamal,34.4504,40.9186,Syria,SYR,80808
+Saint Joseph,39.7598,-94.821,United States,USA,80849
+Hobart,-42.85,147.295,Australia,AUS,80870
+Alton,38.9033,-90.1523,United States,USA,80871
+Texarkana,33.4487,-94.0814,United States,USA,80888
+Natitingou,10.3204,1.39,Benin,BEN,80892
+Zomba,-15.39,35.31,Malawi,MWI,80932
+Linares,-35.84,-71.59,Chile,CHL,81015
+Cranston,41.7658,-71.4858,United States,USA,81034
+Salina Cruz,16.1671,-95.2,Mexico,MEX,81063
+Farmington Hills,42.486,-83.3771,United States,USA,81129
+Lakewood,33.8471,-118.1222,United States,USA,81138
+Melbourne,28.1152,-80.653,United States,USA,81185
+Pisco,-13.71,-76.22,Peru,PER,81207
+Formosa,-15.5395,-47.34,Brazil,BRA,81232
+Asbest,57.023,61.458,Russia,RUS,81248
+Avare,-23.11,-48.93,Brazil,BRA,81285
+Bistrita,47.138,24.513,Romania,ROU,81318
+Somerville,42.3908,-71.1013,United States,USA,81322
+Balqash,46.8532,74.9502,Kazakhstan,KAZ,81364
+Beziers,43.3505,3.21,France,FRA,81438
+Lavras,-21.2496,-45.01,Brazil,BRA,81472
+Westland,42.3192,-83.3806,United States,USA,81545
+Sukhumi,43.02,41.02,Georgia,GEO,81546
+Warwick,41.7061,-71.4334,United States,USA,81579
+Campana,-34.16,-58.96,Argentina,ARG,81612
+Watampone,-4.5328,120.3334,Indonesia,IDN,81629
+Bendigo,-36.76,144.28,Australia,AUS,81657
+Lujan,-34.5796,-59.11,Argentina,ARG,81749
+Kaspiysk,42.8747,47.6244,Russia,RUS,81752
+Agboville,5.9403,-4.28,C����,CIV,81770
+Williamsburg,37.2691,-76.7075,United States,USA,81840
+Presidencia Roque Saenz Pena,-26.79,-60.45,Argentina,ARG,81879
+Qasserine,35.1804,8.83,Tunisia,TUN,81987
+Hattiesburg,31.3073,-89.3169,United States,USA,81995
+Chililabombwe,-12.3696,27.82,Zambia,ZMB,82068
+Abomey,7.1904,1.99,Benin,BEN,82154
+Bolgatanga,10.7904,-0.85,Ghana,GHA,82177
+Asela,7.9504,39.1399,Ethiopia,ETH,82240
+Polatsk,55.4894,28.786,Belarus,BLR,82258
+Pleasanton,37.666,-121.8805,United States,USA,82270
+Madera,36.964,-120.0803,United States,USA,82278
+Conroe,30.3174,-95.4705,United States,USA,82286
+Fier,40.73,19.573,Albania,ALB,82297
+Kilis,36.7204,37.12,Turkey,TUR,82301
+Kanoya,31.3833,130.85,Japan,JPN,82335
+Banska Bystrica,48.7333,19.15,Slovakia,SVK,82336
+Troitsk,54.1056,61.5702,Russia,RUS,82338
+Giessen,50.5837,8.65,Germany,DEU,82358
+Chimaltenango,14.662,-90.82,Guatemala,GTM,82370
+Nangong,37.3704,115.37,China,CHN,82386
+Palmerston North,-40.3527,175.6072,New Zealand,NZL,82400
+Chukai,4.2332,103.4479,Malaysia,MYS,82425
+Bagamoyo,-6.4396,38.89,Tanzania,TZA,82426
+Pernik,42.61,23.0227,Bulgaria,BGR,82467
+Nan,18.7868,100.7715,Thailand,THA,82483
+Mus,38.749,41.4969,Turkey,TUR,82536
+Araxa,-19.5796,-46.95,Brazil,BRA,82595
+Wiener Neustadt,47.816,16.25,Austria,AUT,82762
+Amasya,40.6537,35.833,Turkey,TUR,82896
+Antsiranana,-12.2765,49.3115,Madagascar,MDG,82937
+Cicero,41.8445,-87.7593,United States,USA,82992
+Alexandria,31.2923,-92.47,United States,USA,82995
+Tulcan,0.822,-77.732,Ecuador,ECU,83000
+Largo,27.9088,-82.7714,United States,USA,83065
+Springfield,39.9304,-83.7961,United States,USA,83115
+Buena Park,33.8572,-118.0046,United States,USA,83156
+Izmayil,45.3503,28.8374,Ukraine,UKR,83194
+Kampong Cham,12.0004,105.45,Cambodia,KHM,83233
+Lake Forest,33.6606,-117.6712,United States,USA,83240
+Bryan,30.6661,-96.367,United States,USA,83260
+Codo,-4.4796,-43.88,Brazil,BRA,83288
+Resita,45.297,21.8865,Romania,ROU,83324
+Ouidah,6.3604,2.09,Benin,BEN,83503
+Ocana,8.2404,-73.35,Colombia,COL,83511
+Mission,26.204,-98.3251,United States,USA,83563
+Gisenyi,-1.6847,29.2629,Rwanda,RWA,83623
+Peterborough,44.3,-78.3333,Canada,CAN,83627
+Troy,42.5817,-83.1458,United States,USA,83641
+Londonderry,55.0004,-7.3333,United Kingdom,GBR,83652
+Bethlehem,-28.2196,28.3,South Africa,ZAF,83654
+Anzhero Sudzhensk,56.08,86.04,Russia,RUS,83692
+Mbarara,-0.5996,30.65,Uganda,UGA,83700
+Johns Creek,34.0333,-84.2027,United States,USA,83873
+Porto Santana,-0.0396,-51.18,Brazil,BRA,83927
+Mount Pleasant,32.8532,-79.8269,United States,USA,84170
+Yurga,55.7258,84.8854,Russia,RUS,84220
+Trinidad,-14.8334,-64.9,Bolivia,BOL,84259
+Linjiang,41.8363,126.936,China,CHN,84315
+Port Huron,42.9823,-82.4387,United States,USA,84361
+Guider,9.9304,13.94,Cameroon,CMR,84647
+Sumenep,-7.0049,113.8496,Indonesia,IDN,84656
+Savannakhet,16.5376,104.773,Laos,LAO,84898
+Nanaimo,49.146,-123.9343,Canada,CAN,84905
+Redwood City,37.5026,-122.2251,United States,USA,84950
+Lorient,47.7504,-3.3666,France,FRA,84952
+Hoover,33.3761,-86.8065,United States,USA,84978
+Puerto Limon,10,-83.0333,Costa Rica,CRI,85001
+Junin,-34.5846,-60.9589,Argentina,ARG,85007
+Louga,15.6104,-16.25,Senegal,SEN,85075
+Ballarat,-37.5596,143.84,Australia,AUS,85109
+Liepaga,56.51,21.01,Latvia,LVA,85132
+Caceres,-16.05,-57.51,Brazil,BRA,85274
+Bloomington,44.8306,-93.315,United States,USA,85319
+Ituiutaba,-18.97,-49.46,Brazil,BRA,85345
+Paulo Afonso,-9.3307,-38.2657,Brazil,BRA,85350
+Versailles,48.8005,2.1333,France,FRA,85416
+Sokcho,38.2087,128.5912,"Korea, South",KOR,85430
+Alhambra,34.084,-118.1355,United States,USA,85474
+Chumphon,10.5127,99.1872,Thailand,THA,85686
+Rio Gallegos,-51.6333,-69.2166,Argentina,ARG,85700
+Behbehan,30.5818,50.2615,Iran,IRN,85707
+Helong,42.5348,129.0044,China,CHN,85756
+Clifton,40.8631,-74.1575,United States,USA,85845
+Usolye Sibirskoye,52.765,103.645,Russia,RUS,85900
+Keffi,8.849,7.8736,Nigeria,NGA,85911
+Poitier,46.5833,0.3333,France,FRA,85960
+Chipata,-13.6296,32.64,Zambia,ZMB,85963
+Huehuetenango,15.3204,-91.47,Guatemala,GTM,85992
+Potiskum,11.7104,11.08,Nigeria,NGA,86002
+Agua Prieta,31.3223,-109.563,Mexico,MEX,86083
+Shchekino,54.0143,37.5143,Russia,RUS,86088
+Lorca,37.6886,-1.6985,Spain,ESP,86119
+Joplin,37.0766,-94.5016,United States,USA,86144
+Panshi,42.9426,126.0561,China,CHN,86216
+O'Fallon,38.7853,-90.7178,United States,USA,86274
+Ioanina,39.6679,20.8509,Greece,GRC,86304
+Olavarria,-36.9,-60.33,Argentina,ARG,86320
+Bitola,41.0391,21.3395,Macedonia,MKD,86528
+Anderson,40.0875,-85.6921,United States,USA,86565
+Ruhengeri,-1.4996,29.63,Rwanda,RWA,86685
+Newport Beach,33.6151,-117.8669,United States,USA,86688
+Tumaco,1.81,-78.81,Colombia,COL,86713
+Nouadhibou,20.9,-17.056,Mauritania,MRT,86738
+Whittier,33.9678,-118.0188,United States,USA,86883
+Huaraz,-9.53,-77.53,Peru,PER,86934
+Lokossa,6.615,1.715,Benin,BEN,86971
+Ed Dueim,13.9904,32.3,Sudan,SDN,87068
+Nenjiang,49.18,125.23,China,CHN,87236
+Mishan,45.5504,131.88,China,CHN,87257
+Shumen,43.27,26.9294,Bulgaria,BGR,87283
+Koudougou,12.2505,-2.37,Burkina Faso,BFA,87347
+State College,40.791,-77.8568,United States,USA,87374
+Citrus Heights,38.6948,-121.288,United States,USA,87432
+Changting,25.867,116.3167,China,CHN,87458
+Assis,-22.6596,-50.42,Brazil,BRA,87471
+Koidu,8.4405,-10.85,Sierra Leone,SLE,87539
+Gitarama,-2.0696,29.76,Rwanda,RWA,87613
+Zilina,49.2198,18.7494,Slovakia,SVK,87625
+Edinburg,26.3183,-98.1622,United States,USA,87650
+Pergamino,-33.8996,-60.57,Argentina,ARG,87652
+Uman,48.7543,30.2109,Ukraine,UKR,87658
+Makeni,8.8804,-12.05,Sierra Leone,SLE,87679
+Dalton,34.7688,-84.9711,United States,USA,87688
+Kirkland,47.6996,-122.1982,United States,USA,87701
+Buzuluk,52.7821,52.2618,Russia,RUS,87714
+Napa,38.2982,-122.3011,United States,USA,87733
+San Juan De Los Morros,9.901,-67.354,Venezuela,VEN,87739
+Parepare,-4.0167,119.6333,Indonesia,IDN,87776
+Chino,33.9836,-117.6653,United States,USA,87776
+Canakkale,40.1459,26.4064,Turkey,TUR,87791
+Yeysk,46.6988,38.2634,Russia,RUS,87814
+Surigao,9.7843,125.4888,Philippines,PHL,87832
+Agri,39.7198,43.0513,Turkey,TUR,87854
+Saint John,45.267,-66.0767,Canada,CAN,87857
+Ebolowa,2.9,11.15,Cameroon,CMR,87875
+Madinat ath Thawrah,35.8367,38.5481,Syria,SYR,87880
+Yozgat,39.818,34.815,Turkey,TUR,87881
+Bowling Green,36.9725,-86.4371,United States,USA,87976
+Hawthorne,33.9147,-118.3476,United States,USA,88031
+Coronel Oviedo,-25.45,-56.44,Paraguay,PRY,88101
+Sugar Land,29.5956,-95.6283,United States,USA,88177
+Waukegan,42.3697,-87.8716,United States,USA,88182
+Sao Tome,0.3334,6.7333,Sao Tome And Principe,STP,88219
+Brusque,-27.13,-48.93,Brazil,BRA,88284
+Qal at Bishah,20.0087,42.5987,Saudi Arabia,SAU,88291
+Zhob,31.349,69.4386,Pakistan,PAK,88356
+Auburn,32.6084,-85.4897,United States,USA,88379
+Taldyqorghan,45,78.4,Kazakhstan,KAZ,88380
+Jackson,42.243,-84.4038,United States,USA,88394
+Nova Lima,-19.98,-43.85,Brazil,BRA,88399
+Targoviste,44.938,25.459,Romania,ROU,88435
+Norwalk,41.1144,-73.4215,United States,USA,88438
+Brovary,50.4943,30.7809,Ukraine,UKR,88506
+Menifee,33.6909,-117.1849,United States,USA,88531
+Rapid City,44.0709,-103.22,United States,USA,88533
+Chaman,30.925,66.4463,Pakistan,PAK,88568
+Chosica,-11.93,-76.71,Peru,PER,88606
+Montero,-17.3496,-63.26,Bolivia,BOL,88616
+Norrkoping,58.5954,16.1787,Sweden,SWE,88639
+Rafaela,-31.25,-61.5,Argentina,ARG,88713
+Wangqing,43.3248,129.7343,China,CHN,88732
+Zarate,-34.0896,-59.04,Argentina,ARG,88781
+Shwebo,22.5783,95.6929,Burma,MMR,88914
+Fall River,41.7136,-71.1014,United States,USA,88930
+Missoula,46.8687,-114.0089,United States,USA,89017
+Newton,42.3317,-71.2085,United States,USA,89045
+Valle de la Pascua,9.21,-66.02,Venezuela,VEN,89080
+Sumbawanga,-7.9596,31.62,Tanzania,TZA,89161
+Muncie,40.1989,-85.395,United States,USA,89186
+Tambacounda,13.7804,-13.68,Senegal,SEN,89212
+Suffolk,36.6953,-76.6398,United States,USA,89273
+Hosaina,7.5504,37.85,Ethiopia,ETH,89300
+Fujin,47.2704,132.02,China,CHN,89442
+Lees Summit,38.9172,-94.3816,United States,USA,89467
+Chester,53.2,-2.92,United Kingdom,GBR,89531
+Vlore,40.4774,19.4982,Albania,ALB,89546
+Decatur,39.8555,-88.9337,United States,USA,89653
+Santana do Livramento,-30.88,-55.53,Brazil,BRA,89694
+Jonkoping,57.7713,14.165,Sweden,SWE,89780
+Yegoryevsk,55.3848,39.0294,Russia,RUS,89795
+Livermore,37.6863,-121.7607,United States,USA,89840
+Francistown,-21.17,27.5,Botswana,BWA,89979
+Limerick,52.6647,-8.6231,Ireland,IRL,90054
+Buea,4.155,9.231,Cameroon,CMR,90088
+Fishers,39.959,-85.968,United States,USA,90127
+Barahona,18.2004,-71.1,Dominican Republic,DOM,90128
+Mbabane,-26.3167,31.1333,Swaziland,SWZ,90138
+Reconquista,-29.1395,-59.65,Argentina,ARG,90184
+Kirovo-Chepetsk,58.5544,50.0444,Russia,RUS,90252
+Itanhaem,-24.18,-46.8,Brazil,BRA,90385
+San Leandro,37.7071,-122.1601,United States,USA,90465
+Gatchina,59.5707,30.1333,Russia,RUS,90486
+Phetchaburi,13.1133,99.9412,Thailand,THA,90497
+Hanford,36.326,-119.6539,United States,USA,90515
+Klagenfurt,46.6203,14.31,Austria,AUT,90610
+Moncton,46.0833,-64.7667,Canada,CAN,90635
+Drammen,59.7572,10.1907,Norway,NOR,90722
+Cuauhtemoc,28.4257,-106.8696,Mexico,MEX,90835
+Chauk,20.9085,94.823,Burma,MMR,90870
+Luleburgaz,41.4067,27.3552,Turkey,TUR,90899
+Nigde,37.976,34.694,Turkey,TUR,91039
+Carmel,39.9658,-86.1461,United States,USA,91065
+Pingdu,36.7904,119.94,China,CHN,91077
+Muriae,-21.13,-42.39,Brazil,BRA,91173
+Edmond,35.6689,-97.4159,United States,USA,91191
+Portsmouth,43.058,-70.7826,United States,USA,91193
+Kendu Bay,-0.3596,34.64,Kenya,KEN,91248
+Mons,50.446,3.939,Belgium,BEL,91277
+Albany,31.5776,-84.1762,United States,USA,91284
+Helsingborg,56.0505,12.7,Sweden,SWE,91304
+Tecoman,18.9204,-103.88,Mexico,MEX,91321
+Novoaltaysk,53.3993,83.9588,Russia,RUS,91386
+Dover,43.1887,-70.8845,United States,USA,91514
+Grahamstown,-33.2996,26.52,South Africa,ZAF,91548
+Westminster,33.7523,-117.9938,United States,USA,91565
+Arezzo,43.4617,11.875,Italy,ITA,91589
+Lafayette,39.9946,-105.0996,United States,USA,91767
+Cabinda,-5.5596,12.19,Angola,AGO,91791
+Kilosa,-6.8396,36.99,Tanzania,TZA,91889
+Bugulma,54.5543,52.7943,Russia,RUS,91900
+Kuopio,62.8943,27.6949,Finland,FIN,91900
+Miami Beach,25.8171,-80.1396,United States,USA,91917
+Danjiangkou,32.52,111.5,China,CHN,92008
+Kohima,25.667,94.1166,India,IND,92113
+Eregli,37.5063,34.0517,Turkey,TUR,92117
+Ciudad Guzman,19.7104,-103.46,Mexico,MEX,92161
+Calais,50.9504,1.8333,France,FRA,92201
+Tubarao,-28.48,-49.02,Brazil,BRA,92275
+Dhangarhi,28.695,80.593,Nepal,NPL,92294
+Lawton,34.6171,-98.4204,United States,USA,92299
+Itaituba,-4.2586,-55.925,Brazil,BRA,92308
+Santiago de Compostela,42.8829,-8.5411,Spain,ESP,92430
+Villa Maria,-32.41,-63.26,Argentina,ARG,92453
+Maizuru,35.4504,135.3333,Japan,JPN,92465
+Fuan,27.0704,119.62,China,CHN,92470
+Tulcea,45.1993,28.7967,Romania,ROU,92475
+Santa Monica,34.0232,-118.4813,United States,USA,92478
+Patos,-7.0196,-37.29,Brazil,BRA,92575
+Florence,34.1782,-79.785,United States,USA,92614
+Foumban,5.7304,10.9,Cameroon,CMR,92673
+Lynn,42.4778,-70.9662,United States,USA,92697
+Plantation,26.126,-80.2617,United States,USA,92706
+Sampit,-2.5329,112.95,Indonesia,IDN,92710
+Quibdo,5.6904,-76.66,Colombia,COL,92780
+Carson,33.8374,-118.2559,United States,USA,92797
+Toowoomba,-27.5645,151.9555,Australia,AUS,92800
+Rosenheim,47.8503,12.1333,Germany,DEU,92809
+Terre Haute,39.4654,-87.3763,United States,USA,92841
+Wukari,7.8704,9.78,Nigeria,NGA,92933
+Coronel,-37.03,-73.16,Chile,CHL,92940
+Kineshma,57.47,42.13,Russia,RUS,92983
+Ho,6.6004,0.47,Ghana,GHA,93044
+Noumea,-22.2625,166.4443,New Caledonia,NCL,93060
+Darwin,-12.4254,130.85,Australia,AUS,93080
+Bafang,5.1704,10.18,Cameroon,CMR,93145
+Bath,51.3837,-2.35,United Kingdom,GBR,93238
+Sheberghan,36.658,65.7383,Afghanistan,AFG,93241
+Polatli,39.5842,32.1472,Turkey,TUR,93262
+Daan,45.5,124.3,China,CHN,93297
+Nazran,43.233,44.783,Russia,RUS,93357
+Trelew,-43.25,-65.33,Argentina,ARG,93442
+Michurinsk,52.9,40.5,Russia,RUS,93499
+Blacksburg,37.23,-80.4277,United States,USA,93560
+Tatui,-23.35,-47.86,Brazil,BRA,93580
+Manzhouli,49.6,117.43,China,CHN,93620
+Samandagi,36.1171,35.9333,Turkey,TUR,93638
+Quincy,42.2516,-71.0183,United States,USA,93688
+Hesperia,34.3974,-117.3144,United States,USA,93724
+Sunrise,26.1547,-80.2998,United States,USA,93734
+Malindi,-3.21,40.1,Kenya,KEN,94016
+Livonia,42.3972,-83.3733,United States,USA,94041
+Usti Nad Labem,50.663,14.081,Czechia,CZE,94105
+Yishui,35.7904,118.62,China,CHN,94115
+Lagos de Moreno,21.3704,-101.93,Mexico,MEX,94127
+Prescott Valley,34.5983,-112.3178,United States,USA,94154
+Al Fujayrah,25.1234,56.3375,United Arab Emirates,ARE,94163
+Novy Urengoy,66.0833,76.6332,Russia,RUS,94212
+Bento Goncalves,-29.1695,-51.52,Brazil,BRA,94271
+Tracy,37.7254,-121.4447,United States,USA,94277
+Slidell,30.2881,-89.7828,United States,USA,94320
+Ponta Pora,-22.53,-55.73,Brazil,BRA,94331
+Kirsehir,39.142,34.171,Turkey,TUR,94336
+Dearborn,42.3127,-83.213,United States,USA,94444
+Roswell,34.0391,-84.3513,United States,USA,94598
+Presov,48.9997,21.2394,Slovakia,SVK,94718
+Nowra,-34.8828,150.6,Australia,AUS,94781
+Naxcivan,39.2092,45.4122,Azerbaijan,AZE,94788
+Dobrich,43.5851,27.84,Bulgaria,BGR,94831
+Vineland,39.4652,-74.9981,United States,USA,94943
+Latacunga,-0.9296,-78.61,Ecuador,ECU,94972
+Biu,10.6204,12.19,Nigeria,NGA,95005
+Al Aqabah,29.527,35.0777,Jordan,JOR,95048
+Osijek,45.5504,18.68,Croatia,HRV,95077
+Juazeiro,-9.42,-40.5,Brazil,BRA,95132
+Hradec Kralove,50.206,15.812,Czechia,CZE,95195
+Catanzaro,38.9004,16.6,Italy,ITA,95251
+Portsmouth,36.8468,-76.354,United States,USA,95252
+Boli,45.7564,130.5759,China,CHN,95260
+San Marcos,33.135,-117.1743,United States,USA,95261
+Magadan,59.575,150.81,Russia,RUS,95282
+San Carlos de Bariloche,-41.15,-71.3,Argentina,ARG,95394
+Guliston,40.4957,68.7907,Uzbekistan,UZB,95520
+South Gate,33.9448,-118.1926,United States,USA,95538
+Kuznetsk,53.1204,46.6,Russia,RUS,95574
+Mandeville,30.375,-90.0906,United States,USA,95576
+Meridian,43.6182,-116.398,United States,USA,95623
+Brockton,42.0821,-71.0242,United States,USA,95630
+Manteca,37.7938,-121.2271,United States,USA,95797
+Lawrence,38.9603,-95.2643,United States,USA,95800
+Mekele,13.5,39.47,Ethiopia,ETH,95856
+Bolzano,46.5004,11.36,Italy,ITA,95895
+Sungaipenuh,-2.0631,101.3964,Indonesia,IDN,95913
+Aurangabad,24.7704,84.38,India,IND,95929
+Yola,9.21,12.48,Nigeria,NGA,96006
+Rio Rancho,35.2873,-106.6979,United States,USA,96028
+Erechim,-27.63,-52.27,Brazil,BRA,96087
+Boca Raton,26.3749,-80.1078,United States,USA,96114
+Idaho Falls,43.4878,-112.0359,United States,USA,96166
+Kelo,9.3171,15.8,Chad,TCD,96224
+Spokane Valley,47.6625,-117.2345,United States,USA,96340
+Sliven,42.6794,26.33,Bulgaria,BGR,96368
+Half Way Tree,18.0333,-76.8,Jamaica,JAM,96494
+Corumba,-19.016,-57.65,Brazil,BRA,96520
+Yen Bai,21.705,104.875,Vietnam,VNM,96540
+Araguari,-18.64,-48.2,Brazil,BRA,96565
+Mtwara,-10.2696,40.19,Tanzania,TZA,96602
+Bolu,40.7363,31.6061,Turkey,TUR,96629
+Schwerin,53.6333,11.4167,Germany,DEU,96641
+Linkoping,58.41,15.6299,Sweden,SWE,96732
+Federal Way,47.3091,-122.3358,United States,USA,96757
+Bunia,1.5604,30.24,Congo (Kinshasa),COD,96764
+Yasuj,30.659,51.594,Iran,IRN,96786
+Shostka,51.8734,33.4797,Ukraine,UKR,96825
+Bismarck,46.8127,-100.7694,United States,USA,96857
+Guasave,25.5705,-108.47,Mexico,MEX,96860
+Shangzhi,45.2204,127.97,China,CHN,96980
+Targu Jiu,45.045,23.274,Romania,ROU,97179
+San Carlos del Zulia,9.0104,-71.92,Venezuela,VEN,97288
+Turkistan,43.3016,68.2549,Kazakhstan,KAZ,97360
+Az Zahran,26.2914,50.1583,Saudi Arabia,SAU,97446
+Bafra,41.5682,35.9069,Turkey,TUR,97452
+Orem,40.2988,-111.699,United States,USA,97499
+Arapongas,-23.41,-51.43,Brazil,BRA,97512
+Trindade,-16.65,-49.5,Brazil,BRA,97521
+Compton,33.893,-118.2275,United States,USA,97550
+Beaverton,45.4779,-122.8168,United States,USA,97590
+L'Ariana,36.8667,10.2,Tunisia,TUN,97687
+Mangochi,-14.4596,35.27,Malawi,MWI,97711
+Slavonski Brod,45.1603,18.0156,Croatia,HRV,97718
+Middletown,39.5032,-84.3659,United States,USA,97742
+Ourinhos,-22.97,-49.87,Brazil,BRA,97799
+Ozamis,8.1462,123.8444,Philippines,PHL,97806
+Uba,-21.1196,-42.95,Brazil,BRA,97828
+Longmont,40.1691,-105.0995,United States,USA,97835
+Atlixco,18.9,-98.45,Mexico,MEX,97842
+Zheleznogorsk,52.3548,35.4044,Russia,RUS,97900
+Flensburg,54.7837,9.4333,Germany,DEU,97930
+Iseyin,7.97,3.59,Nigeria,NGA,98071
+Balashov,51.5535,43.1631,Russia,RUS,98107
+Jyvaskyla,62.2603,25.75,Finland,FIN,98136
+Sparks,39.5727,-119.7131,United States,USA,98345
+Apatzingan,19.08,-102.35,Mexico,MEX,98422
+Serov,59.615,60.585,Russia,RUS,98438
+Orebro,59.2803,15.22,Sweden,SWE,98573
+Votkinsk,57.0304,53.99,Russia,RUS,98633
+Thimphu,27.473,89.639,Bhutan,BTN,98676
+Passos,-20.71,-46.61,Brazil,BRA,98752
+Kontagora,10.4004,5.4699,Nigeria,NGA,98754
+Lahti,60.9939,25.6649,Finland,FIN,98826
+Ceske Budejovice,48.98,14.46,Czechia,CZE,98851
+Kericho,-0.3596,35.28,Kenya,KEN,98852
+Giresun,40.913,38.39,Turkey,TUR,98864
+Vacaville,38.3592,-121.9686,United States,USA,99059
+Talara,-4.58,-81.28,Peru,PER,99074
+Tuapse,44.1148,39.0644,Russia,RUS,99145
+Kwekwe,-18.9296,29.8,Zimbabwe,ZWE,99149
+Fengzhen,40.4547,113.1443,China,CHN,99174
+Allen,33.1087,-96.6735,United States,USA,99179
+Bam,29.1077,58.362,Iran,IRN,99268
+Thika,-1.0396,37.09,Kenya,KEN,99322
+Thunder Bay,48.4462,-89.275,Canada,CAN,99334
+Choluteca,13.3007,-87.1908,Honduras,HND,99429
+Galle,6.03,80.24,Sri Lanka,LKA,99478
+Novoshakhtinsk,47.77,39.92,Russia,RUS,99478
+Wichita Falls,33.9072,-98.5293,United States,USA,99596
+Zelenodolsk,55.8406,48.655,Russia,RUS,99600
+Bend,44.0562,-121.3087,United States,USA,99634
+Charlottesville,38.0374,-78.4856,United States,USA,99664
+Urgut,39.4007,67.2607,Uzbekistan,UZB,99675
+Tumen,42.97,129.8201,China,CHN,99721
+Chanthaburi,12.6133,102.0979,Thailand,THA,99819
+Tsuruoka,38.7004,139.8302,Japan,JPN,99820
+Logan,41.7403,-111.8418,United States,USA,99909
+Arlit,18.82,7.33,Niger,NER,100000
+Subotica,46.07,19.68,Serbia,SRB,100000
+Chamdo,31.1667,97.2333,China,CHN,100000
+Isna,25.2904,32.5499,Egypt,EGY,100000
+Lida,53.8885,25.2846,Belarus,BLR,100216
+Sabha,27.0333,14.4333,Libya,LBY,100249
+Ust-Ulimsk,57.99,102.6333,Russia,RUS,100271
+Magangue,9.23,-74.74,Colombia,COL,100313
+Sakata,38.92,139.8501,Japan,JPN,100446
+San Angelo,31.4424,-100.4503,United States,USA,100472
+Kpalime,6.9004,0.63,Togo,TGO,100479
+Bukoba,-1.3196,31.8,Tanzania,TZA,100504
+Ancona,43.6004,13.4999,Italy,ITA,100507
+Temple,31.1077,-97.3899,United States,USA,100641
+Glazov,58.1232,52.6288,Russia,RUS,100676
+Solikamsk,59.67,56.75,Russia,RUS,100812
+Oum el Bouaghi,35.85,7.15,Algeria,DZA,100821
+Longview,32.5192,-94.7622,United States,USA,100852
+Novara,45.45,8.62,Italy,ITA,100910
+Renton,47.4757,-122.1904,United States,USA,100953
+Tartu,58.3839,26.7099,Estonia,EST,101092
+Vanadzor,40.8128,44.4883,Armenia,ARM,101098
+Duitama,5.8305,-73.02,Colombia,COL,101156
+Kilchu,40.9604,129.3204,"Korea, North",PRK,101165
+Teofilo Otoni,-17.87,-41.5,Brazil,BRA,101170
+Barretos,-20.55,-48.58,Brazil,BRA,101220
+Olomouc,49.63,17.25,Czechia,CZE,101268
+Maladzyechna,54.3188,26.8653,Belarus,BLR,101300
+Sarapul,56.4791,53.7987,Russia,RUS,101344
+Holland,42.7676,-86.0984,United States,USA,101421
+Kansk,56.19,95.71,Russia,RUS,101502
+Dera Ismail Khan,31.829,70.8986,Pakistan,PAK,101616
+Ibri,23.2254,56.517,Oman,OMN,101640
+Teluk Intan,4.0119,101.0314,Malaysia,MYS,101659
+Vista,33.1895,-117.2386,United States,USA,101659
+Bontang,0.1333,117.5,Indonesia,IDN,101691
+Jacksonville,34.7323,-77.3962,United States,USA,101865
+Davie,26.0789,-80.287,United States,USA,101871
+Bethal,-26.4696,29.45,South Africa,ZAF,101919
+League City,29.4873,-95.109,United States,USA,102010
+Liberec,50.8,15.08,Czechia,CZE,102175
+Ukhta,63.56,53.69,Russia,RUS,102187
+Lower Hutt,-41.2037,174.9123,New Zealand,NZL,102400
+Houma,35.62,111.21,China,CHN,102400
+La Crosse,43.8234,-91.2279,United States,USA,102427
+Grudziadz,53.4804,18.75,Poland,POL,102443
+Roxas,11.5853,122.7511,Philippines,PHL,102688
+Piatra-Neamt,46.94,26.383,Romania,ROU,102688
+Pakxe,15.1221,105.8183,Laos,LAO,102775
+Pedro Juan Caballero,-22.5446,-55.76,Paraguay,PRY,102787
+Palma Soriano,20.2172,-75.9988,Cuba,CUB,102826
+Velikiye Luki,56.32,30.52,Russia,RUS,103149
+Vinh Long,10.256,105.964,Vietnam,VNM,103314
+Rialto,34.1128,-117.3885,United States,USA,103314
+Hidalgo del Parral,26.9334,-105.6666,Mexico,MEX,103378
+Guaymas,27.93,-110.89,Mexico,MEX,103449
+Matruh,31.3504,27.23,Egypt,EGY,103470
+Perabumulih,-3.4432,104.2315,Indonesia,IDN,103470
+Konotop,51.2424,33.209,Ukraine,UKR,103547
+Gardiz,33.6001,69.2146,Afghanistan,AFG,103601
+Biak,-1.1615,136.0485,Indonesia,IDN,103610
+Ahar,38.4829,47.0629,Iran,IRN,103639
+Kilinochchi,9.4004,80.3999,Sri Lanka,LKA,103717
+El Cajon,32.8017,-116.9604,United States,USA,103768
+Loubomo,-4.1796,12.67,Congo (Brazzaville),COG,103894
+EdDamer,17.59,33.96,Sudan,SDN,103941
+San Mateo,37.5522,-122.3122,United States,USA,103959
+Kroonstad,-27.66,27.21,South Africa,ZAF,103992
+Kiselevsk,54,86.64,Russia,RUS,104000
+Abengourou,6.7304,-3.49,C����,CIV,104020
+Adigrat,14.2804,39.47,Ethiopia,ETH,104021
+Al Qamishli,37.03,41.23,Syria,SYR,104107
+Albury,-36.06,146.92,Australia,AUS,104258
+Maumere,-8.6189,122.2123,Indonesia,IDN,104285
+San Antonio,-33.5995,-71.61,Chile,CHL,104292
+Chico,39.7568,-121.816,United States,USA,104302
+Tandil,-37.32,-59.15,Argentina,ARG,104325
+Zhezqazghan,47.78,67.77,Kazakhstan,KAZ,104357
+Mmabatho,-25.83,25.61,South Africa,ZAF,104428
+Brindisi,40.6403,17.93,Italy,ITA,104437
+Burbank,34.188,-118.3234,United States,USA,104447
+Nong Khai,17.8733,102.7479,Thailand,THA,104505
+Torbat-e Jam,35.2233,60.6129,Iran,IRN,104578
+Gera,50.8704,12.07,Germany,DEU,104659
+Lewisville,33.0453,-96.9823,United States,USA,104659
+Jena,50.9304,11.58,Germany,DEU,104712
+Prijedor,44.9804,16.7,Bosnia And Herzegovina,BIH,104858
+Koutiala,12.3904,-5.47,Mali,MLI,104927
+Cottbus,51.7704,14.33,Germany,DEU,105067
+Linhares,-19.39,-40.05,Brazil,BRA,105075
+Focsani,45.6966,27.1865,Romania,ROU,105112
+Hillsboro,45.5289,-122.9373,United States,USA,105164
+Jizan,16.9066,42.5566,Saudi Arabia,SAU,105198
+Kongolo,-5.3795,26.98,Congo (Kinshasa),COD,105202
+Granada,11.9337,-85.95,Nicaragua,NIC,105219
+Hoa Binh,20.8137,105.3383,Vietnam,VNM,105260
+Queenstown,-31.8996,26.88,South Africa,ZAF,105309
+Lugano,46.0004,8.9667,Switzerland,CHE,105388
+Fresnillo,23.1704,-102.86,Mexico,MEX,105488
+Kon Tum,14.3838,107.9833,Vietnam,VNM,105489
+Assab,13.01,42.73,Eritrea,ERI,105496
+Sadah,16.9398,43.8498,Yemen,YEM,105542
+Lahad Datu,5.0464,118.336,Malaysia,MYS,105622
+Azare,11.6804,10.19,Nigeria,NGA,105687
+Salto,-31.3903,-57.9687,Uruguay,URY,105690
+Sandy Springs,33.9366,-84.3703,United States,USA,105703
+Annecy,45.9,6.1167,France,FRA,105749
+Suceava,47.6377,26.2593,Romania,ROU,105796
+Derbent,42.0578,48.2774,Russia,RUS,105965
+Bage,-31.32,-54.1,Brazil,BRA,106098
+Turlock,37.5053,-120.8588,United States,USA,106100
+Raba,-8.45,118.7666,Indonesia,IDN,106101
+Norwalk,33.9069,-118.0829,United States,USA,106178
+Novotroitsk,51.2,58.33,Russia,RUS,106186
+Namur,50.4704,4.87,Belgium,BEL,106284
+Longjiang,47.3404,123.18,China,CHN,106384
+Daly City,37.6863,-122.4684,United States,USA,106472
+Drobeta-Turnu Severin,44.6459,22.6659,Romania,ROU,106578
+Coimbra,40.2004,-8.4167,Portugal,PRT,106582
+Clovis,36.8283,-119.6851,United States,USA,106583
+Douliou,23.7075,120.5439,Taiwan,TWN,106653
+Eau Claire,44.8202,-91.4948,United States,USA,106681
+Sioux City,42.4959,-96.3901,United States,USA,106740
+Kandalaksha,67.1643,32.4144,Russia,RUS,106798
+Taungoo,18.9483,96.4179,Burma,MMR,106945
+Elista,46.3287,44.2087,Russia,RUS,106971
+Ratchaburi,13.5419,99.8215,Thailand,THA,106996
+Salisbury,38.3755,-75.5883,United States,USA,107026
+Pardubice,50.0404,15.76,Czechia,CZE,107064
+Apucarana,-23.55,-51.47,Brazil,BRA,107085
+Golmud,36.4166,94.8833,China,CHN,107092
+Ilebo,-4.3196,20.61,Congo (Kinshasa),COD,107093
+Louangphrabang,19.8845,102.1416,Laos,LAO,107142
+Chapayevsk,52.9743,49.7243,Russia,RUS,107164
+Vasteraas,59.63,16.54,Sweden,SWE,107194
+Luxembourg,49.6117,6.13,Luxembourg,LUX,107260
+Shinyanga,-3.6596,33.42,Tanzania,TZA,107362
+Obninsk,55.0804,36.62,Russia,RUS,107392
+Broken Arrow,36.0367,-95.7808,United States,USA,107403
+Koszalin,54.2,16.1833,Poland,POL,107450
+Rimnicu Vilcea,45.11,24.383,Romania,ROU,107558
+Kogon,39.7211,64.5458,Uzbekistan,UZB,107566
+Escuintla,15.33,-92.63,Mexico,MEX,107638
+Escuintla,14.3004,-90.78,Guatemala,GTM,107638
+Trento,46.0804,11.12,Italy,ITA,107808
+Barletta,41.32,16.27,Italy,ITA,107830
+Esteli,13.09,-86.36,Nicaragua,NIC,107839
+West Covina,34.0555,-117.9112,United States,USA,107847
+En Nuhud,12.6904,28.42,Sudan,SDN,108008
+West Palm Beach,26.7468,-80.1315,United States,USA,108161
+Birnin Kebbi,12.4504,4.1999,Nigeria,NGA,108164
+Oktyabrskiy,54.46,53.46,Russia,RUS,108200
+Mascara,35.4004,0.14,Algeria,DZA,108230
+Kyzyl,51.7067,94.3831,Russia,RUS,108240
+Nehe,48.49,124.88,China,CHN,108253
+Burlington,44.4877,-73.2314,United States,USA,108331
+Trincomalee,8.569,81.233,Sri Lanka,LKA,108420
+Mopti,14.49,-4.18,Mali,MLI,108456
+Kaposvar,46.367,17.8,Hungary,HUN,108528
+Karamay,45.5899,84.8599,China,CHN,108769
+Soubre,5.7904,-6.61,C����,CIV,108933
+Leninsk Kuznetsky,54.66,86.17,Russia,RUS,109023
+Everett,47.9524,-122.1672,United States,USA,109043
+Tuxpam,20.9604,-97.41,Mexico,MEX,109049
+Pottstown,40.2508,-75.6445,United States,USA,109052
+Matagalpa,12.9171,-85.9167,Nicaragua,NIC,109089
+San Rafael,-34.6,-68.3333,Argentina,ARG,109163
+Tumbes,-3.57,-80.46,Peru,PER,109223
+Sergiyev Posad,56.33,38.17,Russia,RUS,109252
+Szolnok,47.1864,20.1794,Hungary,HUN,109261
+North Charleston,32.9086,-80.0705,United States,USA,109298
+Pompano Beach,26.2428,-80.1312,United States,USA,109393
+Siem Reap,13.3666,103.85,Cambodia,KHM,109398
+Heihe,50.25,127.446,China,CHN,109427
+Szombathely,47.2253,16.6287,Hungary,HUN,109518
+Catanduva,-21.14,-48.98,Brazil,BRA,109612
+Ipiales,0.8304,-77.65,Colombia,COL,109618
+Tieli,46.9504,128.05,China,CHN,109636
+Dali,34.7953,109.9378,China,CHN,109696
+Kandi,11.1304,2.94,Benin,BEN,109701
+Richmond,37.9477,-122.339,United States,USA,109813
+Lichinga,-13.3,35.24,Mozambique,MOZ,109839
+Hailun,47.4504,126.93,China,CHN,109881
+Centennial,39.5927,-104.8674,United States,USA,109932
+Bataysk,47.1368,39.7449,Russia,RUS,109962
+Milagro,-2.1796,-79.6,Ecuador,ECU,109970
+David,8.4333,-82.4333,Panama,PAN,110037
+Linqing,36.8504,115.68,China,CHN,110046
+Garanhuns,-8.89,-36.5,Brazil,BRA,110085
+Bouira,36.3805,3.9,Algeria,DZA,110144
+Mzuzu,-11.46,34.02,Malawi,MWI,110201
+Santa Fe,35.6619,-105.9818,United States,USA,110208
+Manzini,-26.495,31.388,Swaziland,SWZ,110537
+Yaynangyoung,20.4615,94.881,Burma,MMR,110553
+Lowell,42.6389,-71.3217,United States,USA,110558
+Noyabrsk,63.1665,75.6165,Russia,RUS,110572
+Volos,39.37,22.95,Greece,GRC,110632
+Pemba,-12.983,40.5323,Mozambique,MOZ,110643
+Cambridge,42.3758,-71.1184,United States,USA,110651
+Inglewood,33.9566,-118.3444,United States,USA,110654
+Manzanillo,19.0496,-104.3231,Mexico,MEX,110735
+Balkanabat,39.5124,54.3649,Turkmenistan,TKM,110827
+Gilroy,37.0048,-121.5843,United States,USA,111004
+Nguru,12.8804,10.45,Nigeria,NGA,111014
+Nsukka,6.867,7.3834,Nigeria,NGA,111017
+Algeciras,36.1267,-5.4665,Spain,ESP,111027
+Saint George,37.0769,-113.5771,United States,USA,111090
+Jawhar,2.767,45.5166,Somalia,SOM,111308
+Santa Rosa,-36.62,-64.3,Argentina,ARG,111424
+Magelang,-7.4696,110.18,Indonesia,IDN,111461
+Kuqa,41.7277,82.9364,China,CHN,111499
+Gresham,45.5023,-122.4414,United States,USA,111523
+Daugavpils,55.88,26.51,Latvia,LVA,111564
+Conselheiro Lafaiete,-20.67,-43.79,Brazil,BRA,111596
+Kandy,7.28,80.67,Sri Lanka,LKA,111701
+El Centro,32.7873,-115.5578,United States,USA,111733
+Zwolle,52.524,6.097,Netherlands,NLD,111805
+Iringa,-7.7696,35.69,Tanzania,TZA,111820
+Nakhon Sawan,15.7,100.07,Thailand,THA,111915
+Juba,4.83,31.58,South Sudan,SSD,111975
+Coeur d'Alene,47.7041,-116.7928,United States,USA,112088
+Iguala,18.37,-99.54,Mexico,MEX,112106
+Elgin,42.0385,-88.3227,United States,USA,112123
+Mazyr,52.046,29.2722,Belarus,BLR,112137
+Guanajuato,21.0204,-101.28,Mexico,MEX,112200
+Satu Mare,47.792,22.885,Romania,ROU,112490
+Mojokerto,-7.4696,112.43,Indonesia,IDN,112557
+Shaowu,27.3004,117.5,China,CHN,112585
+Nefteyugansk,61.0777,72.7027,Russia,RUS,112632
+Waterloo,42.492,-92.3522,United States,USA,112635
+Costa Mesa,33.6667,-117.9135,United States,USA,112822
+Tokmak,42.8299,75.2846,Kyrgyzstan,KGZ,112860
+Male,4.1667,73.4999,Maldives,MDV,112927
+Temecula,33.4928,-117.1315,United States,USA,113054
+Miami Gardens,25.9433,-80.2425,United States,USA,113058
+Exeter,50.7004,-3.53,United Kingdom,GBR,113118
+Kitami,43.8504,143.9,Japan,JPN,113137
+Downey,33.9379,-118.1312,United States,USA,113267
+Kipushi,-11.7596,27.25,Congo (Kinshasa),COD,113347
+Richardson,32.9717,-96.7092,United States,USA,113347
+Praia,14.9167,-23.5167,Cabo Verde,CPV,113364
+Pearland,29.5585,-95.3201,United States,USA,113570
+Santa Cruz do Sul,-29.71,-52.44,Brazil,BRA,113625
+Saint Cloud,45.5339,-94.1718,United States,USA,113649
+Baerum,59.9135,11.3472,Norway,NOR,113659
+West Jordan,40.6024,-112.0008,United States,USA,113699
+Curico,-34.98,-71.24,Chile,CHL,113711
+Tobolsk,58.1998,68.2648,Russia,RUS,113800
+Texas City,29.4127,-94.9658,United States,USA,113847
+Botucatu,-22.8796,-48.45,Brazil,BRA,113862
+Laghouat,33.81,2.88,Algeria,DZA,113872
+Westminster,39.8837,-105.0627,United States,USA,113875
+Kecskemet,46.9,19.7,Hungary,HUN,113895
+Zhijiang,27.4409,109.678,China,CHN,113907
+Carlsbad,33.1246,-117.2836,United States,USA,113952
+Kankan,10.39,-9.31,Guinea,GIN,114009
+Siirt,37.944,41.933,Turkey,TUR,114034
+Bloomington,39.1637,-86.5257,United States,USA,114140
+Kingston,44.2337,-76.4833,Canada,CAN,114195
+Maribor,46.5405,15.65,Slovenia,SVN,114228
+Kuito,-12.38,16.94,Angola,AGO,114286
+Valparai,10.3204,76.97,India,IND,114308
+Shashemene,7.2004,38.59,Ethiopia,ETH,114350
+Utica,43.0961,-75.226,United States,USA,114350
+Clearwater,27.9787,-82.7623,United States,USA,114361
+Norman,35.2335,-97.3471,United States,USA,114444
+Giyon,8.5304,37.97,Ethiopia,ETH,114534
+Kamyanets-Podilskyy,48.6843,26.5809,Ukraine,UKR,114658
+Delicias,28.2,-105.5,Mexico,MEX,114783
+Botosani,47.7484,26.6597,Romania,ROU,114783
+Ciudad Valles,21.98,-99.02,Mexico,MEX,114964
+Rochester,44.0152,-92.4776,United States,USA,114976
+Tuguegarao,17.6131,121.7269,Philippines,PHL,115105
+Nabeul,36.4603,10.73,Tunisia,TUN,115149
+Kulob,37.9212,69.7757,Tajikistan,TJK,115164
+Pouso Alegre,-22.22,-45.94,Brazil,BRA,115201
+Goulimine,28.98,-10.07,Morocco,MAR,115267
+Abilene,32.4543,-99.7384,United States,USA,115285
+Toliara,-23.3568,43.69,Madagascar,MDG,115319
+Rock Hill,34.9413,-81.026,United States,USA,115755
+Inhambane,-23.858,35.3398,Mozambique,MOZ,115776
+El Monte,34.0739,-118.0291,United States,USA,115807
+Sri Jawewardenepura Kotte,6.9,79.95,Sri Lanka,LKA,115826
+Buizhou,37.3704,118.02,China,CHN,115893
+Yelets,52.58,38.5,Russia,RUS,115919
+Tahoua,14.9,5.2599,Niger,NER,115956
+Navajoa,27.0819,-109.4546,Mexico,MEX,116093
+Dover,39.16,-75.5204,United States,USA,116114
+Cherkessk,44.2904,42.06,Russia,RUS,116224
+Boke,10.94,-14.3,Guinea,GIN,116270
+Yakeshi,49.2804,120.73,China,CHN,116284
+Nizhyn,51.0541,31.8903,Ukraine,UKR,116288
+Jaen,37.7704,-3.8,Spain,ESP,116400
+Puno,-15.8329,-70.0333,Peru,PER,116552
+Taonan,45.3304,122.78,China,CHN,116611
+Huanren,41.2563,125.346,China,CHN,116621
+Kingsport,36.522,-82.5452,United States,USA,116745
+Port-Gentil,-0.72,8.78,Gabon,GAB,116836
+Iowa City,41.6558,-91.5304,United States,USA,116891
+Gao,16.2666,-0.05,Mali,MLI,116967
+Independence,39.0871,-94.3503,United States,USA,117030
+Kindia,10.06,-12.87,Guinea,GIN,117062
+Nkongsamba,4.9604,9.94,Cameroon,CMR,117063
+Chiang Rai,19.9119,99.8265,Thailand,THA,117127
+Calabozo,8.9304,-67.44,Venezuela,VEN,117132
+Vyborg,60.7039,28.7549,Russia,RUS,117201
+Langsa,4.6736,97.9664,Indonesia,IDN,117256
+San Martin,-33.07,-68.49,Argentina,ARG,117399
+Punta Arenas,-53.165,-70.94,Chile,CHL,117430
+Arvada,39.8321,-105.1508,United States,USA,117453
+Anaco,9.44,-64.46,Venezuela,VEN,117596
+Achinsk,56.27,90.5,Russia,RUS,117634
+Monroe,32.5184,-92.0775,United States,USA,117673
+Dunedin,-45.8854,170.491,New Zealand,NZL,117700
+Jalingo,8.9004,11.36,Nigeria,NGA,117757
+Agadez,16.9959,7.9828,Niger,NER,117770
+Sokode,8.9905,1.15,Togo,TGO,117811
+Nakhon Pathom,13.818,100.064,Thailand,THA,117927
+Setubal,38.53,-8.9,Portugal,PRT,117974
+Ourense,42.33,-7.87,Spain,ESP,118107
+Bama,11.5204,13.69,Nigeria,NGA,118121
+Bandundu,-3.31,17.38,Congo (Kinshasa),COD,118211
+Berdyansk,46.7568,36.7868,Ukraine,UKR,118284
+Tongren,27.6804,109.13,China,CHN,118290
+Qomsheh,32.0115,51.8597,Iran,IRN,118301
+Anuradhapura,8.35,80.3833,Sri Lanka,LKA,118302
+Zielona Gora,51.9504,15.5,Poland,POL,118433
+Seaside,36.6224,-121.8191,United States,USA,118670
+Pleven,43.4238,24.6134,Bulgaria,BGR,118675
+Udine,46.07,13.24,Italy,ITA,119009
+Tetovo,42.0092,20.9701,Macedonia,MKD,119132
+Jau,-22.2896,-48.57,Brazil,BRA,119206
+Leominster,42.5209,-71.7717,United States,USA,119538
+Trois Rivieres,46.35,-72.5499,Canada,CAN,119693
+Maxixe,-23.866,35.3886,Mozambique,MOZ,119868
+Puerto Plata,19.7902,-70.6902,Dominican Republic,DOM,119897
+Huanghua,38.3704,117.33,China,CHN,120000
+Larache,35.2004,-6.16,Morocco,MAR,120082
+Saginaw,43.4199,-83.95,United States,USA,120088
+Yuba City,39.1357,-121.6381,United States,USA,120159
+Manbij,36.5266,37.9563,Syria,SYR,120169
+Redding,40.5698,-122.365,United States,USA,120288
+Karaman,37.1815,33.215,Turkey,TUR,120399
+Duluth,46.7797,-92.1334,United States,USA,120418
+Sassari,40.73,8.57,Italy,ITA,120729
+Round Rock,30.5253,-97.6659,United States,USA,120892
+Xilinhot,43.9443,116.0443,China,CHN,120965
+Olmaliq,40.8504,69.595,Uzbekistan,UZB,121207
+Berkeley,37.8723,-122.276,United States,USA,121240
+Nancha,47.1364,129.2859,China,CHN,121367
+Tauranga,-37.6964,176.1536,New Zealand,NZL,121500
+Billings,45.7892,-108.5498,United States,USA,121550
+Barbacena,-21.22,-43.77,Brazil,BRA,122211
+Aalborg,57.0337,9.9166,Denmark,DNK,122219
+Tekirdag,40.9909,27.51,Turkey,TUR,122287
+Maastricht,50.853,5.677,Netherlands,NLD,122378
+Maina,13.4692,144.7332,Guam,GUM,122411
+Brits,-25.6296,27.78,South Africa,ZAF,122497
+San Fernando de Apure,7.9,-67.4699,Venezuela,VEN,122701
+Pati,-6.7415,111.0347,Indonesia,IDN,122785
+Segou,13.44,-6.26,Mali,MLI,122952
+Jiaohe,43.7163,127.346,China,CHN,123018
+Porto Seguro,-16.4296,-39.08,Brazil,BRA,123173
+Gagnoa,6.1504,-5.88,C����,CIV,123184
+Indramayu,-6.3356,108.319,Indonesia,IDN,123263
+Uruguaiana,-29.7696,-57.09,Brazil,BRA,123480
+South Lyon,42.4613,-83.6526,United States,USA,123555
+Guelma,36.466,7.428,Algeria,DZA,123590
+Siracusa,37.0704,15.29,Italy,ITA,123657
+Potchefstroom,-26.6996,27.1,South Africa,ZAF,123669
+Higuey,18.616,-68.708,Dominican Republic,DOM,123787
+Lynchburg,37.4004,-79.1911,United States,USA,123795
+Bellingham,48.7534,-122.4683,United States,USA,123933
+Rudny,52.9527,63.13,Kazakhstan,KAZ,124000
+Alagoinhas,-12.14,-38.43,Brazil,BRA,124070
+Laiwu,36.2004,117.66,China,CHN,124108
+My Tho,10.3504,106.35,Vietnam,VNM,124143
+Drohobych,49.3444,23.4994,Ukraine,UKR,124269
+Lysychansk,48.9204,38.4274,Ukraine,UKR,124421
+Fasa,28.9718,53.6715,Iran,IRN,124458
+Kenosha,42.5861,-87.8755,United States,USA,124580
+Zlin,49.2304,17.65,Czechia,CZE,124610
+Nueva San Salvador,13.674,-89.29,El Salvador,SLV,124694
+Semnan,35.5548,53.3743,Iran,IRN,124826
+Marv Dasht,29.8014,52.8215,Iran,IRN,125000
+Kelowna,49.9,-119.4833,Canada,CAN,125109
+Ghardaia,32.49,3.67,Algeria,DZA,125480
+Kumbo,6.2204,10.68,Cameroon,CMR,125486
+Sorong,-0.8554,131.285,Indonesia,IDN,125535
+Lubango,-14.91,13.49,Angola,AGO,125632
+Fort Smith,35.3494,-94.3695,United States,USA,125699
+Leeuwarden,53.2504,5.7834,Netherlands,NLD,125778
+Gashua,12.8705,11.04,Nigeria,NGA,125817
+Malanje,-9.54,16.34,Angola,AGO,125856
+Pangkalpinang,-2.08,106.15,Indonesia,IDN,125933
+Santa Clara,37.3646,-121.9679,United States,USA,125948
+Magway,20.1445,94.9196,Burma,MMR,125973
+Montego Bay,18.4667,-77.9167,Jamaica,JAM,126008
+Tengchong,25.0333,98.4666,China,CHN,126058
+Itapetininga,-23.59,-48.04,Brazil,BRA,126243
+Tarragona,41.1204,1.25,Spain,ESP,126291
+Carupano,10.67,-63.23,Venezuela,VEN,126293
+Macheng,31.18,115.03,China,CHN,126366
+Loja,-3.99,-79.21,Ecuador,ECU,126368
+Tay Ninh,11.323,106.147,Vietnam,VNM,126370
+Songea,-10.68,35.65,Tanzania,TZA,126449
+Edirne,41.6704,26.57,Turkey,TUR,126470
+Burlington,36.0761,-79.4692,United States,USA,126491
+Sogamoso,5.72,-72.94,Colombia,COL,126551
+Gafsa,34.4204,8.78,Tunisia,TUN,126803
+Neftekamsk,56.0835,54.2631,Russia,RUS,126805
+Hathras,27.6,78.05,India,IND,126882
+Pakokku,21.332,95.0866,Burma,MMR,126938
+Sancti Spiritus,21.9301,-79.4425,Cuba,CUB,127069
+Johnson City,36.3404,-82.3803,United States,USA,127134
+Boulder,40.0274,-105.2514,United States,USA,127190
+Lafia,8.4904,8.52,Nigeria,NGA,127236
+Simi Valley,34.2663,-118.749,United States,USA,127308
+Alipur Duar,26.4837,89.5667,India,IND,127342
+Wau,7.7,27.99,South Sudan,SSD,127384
+Panevezys,55.74,24.37,Lithuania,LTU,127405
+Greenville,35.5958,-77.3764,United States,USA,127464
+Kent,47.3887,-122.2128,United States,USA,127514
+Elblag,54.19,19.4027,Poland,POL,127558
+Port Blair,11.667,92.736,India,IND,127562
+Tukuyu,-9.2496,33.64,Tanzania,TZA,127570
+Worcester,-33.64,19.4399,South Africa,ZAF,127597
+Braganca Paulista,-22.95,-46.55,Brazil,BRA,127676
+San Nicolas,-33.33,-60.24,Argentina,ARG,127742
+Divo,5.839,-5.36,C����,CIV,127867
+Ekibastuz,51.73,75.3199,Kazakhstan,KAZ,127868
+Darnah,32.7648,22.6391,Libya,LBY,127974
+Al Hasakah,36.4833,40.75,Syria,SYR,128100
+Surt,31.21,16.59,Libya,LBY,128123
+Manzanillo,20.3438,-77.1166,Cuba,CUB,128188
+Girga,26.3304,31.88,Egypt,EGY,128250
+Jima,7.68,36.83,Ethiopia,ETH,128306
+Sakakah,30,40.1333,Saudi Arabia,SAU,128332
+Besancon,47.23,6.03,France,FRA,128426
+Cambridge,52.2004,0.1166,United Kingdom,GBR,128488
+Karabuk,41.2,32.6,Turkey,TUR,128564
+Kamyshin,50.0804,45.4,Russia,RUS,128626
+Elizabeth,40.6655,-74.1918,United States,USA,128640
+Moroni,-11.7042,43.2402,Comoros,COM,128698
+Larissa,39.6304,22.42,Greece,GRC,128758
+Kamina,-8.73,25.01,Congo (Kinshasa),COD,128803
+Xai-Xai,-25.04,33.64,Mozambique,MOZ,128805
+Idlib,35.9297,36.6317,Syria,SYR,128840
+Kokshetau,53.3,69.42,Kazakhstan,KAZ,128873
+Stamford,41.1035,-73.5583,United States,USA,129113
+Shar e Kord,32.321,50.854,Iran,IRN,129153
+Batticaloa,7.717,81.7,Sri Lanka,LKA,129222
+Copiapo,-27.36,-70.34,Chile,CHL,129280
+Tete,-16.17,33.58,Mozambique,MOZ,129316
+Andong,36.5659,128.725,"Korea, South",KOR,129319
+Erzincan,39.7526,39.4928,Turkey,TUR,129407
+Tokat,40.306,36.563,Turkey,TUR,129702
+Baydhabo,3.12,43.65,Somalia,SOM,129839
+Coral Springs,26.2702,-80.2593,United States,USA,130059
+Masaya,11.969,-86.095,Nicaragua,NIC,130113
+Sennar,13.55,33.6,Sudan,SDN,130122
+Jaragua do Sul,-26.48,-49.1,Brazil,BRA,130130
+Girardot,4.31,-74.81,Colombia,COL,130289
+Florencia,1.6104,-75.62,Colombia,COL,130337
+Nikopol,47.5666,34.4062,Ukraine,UKR,130500
+Ninh Binh,20.2543,105.975,Vietnam,VNM,130517
+Abohar,30.1204,74.29,India,IND,130603
+Shuangcheng,45.3503,126.28,China,CHN,130710
+Pinsk,52.1279,26.0941,Belarus,BLR,130777
+Buzau,45.1565,26.8065,Romania,ROU,130954
+Novomoskovsk,54.09,38.22,Russia,RUS,130982
+Ferrara,44.8504,11.6099,Italy,ITA,130992
+Pilibhit,28.64,79.81,India,IND,131008
+Lae,-6.733,146.99,Papua New Guinea,PNG,131052
+Cienaga,11.0104,-74.25,Colombia,COL,131171
+Murom,55.5704,42.04,Russia,RUS,131287
+Tra Vinh,9.934,106.334,Vietnam,VNM,131360
+Opole,50.685,17.9313,Poland,POL,131412
+St. John's,47.585,-52.681,Canada,CAN,131469
+Racine,42.7274,-87.8135,United States,USA,131517
+Papeete,-17.5334,-149.5667,French Polynesia,PYF,131695
+Shahrud,36.4229,54.9629,Iran,IRN,131889
+Greeley,40.415,-104.7697,United States,USA,131900
+Pindamonhangaba,-22.92,-45.47,Brazil,BRA,132218
+Dimitrovgrad,54.2504,49.56,Russia,RUS,132226
+Blitar,-8.0696,112.15,Indonesia,IDN,132416
+Sterling Heights,42.581,-83.0304,United States,USA,132427
+San Luis,16.2,-89.44,Guatemala,GTM,132470
+Roseville,38.7683,-121.3164,United States,USA,132671
+Surprise,33.6802,-112.4525,United States,USA,132677
+Mauldin,34.7864,-82.2997,United States,USA,132708
+Kislovodsk,43.91,42.72,Russia,RUS,132771
+Namibe,-15.19,12.16,Angola,AGO,132900
+Awasa,7.06,38.477,Ethiopia,ETH,133097
+Uppsala,59.8601,17.64,Sweden,SWE,133117
+Musoma,-1.4896,33.8,Tanzania,TZA,133156
+Riohacha,11.5403,-72.91,Colombia,COL,133186
+Birganj,27.0004,84.8666,Nepal,NPL,133238
+Carrollton,32.9885,-96.9001,United States,USA,133351
+Siauliai,55.9386,23.325,Lithuania,LTU,133528
+Yunxian,32.8082,110.8136,China,CHN,133558
+Pervouralsk,56.91,59.955,Russia,RUS,133600
+Yakima,46.5926,-120.5492,United States,USA,133687
+Touggourt,33.1,6.06,Algeria,DZA,133954
+Las Cruces,32.3265,-106.7893,United States,USA,134050
+Nevinnomyssk,44.6201,41.95,Russia,RUS,134380
+'s-Hertogenbosch,51.6833,5.3167,Netherlands,NLD,134520
+Ravenna,44.4204,12.22,Italy,ITA,134631
+Caxias,-4.833,-43.35,Brazil,BRA,134640
+Cartago,4.75,-75.91,Colombia,COL,134827
+Zakho,37.1445,42.6872,Iraq,IRQ,134863
+Souk Ahras,36.2904,7.95,Algeria,DZA,134947
+Bloomington,40.4756,-88.9698,United States,USA,135015
+Warren,42.4934,-83.027,United States,USA,135125
+May Pen,17.9666,-77.2333,Jamaica,JAM,135142
+Orsha,54.5153,30.4215,Belarus,BLR,135206
+Pyay,18.8165,95.2114,Burma,MMR,135308
+Grand Junction,39.0881,-108.5675,United States,USA,135389
+Hampton,37.0551,-76.3629,United States,USA,135410
+Lira,2.2604,32.89,Uganda,UGA,135445
+Olathe,38.884,-94.8194,United States,USA,135473
+Cam Pha,21.0404,107.32,Vietnam,VNM,135477
+Jequie,-13.85,-40.08,Brazil,BRA,135574
+Serpukhov,54.9304,37.43,Russia,RUS,135584
+Gyor,47.7004,17.63,Hungary,HUN,136081
+Leon,42.58,-5.57,Spain,ESP,136227
+Baia Mare,47.6595,23.5791,Romania,ROU,136553
+Shizuishan,39.2333,106.769,China,CHN,136570
+West Valley City,40.6889,-112.0115,United States,USA,136574
+Thornton,39.9202,-104.9445,United States,USA,136703
+Oulu,65,25.47,Finland,FIN,136752
+Harlingen,26.1914,-97.6977,United States,USA,137119
+Iraklio,35.325,25.1305,Greece,GRC,137154
+Cerro de Pasco,-10.69,-76.27,Peru,PER,137232
+Castanhal,-1.2896,-47.93,Brazil,BRA,137406
+Tan An,10.5337,106.4167,Vietnam,VNM,137498
+Athens,33.9508,-83.3689,United States,USA,137582
+Bremerhaven,53.5504,8.58,Germany,DEU,137751
+Umtata,-31.58,28.79,South Africa,ZAF,137772
+Pabna,24.0004,89.25,Bangladesh,BGD,137888
+Yuma,32.599,-114.5489,United States,USA,137936
+Parnaiba,-2.91,-41.77,Brazil,BRA,138008
+Zalantun,48,122.72,China,CHN,138032
+Tiruvannamalai,12.2604,79.1,India,IND,138243
+Miramar,25.9773,-80.3357,United States,USA,138449
+Columbia,38.9475,-92.3263,United States,USA,138675
+Townsville,-19.25,146.77,Australia,AUS,138954
+Chinandega,12.6304,-87.13,Nicaragua,NIC,139023
+Myitkyina,25.3596,97.3928,Burma,MMR,139100
+Kumbakonam,10.9805,79.4,India,IND,139264
+Santa Maria,34.9334,-120.4433,United States,USA,139270
+Gottingen,51.5204,9.92,Germany,DEU,139419
+Piedras Negras,28.7076,-100.5317,Mexico,MEX,139619
+Sherbrooke,45.4,-71.9,Canada,CAN,139652
+Bizerte,37.2904,9.855,Tunisia,TUN,139843
+Bordj Bou Arreridj,36.059,4.63,Algeria,DZA,140000
+Dunhuang,40.1427,94.662,China,CHN,140094
+Badajoz,38.8804,-6.97,Spain,ESP,140133
+Peterborough,52.5804,-0.25,United Kingdom,GBR,140141
+Orekhovo-Zuevo,55.82,38.98,Russia,RUS,140247
+Lhokseumawe,5.1914,97.1415,Indonesia,IDN,140322
+Almetyevsk,54.9004,52.3199,Russia,RUS,140437
+Orange,33.8038,-117.8219,United States,USA,140504
+Labe,11.32,-12.3,Guinea,GIN,140575
+As Salt,32.0392,35.7272,Jordan,JOR,140689
+Fullerton,33.8841,-117.9279,United States,USA,140721
+Comodoro Rivadavia,-45.87,-67.5,Argentina,ARG,140850
+Tyler,32.3184,-95.3065,United States,USA,140857
+Ghazni,33.5633,68.4178,Afghanistan,AFG,141000
+Paranagua,-25.5279,-48.5345,Brazil,BRA,141013
+Pueblo,38.2701,-104.613,United States,USA,141280
+Melilla,35.3,-2.95,Spain,ESP,141308
+Bellevue,47.5953,-122.155,United States,USA,141400
+Nongan,44.4304,125.1701,China,CHN,141482
+Phuket,7.8765,98.3815,Thailand,THA,141618
+Arnhem,51.988,5.923,Netherlands,NLD,141674
+Chongju,39.6813,125.2163,"Korea, North",PRK,141769
+Jieshou,33.2504,115.35,China,CHN,141993
+Altay,47.8666,88.1166,China,CHN,142000
+Ciego de Avila,21.84,-78.7619,Cuba,CUB,142027
+Pasadena,34.1598,-118.1389,United States,USA,142059
+Saida,34.8404,0.14,Algeria,DZA,142213
+Nawabganj,24.5804,88.35,Bangladesh,BGD,142361
+Durres,41.3178,19.4482,Albania,ALB,142432
+Massawa,15.6101,39.45,Eritrea,ERI,142564
+Arzamas,55.4,43.8,Russia,RUS,142597
+Cajamarca,-7.15,-78.53,Peru,PER,142665
+Midland,32.0278,-102.1107,United States,USA,142680
+Pyatigorsk,44.08,43.09,Russia,RUS,142865
+Play Ku,13.9833,108,Vietnam,VNM,142900
+Cape Coast,5.1104,-1.25,Ghana,GHA,143015
+Macae,-22.38,-41.79,Brazil,BRA,143029
+Calama,-22.45,-68.92,Chile,CHL,143084
+Amiens,49.9004,2.3,France,FRA,143086
+Kenema,7.8804,-11.19,Sierra Leone,SLE,143137
+Merced,37.3057,-120.4779,United States,USA,143272
+Bechar,31.6111,-2.23,Algeria,DZA,143382
+Stara Zagora,42.4231,25.6227,Bulgaria,BGR,143431
+Logrono,42.4704,-2.43,Spain,ESP,143698
+Mesquite,32.7621,-96.5888,United States,USA,143736
+Ipswich,52.0703,1.17,United Kingdom,GBR,143767
+Otaru,43.1887,140.9783,Japan,JPN,143792
+Ajdabiya,30.77,20.22,Libya,LBY,143833
+Kafr el Sheikh,31.109,30.936,Egypt,EGY,143970
+Tizi-Ouzou,36.8,4.0333,Algeria,DZA,144000
+Goma,-1.6788,29.2218,Congo (Kinshasa),COD,144124
+Sarnia,42.9666,-82.4,Canada,CAN,144172
+Huelva,37.2504,-6.9299,Spain,ESP,144174
+Szekesfehervar,47.1947,18.4081,Hungary,HUN,144319
+Tuzla,44.5505,18.68,Bosnia And Herzegovina,BIH,144334
+Jinchang,38.4957,102.1739,China,CHN,144363
+Kumba,4.6404,9.44,Cameroon,CMR,144413
+Tall Afar,36.376,42.4497,Iraq,IRQ,144465
+Le Mans,48.0004,0.1,France,FRA,144515
+Qairouan,35.6804,10.1,Tunisia,TUN,144522
+Kolar,13.1337,78.1334,India,IND,144625
+Brest,48.3904,-4.495,France,FRA,144899
+Machakos,-1.5095,37.26,Kenya,KEN,144925
+Concordia,-31.3896,-58.03,Argentina,ARG,145210
+Los Angeles,-37.46,-72.36,Chile,CHL,145239
+Biarritz,43.4733,-1.5616,France,FRA,145348
+Pointe-a-Pitre,16.2415,-61.533,Guadeloupe,GLP,145511
+Quchan,37.1118,58.5015,Iran,IRN,145531
+Ayutthaya,14.3588,100.5684,Thailand,THA,145615
+Fairfield,38.2593,-122.0319,United States,USA,145665
+Podgorica,42.466,19.2663,Montenegro,MNE,145850
+La Ceiba,15.7631,-86.797,Honduras,HND,145926
+Krishnanagar,23.3803,88.53,India,IND,145926
+Hanzhong,33.13,107.03,China,CHN,145986
+Houma,29.5799,-90.7058,United States,USA,146174
+Dawei,14.098,98.195,Burma,MMR,146212
+Cabo de Santo Agostinho,-8.29,-35.03,Brazil,BRA,146219
+Leesburg,28.7674,-81.8983,United States,USA,146398
+Charleston,38.3484,-81.6323,United States,USA,146462
+Brugge,51.2204,3.23,Belgium,BEL,146469
+Dar'a,32.625,36.105,Syria,SYR,146481
+Tabora,-5.02,32.8,Tanzania,TZA,146495
+Pocos de Caldas,-21.78,-46.57,Brazil,BRA,146588
+Perpignan,42.7,2.9,France,FRA,146620
+Matanzas,23.0415,-81.5775,Cuba,CUB,146733
+Ibarra,0.3604,-78.13,Ecuador,ECU,146741
+Cam Ranh,11.902,109.2207,Vietnam,VNM,146771
+Ambala,30.32,76.82,India,IND,146787
+Gharyan,32.1704,13.02,Libya,LBY,146810
+Willemstad,12.2004,-69.02,Cura�,CUW,146813
+Aix-en-Provence,43.52,5.45,France,FRA,146821
+Gulu,2.78,32.28,Uganda,UGA,146858
+Wamba,2.1404,27.99,Congo (Kinshasa),COD,146871
+Man,7.4004,-7.55,C����,CIV,146974
+Paterson,40.9147,-74.1624,United States,USA,147000
+Naperville,41.7483,-88.1656,United States,USA,147122
+Trondheim,63.4167,10.4167,Norway,NOR,147139
+Elkhart,41.6919,-85.962,United States,USA,147181
+Torrance,33.8346,-118.3417,United States,USA,147195
+El Progreso,14.85,-90.0167,Guatemala,GTM,147197
+Mangyshlak,43.6905,51.1417,Kazakhstan,KAZ,147443
+San Juan del Rio,20.38,-100,Mexico,MEX,147559
+Kolomna,55.08,38.785,Russia,RUS,147690
+Medea,36.2704,2.77,Algeria,DZA,147707
+Panama City,30.1985,-85.6153,United States,USA,147788
+Turbat,25.9918,63.0718,Pakistan,PAK,147791
+Trang,7.5634,99.608,Thailand,THA,147820
+Beaumont,30.0849,-94.1451,United States,USA,147935
+Lang Son,21.846,106.757,Vietnam,VNM,148000
+Jijel,36.822,5.766,Algeria,DZA,148000
+Diourbel,14.6604,-16.24,Senegal,SEN,148024
+Yala,6.5505,101.2851,Thailand,THA,148140
+Hamilton,-37.7783,175.2896,New Zealand,NZL,148200
+Joliet,41.5201,-88.1503,United States,USA,148262
+Jiayuguan,39.82,98.3,China,CHN,148279
+Palangkaraya,-2.2096,113.91,Indonesia,IDN,148289
+Gyumri,40.7894,43.8475,Armenia,ARM,148381
+Warner Robins,32.5981,-83.6528,United States,USA,148686
+Odessa,31.8831,-102.3407,United States,USA,149088
+Gejiu,23.38,103.1501,China,CHN,149105
+Perugia,43.1104,12.39,Italy,ITA,149125
+Topeka,39.0347,-95.6955,United States,USA,149220
+New Bedford,41.6697,-70.9428,United States,USA,149390
+Tirgu Mures,46.5582,24.5578,Romania,ROU,149433
+Carora,10.19,-70.08,Venezuela,VEN,149711
+Khiwa,41.3911,60.3557,Uzbekistan,UZB,149751
+Cao Lanh,10.467,105.636,Vietnam,VNM,149837
+Pattani,6.864,101.25,Thailand,THA,150000
+Miaoli,24.57,120.82,Taiwan,TWN,150000
+Yilan,24.75,121.75,Taiwan,TWN,150000
+Tororo,0.7104,34.17,Uganda,UGA,150000
+M'sila,35.7,4.545,Algeria,DZA,150000
+Keren,15.6804,38.45,Eritrea,ERI,150000
+Vryheid,-27.76,30.79,South Africa,ZAF,150012
+Urgentch,41.56,60.64,Uzbekistan,UZB,150110
+Chillan,-36.6,-72.106,Chile,CHL,150396
+Kitale,1.0305,34.9899,Kenya,KEN,150495
+Uzhgorod,48.63,22.25,Ukraine,UKR,150832
+Guarapuava,-25.38,-51.48,Brazil,BRA,150850
+Benguela,-12.5783,13.4072,Angola,AGO,151226
+Suhar,24.362,56.7344,Oman,OMN,151349
+Balti,47.7591,27.9053,Moldova,MDA,151355
+Maragheh,37.4204,46.22,Iran,IRN,151385
+Nazareth,32.704,35.2955,Israel,ISR,151459
+Dundee,56.4704,-3,United Kingdom,GBR,151592
+Escondido,33.1349,-117.0721,United States,USA,151613
+Bintulu,3.1664,113.036,Malaysia,MYS,151617
+Guanare,9.05,-69.75,Venezuela,VEN,151642
+Abbotsford,49.0504,-122.3,Canada,CAN,151683
+Kansas City,39.1234,-94.7443,United States,USA,151709
+El Manaqil,14.2504,32.98,Sudan,SDN,151827
+Luanshya,-13.1333,28.4,Zambia,ZMB,151993
+Hollywood,26.0293,-80.1679,United States,USA,151998
+Frederick,39.4334,-77.4154,United States,USA,152047
+Samalut,28.3004,30.71,Egypt,EGY,152097
+Deyang,31.1333,104.4,China,CHN,152194
+Limoges,45.83,1.25,France,FRA,152199
+Mudon,16.2618,97.7215,Burma,MMR,152300
+Novokuybishevsk,53.12,49.9199,Russia,RUS,152334
+Wenshan,23.3724,104.2497,China,CHN,152388
+Binghamton,42.1014,-75.9092,United States,USA,152392
+Silchar,24.7904,92.79,India,IND,152393
+Pomona,34.0585,-117.7625,United States,USA,152494
+Zabid,14.1951,43.3155,Yemen,YEM,152504
+San Francisco de Macoris,19.3,-70.25,Dominican Republic,DOM,152538
+Nusaybin,37.075,41.2184,Turkey,TUR,152668
+Sunnyvale,37.3846,-122.0261,United States,USA,152771
+Usak,38.6804,29.42,Turkey,TUR,152862
+Ilam,33.6304,46.43,Iran,IRN,152894
+Rondonopolis,-16.4695,-54.64,Brazil,BRA,152912
+Dingzhou,38.5004,115,China,CHN,152934
+Faizabad,26.7504,82.17,India,IND,153047
+Tuscaloosa,33.2349,-87.5268,United States,USA,153060
+Chincha Alta,-13.4196,-76.14,Peru,PER,153076
+Lake Charles,30.203,-93.215,United States,USA,153097
+Pasadena,29.6583,-95.1498,United States,USA,153351
+Mufulira,-12.55,28.26,Zambia,ZMB,153624
+Masjed Soleyman,31.98,49.2999,Iran,IRN,153663
+Rio Cuarto,-33.13,-64.35,Argentina,ARG,153757
+Moanda,-5.9229,12.355,Congo (Kinshasa),COD,153915
+Lemosos,34.6754,33.0333,Cyprus,CYP,154000
+San Cristobal,18.416,-70.109,Dominican Republic,DOM,154040
+Tottori,35.5004,134.2333,Japan,JPN,154098
+Osorno,-40.57,-73.16,Chile,CHL,154131
+Kovrov,56.3604,41.33,Russia,RUS,154224
+Cairns,-16.8878,145.7633,Australia,AUS,154225
+Lakewood,39.6977,-105.117,United States,USA,154393
+Pathum Thani,14.0171,100.5333,Thailand,THA,154412
+Gandajika,-6.7396,23.96,Congo (Kinshasa),COD,154425
+Chetumal,18.5,-88.3,Mexico,MEX,154517
+La Serena,-29.9,-71.25,Chile,CHL,154521
+Mahajanga,-15.67,46.345,Madagascar,MDG,154657
+Middelburg,-25.7596,29.47,South Africa,ZAF,154706
+Guangshui,31.6204,114,China,CHN,154771
+Battambang,13.1,103.2,Cambodia,KHM,154773
+Gainesville,34.2903,-83.8299,United States,USA,154859
+Beian,48.239,126.482,China,CHN,154936
+Sariwon,38.507,125.762,"Korea, North",PRK,154942
+Kanchipuram,12.8337,79.7167,India,IND,155029
+Ordu,41.0004,37.8699,Turkey,TUR,155117
+Foggia,41.4605,15.56,Italy,ITA,155203
+Innsbruck,47.2804,11.41,Austria,AUT,155214
+Gyeongju,35.8428,129.2117,"Korea, South",KOR,155237
+Champaign,40.1148,-88.2731,United States,USA,155368
+Barysaw,54.226,28.4922,Belarus,BLR,155389
+Batumi,41.6,41.63,Georgia,GEO,155542
+Sibiu,45.7971,24.1371,Romania,ROU,155565
+Muroran,42.35,140.98,Japan,JPN,155676
+Shkoder,42.0685,19.5188,Albania,ALB,155767
+Alexandria,38.8184,-77.0861,United States,USA,155810
+Yulin,38.2833,109.7333,China,CHN,155960
+Malabo,3.75,8.7833,Equatorial Guinea,GNQ,155963
+Ciudad del Carmen,18.6537,-91.8245,Mexico,MEX,156195
+Gonder,12.61,37.46,Ethiopia,ETH,156230
+Livorno,43.5511,10.3023,Italy,ITA,156274
+Uroteppa,39.9219,69.0015,Tajikistan,TJK,156621
+Koforidua,6.0904,-0.26,Ghana,GHA,156653
+Dali,25.7,100.18,China,CHN,156685
+Moundou,8.55,16.09,Chad,TCD,156705
+Matsue,35.467,133.0666,Japan,JPN,156811
+Zonguldak,41.4304,31.78,Turkey,TUR,156918
+Afyon,38.7504,30.55,Turkey,TUR,156992
+Tiraspol,46.8531,29.64,Moldova,MDA,157000
+Rustavi,41.5704,45.05,Georgia,GEO,157063
+Ussuriysk,43.8,132.02,Russia,RUS,157068
+Kashmar,35.1814,58.4515,Iran,IRN,157135
+Puerto Princesa,9.7543,118.7444,Philippines,PHL,157144
+Isiro,2.76,27.62,Congo (Kinshasa),COD,157196
+Hurghada,27.23,33.83,Egypt,EGY,157204
+Palmdale,34.5945,-118.1058,United States,USA,157356
+Surat Thani,9.1501,99.3401,Thailand,THA,157627
+Port Arthur,29.8554,-93.9264,United States,USA,157732
+Sudbury,46.5,-80.9666,Canada,CAN,157857
+Lafayette,40.399,-86.8592,United States,USA,157955
+Sobral,-3.69,-40.35,Brazil,BRA,157996
+Melitopol,46.8378,35.3775,Ukraine,UKR,158000
+Albacete,39.0003,-1.87,Spain,ESP,158094
+Hoshiarpur,31.52,75.98,India,IND,158142
+Huanuco,-9.92,-76.24,Peru,PER,158145
+Odense,55.4004,10.3833,Denmark,DNK,158222
+Barreiras,-12.14,-45,Brazil,BRA,158292
+Abeche,13.84,20.83,Chad,TCD,158317
+Maykop,44.61,40.12,Russia,RUS,158451
+Samarra,34.194,43.875,Iraq,IRQ,158508
+Rio Largo,-9.48,-35.84,Brazil,BRA,158545
+Cuddalore,11.7204,79.77,India,IND,158569
+Hayward,37.6327,-122.0776,United States,USA,158937
+York,53.9704,-1.08,United Kingdom,GBR,158947
+Punta del Este,-34.97,-54.95,Uruguay,URY,159000
+Zarzis,33.5104,11.1,Tunisia,TUN,159161
+Tarija,-21.5167,-64.75,Bolivia,BOL,159269
+Nakhodka,42.8374,132.8874,Russia,RUS,159551
+Nakhodka,67.7504,77.52,Russia,RUS,159551
+Pagadian,7.853,123.507,Philippines,PHL,159590
+Valdivia,-39.795,-73.245,Chile,CHL,159599
+Manchester,42.9844,-71.4445,United States,USA,159744
+Salavat,53.3703,55.93,Russia,RUS,159893
+Gonbad-e Kavus,37.2518,55.1715,Iran,IRN,159982
+Lazaro Cardenas,17.9587,-102.2,Mexico,MEX,160087
+Taunggyi,20.782,97.038,Burma,MMR,160115
+Xapeco,-27.1,-52.64,Brazil,BRA,160157
+Xiaogan,30.9204,113.9,China,CHN,160437
+Bumba,2.19,22.46,Congo (Kinshasa),COD,160539
+Springfield,39.7713,-89.6538,United States,USA,160570
+Malakal,9.5369,31.656,South Sudan,SSD,160765
+Sullana,-4.8896,-80.68,Peru,PER,160789
+Ras al Khaymah,25.7915,55.9428,United Arab Emirates,ARE,160849
+Geelong,-38.1675,144.3956,Australia,AUS,160991
+Bhisho,-32.87,27.39,South Africa,ZAF,160997
+Muskegon,43.228,-86.256,United States,USA,161058
+Rubtsovsk,51.52,81.21,Russia,RUS,161065
+Coquimbo,-29.9529,-71.3436,Chile,CHL,161317
+Tunja,5.5504,-73.37,Colombia,COL,161412
+Budaun,28.03,79.09,India,IND,161555
+Murfreesboro,35.851,-86.4093,United States,USA,161634
+Settat,33.0104,-7.62,Morocco,MAR,161748
+Ash Shatrah,31.4175,46.1772,Iraq,IRQ,161949
+Dourados,-22.23,-54.81,Brazil,BRA,162202
+Cary,35.7815,-78.8162,United States,USA,162320
+Salamanca,40.9704,-5.67,Spain,ESP,162353
+Mahabad,36.7704,45.72,Iran,IRN,162434
+Lecce,40.3604,18.15,Italy,ITA,162582
+La Rioja,-29.41,-66.85,Argentina,ARG,162620
+Simao,22.7807,100.9782,China,CHN,162725
+Tartus,34.8846,35.8866,Syria,SYR,162980
+Geneina,13.45,22.44,Sudan,SDN,162981
+Navsari,20.8504,72.92,India,IND,163000
+Mostar,43.3505,17.82,Bosnia And Herzegovina,BIH,163067
+La Vega,19.2166,-70.5166,Dominican Republic,DOM,163197
+Ingolstadt,48.7704,11.45,Germany,DEU,163325
+Patra,38.23,21.73,Greece,GRC,163360
+Marysville,48.0812,-122.1559,United States,USA,163547
+Frisco,33.1551,-96.8219,United States,USA,163656
+Dagupan,16.0479,120.3408,Philippines,PHL,163676
+Myingyan,21.4618,95.3914,Burma,MMR,163812
+Phitsanulok,16.8283,100.2729,Thailand,THA,164017
+Peoria,33.7844,-112.2989,United States,USA,164173
+Pizen,49.7404,13.36,Czechia,CZE,164180
+Kigoma,-4.8796,29.61,Tanzania,TZA,164268
+Regensburg,49.0204,12.12,Germany,DEU,164359
+Zenica,44.22,17.92,Bosnia And Herzegovina,BIH,164423
+Sitapur,27.63,80.75,India,IND,164435
+Leon,12.4356,-86.8794,Nicaragua,NIC,164441
+Fredericksburg,38.2992,-77.4871,United States,USA,164610
+Lajes,-27.8096,-50.31,Brazil,BRA,164676
+Serang,-6.11,106.1496,Indonesia,IDN,164767
+Nantou,23.9167,120.6833,Taiwan,TWN,165000
+Elbasan,41.1215,20.0838,Albania,ALB,165010
+Ocala,29.1803,-82.1487,United States,USA,165111
+Kimberley,-28.7468,24.77,South Africa,ZAF,165264
+Kendari,-3.9553,122.5973,Indonesia,IDN,165377
+Ha Tinh,18.3338,105.9,Vietnam,VNM,165396
+Livingstone,-17.86,25.86,Zambia,ZMB,165480
+Tulua,4.0904,-76.21,Colombia,COL,165501
+Carpina,-7.84,-35.26,Brazil,BRA,165579
+Norilsk,69.34,88.225,Russia,RUS,165873
+Rustenburg,-25.65,27.24,South Africa,ZAF,165976
+Parma,44.8104,10.32,Italy,ITA,166011
+San Fernando,10.2805,-61.4594,Trinidad And Tobago,TTO,166039
+Ocumare del Tuy,10.12,-66.78,Venezuela,VEN,166072
+Maraba,-5.35,-49.116,Brazil,BRA,166182
+Reykjavik,64.15,-21.95,Iceland,ISL,166212
+Ayacucho,-13.175,-74.22,Peru,PER,166314
+Dibrugarh,27.4833,94.9,India,IND,166366
+Fatehpur,25.8804,80.8,India,IND,166480
+Gonaives,19.4504,-72.6832,Haiti,HTI,166678
+Corona,33.8623,-117.5642,United States,USA,166785
+Novocherkassk,47.42,40.08,Russia,RUS,166974
+Benha,30.4667,31.1833,Egypt,EGY,167029
+Abakan,53.7037,91.445,Russia,RUS,167289
+Oldenburg,53.13,8.22,Germany,DEU,167458
+Miass,54.9954,60.0949,Russia,RUS,167500
+Ormac,11.0643,124.6075,Philippines,PHL,167584
+Volgodonsk,47.51,42.1599,Russia,RUS,167731
+Berezniki,59.42,56.76,Russia,RUS,167748
+Chirchiq,41.455,69.56,Uzbekistan,UZB,167842
+Jamalpur,24.9004,89.95,Bangladesh,BGD,167900
+Medford,42.3372,-122.8537,United States,USA,167922
+Baramula,34.2004,74.35,India,IND,167986
+Nzerekore,7.76,-8.83,Guinea,GIN,168121
+Hindupur,13.7804,77.49,India,IND,168312
+Wurzburg,49.8004,9.95,Germany,DEU,168561
+Pembroke Pines,26.0127,-80.3384,United States,USA,168587
+Atbara,17.71,33.98,Sudan,SDN,168612
+Baranavichy,53.1368,26.0134,Belarus,BLR,168772
+Sonsonate,13.72,-89.73,El Salvador,SLV,168947
+Bandar-e Bushehr,28.92,50.83,Iran,IRN,169060
+Arad,46.17,21.32,Romania,ROU,169065
+Medinipur,22.3304,87.15,India,IND,169127
+Sarh,9.15,18.39,Chad,TCD,169196
+Jayapura,-2.533,140.7,Indonesia,IDN,169341
+Barra Mansa,-22.56,-44.17,Brazil,BRA,169386
+Al Marj,32.5005,20.83,Libya,LBY,169540
+Nimes,43.8304,4.35,France,FRA,169547
+Elk Grove,38.416,-121.3841,United States,USA,169743
+Nampa,43.5833,-116.5641,United States,USA,169761
+Keluang,2.0383,103.3179,Malaysia,MYS,169828
+Dijon,47.3304,5.03,France,FRA,169946
+Cacak,43.8897,20.3301,Serbia,SRB,170000
+Fuyang,32.9004,115.82,China,CHN,170023
+Aracatuba,-21.21,-50.45,Brazil,BRA,170024
+Takaoka,36.67,137,Japan,JPN,170077
+Burgos,42.3504,-3.68,Spain,ESP,170183
+Uvira,-3.37,29.14,Congo (Kinshasa),COD,170391
+Temirtau,50.065,72.965,Kazakhstan,KAZ,170600
+Djelfa,34.68,3.25,Algeria,DZA,170901
+Rijeka,45.33,14.45,Croatia,HRV,170992
+Pitesti,44.8563,24.8758,Romania,ROU,171021
+Kragujevac,44.02,20.92,Serbia,SRB,171197
+Tebessa,35.4104,8.12,Algeria,DZA,171742
+Nova Friburgo,-22.26,-42.54,Brazil,BRA,171991
+Bade,24.9575,121.2989,Taiwan,TWN,172065
+Weinan,34.5004,109.5001,China,CHN,172321
+Isparta,37.77,30.53,Turkey,TUR,172334
+Banyuwangi,-8.195,114.3696,Indonesia,IDN,172424
+Riobamba,-1.67,-78.65,Ecuador,ECU,172464
+Vallejo,38.1134,-122.2359,United States,USA,172697
+Lishui,28.4504,119.9,China,CHN,172777
+Hong Gai,20.9604,107.1,Vietnam,VNM,172915
+Ulm,48.4004,10,Germany,DEU,172955
+Bata,1.87,9.77,Equatorial Guinea,GNQ,173046
+Esmeraldas,0.9304,-79.67,Ecuador,ECU,173101
+Stavanger,58.97,5.68,Norway,NOR,173132
+Ontario,34.0393,-117.6064,United States,USA,173212
+Simla,31.1,77.1666,India,IND,173503
+Bida,9.0804,6.01,Nigeria,NGA,173849
+Obihiro,42.9304,143.17,Japan,JPN,173890
+Saida,33.563,35.3688,Lebanon,LBN,173894
+Puerto Cabello,10.4704,-68.17,Venezuela,VEN,174000
+Bo,7.97,-11.74,Sierra Leone,SLE,174354
+George,-33.95,22.45,South Africa,ZAF,174582
+Puerto Montt,-41.47,-72.93,Chile,CHL,174629
+Tomakomai,42.6504,141.55,Japan,JPN,174806
+Vancouver,45.6352,-122.5972,United States,USA,174826
+Garden Grove,33.7787,-117.9601,United States,USA,174858
+Hirosaki,40.57,140.47,Japan,JPN,174972
+As Samawah,31.3099,45.2803,Iraq,IRQ,174978
+Harar,9.32,42.15,Ethiopia,ETH,174994
+Yangmei,24.9167,121.15,Taiwan,TWN,175000
+Taitung,22.7554,121.14,Taiwan,TWN,175000
+Sirjan,29.47,55.73,Iran,IRN,175000
+Hemet,33.7352,-116.9946,United States,USA,175066
+Entebbe,0.0604,32.46,Uganda,UGA,175128
+Bose,23.8997,106.6133,China,CHN,175282
+Suva,-18.133,178.4417,Fiji,FJI,175399
+Les Cayes,18.2004,-73.75,Haiti,HTI,175457
+Oceanside,33.2247,-117.3083,United States,USA,175464
+Modena,44.65,10.92,Italy,ITA,175502
+Saveh,35.0218,50.3314,Iran,IRN,175533
+Turku,60.4539,22.255,Finland,FIN,175945
+Salatiga,-7.3095,110.4901,Indonesia,IDN,176000
+Santa Cruz,36.9788,-122.0346,United States,USA,176037
+Regina,50.45,-104.617,Canada,CAN,176183
+Ouargla,31.97,5.34,Algeria,DZA,176271
+Yuzhno Sakhalinsk,46.965,142.74,Russia,RUS,176484
+Rancho Cucamonga,34.1246,-117.5662,United States,USA,176534
+Letpadan,17.7819,95.7415,Burma,MMR,176571
+Malayer,34.32,48.85,Iran,IRN,176573
+Danbury,41.4016,-73.471,United States,USA,176649
+Alappuzha,9.5004,76.37,India,IND,176783
+Nyiregyhaza,47.9653,21.7187,Hungary,HUN,176880
+Kadugli,11.01,29.7,Sudan,SDN,176931
+Vellore,12.9204,79.15,India,IND,177081
+Treviso,45.67,12.24,Italy,ITA,177309
+High Point,35.9899,-79.9937,United States,USA,177412
+El Oued,33.3704,6.86,Algeria,DZA,177497
+Sioux Falls,43.5382,-96.7315,United States,USA,177629
+Ar Raqqah,35.9304,39.02,Syria,SYR,177636
+Termiz,37.2329,67.2729,Uzbekistan,UZB,177687
+Korhogo,9.46,-5.64,C����,CIV,177711
+Teziutlan,19.8204,-97.36,Mexico,MEX,177796
+Nogales,31.305,-110.945,Mexico,MEX,178097
+Gastonia,35.2495,-81.1856,United States,USA,178477
+Sangolqui,-0.31,-78.46,Ecuador,ECU,178582
+Boma,-5.83,13.05,Congo (Kinshasa),COD,178638
+El Arish,31.1249,33.8006,Egypt,EGY,178651
+Mary,37.6,61.8333,Turkmenistan,TKM,178708
+Fort Lauderdale,26.1412,-80.1464,United States,USA,178752
+Si Racha,13.159,100.9287,Thailand,THA,178916
+Klerksdorp,-26.88,26.62,South Africa,ZAF,178921
+Sittwe,20.14,92.88,Burma,MMR,179032
+Vizianagaram,18.1204,83.5,India,IND,179358
+Clarksville,36.5696,-87.3428,United States,USA,179367
+Almeria,36.8303,-2.43,Spain,ESP,179405
+Passo Fundo,-28.25,-52.42,Brazil,BRA,179529
+Varamin,35.3166,51.6466,Iran,IRN,179603
+Phan Rang,11.567,108.9833,Vietnam,VNM,179773
+Potosi,-19.5696,-65.75,Bolivia,BOL,179901
+Lorain,41.4409,-82.184,United States,USA,179926
+Balkh,36.7501,66.8997,Afghanistan,AFG,179969
+Zhaodong,46.0804,125.98,China,CHN,179980
+Obuasi,6.1904,-1.66,Ghana,GHA,180117
+Tangail,24.25,89.92,Bangladesh,BGD,180144
+Rio Claro,-22.41,-47.56,Brazil,BRA,180147
+Zuwarah,32.9344,12.0791,Libya,LBY,180310
+Reggio di Calabria,38.115,15.6414,Italy,ITA,180353
+El Jadida,33.2604,-8.51,Morocco,MAR,180470
+Funtua,11.5204,7.32,Nigeria,NGA,180475
+Castello,39.9704,-0.05,Spain,ESP,180610
+Gangneung,37.7559,128.8962,"Korea, South",KOR,180611
+Hinthada,17.6483,95.4679,Burma,MMR,180728
+Anda,46.4,125.32,China,CHN,181533
+Sirsa,29.4904,75.03,India,IND,181639
+Probolinggo,-7.7496,113.15,Indonesia,IDN,181656
+Tonk,26.1505,75.79,India,IND,181734
+Newport News,37.1052,-76.5185,United States,USA,181825
+Chingola,-12.5396,27.85,Zambia,ZMB,182015
+Barrie,44.3838,-79.7,Canada,CAN,182041
+Bahraich,27.6204,81.6699,India,IND,182218
+Biratnagar,26.4837,87.2833,Nepal,NPL,182324
+Chilpancingo,17.55,-99.5,Mexico,MEX,182387
+Tempe,33.3881,-111.9318,United States,USA,182498
+Kamensk Uralskiy,56.4205,61.935,Russia,RUS,182500
+Pinrang,-3.7857,119.6522,Indonesia,IDN,182731
+Atyrau,47.1127,51.92,Kazakhstan,KAZ,182753
+Shibin el Kom,30.592,30.9,Egypt,EGY,182900
+Bhusawal,21.02,75.83,India,IND,183001
+Manta,-0.98,-80.73,Ecuador,ECU,183166
+Mataro,41.54,2.45,Spain,ESP,183293
+Gweru,-19.45,29.82,Zimbabwe,ZWE,183358
+Corum,40.52,34.95,Turkey,TUR,183418
+Dese,11.13,39.63,Ethiopia,ETH,183802
+Tarlac,15.4838,120.5834,Philippines,PHL,183930
+Kutaisi,42.25,42.73,Georgia,GEO,183945
+Kramatorsk,48.7194,37.5344,Ukraine,UKR,184105
+Fianarantsoa,-21.4333,47.0833,Madagascar,MDG,184184
+Tiarat,35.3804,1.32,Algeria,DZA,184195
+Ruse,43.8537,25.9733,Bulgaria,BGR,184270
+Cedar Rapids,41.9667,-91.6781,United States,USA,184610
+Mainz,49.9825,8.2732,Germany,DEU,184997
+Yei,4.0904,30.68,South Sudan,SSD,185000
+Kutahya,39.42,29.93,Turkey,TUR,185008
+Spartanburg,34.9437,-81.9256,United States,USA,185031
+Jamaame,0.0722,42.7506,Somalia,SOM,185270
+Waco,31.5597,-97.1882,United States,USA,185680
+Arica,-18.5,-70.29,Chile,CHL,185999
+Ad Damazin,11.7704,34.35,Sudan,SDN,186051
+Madiun,-7.6346,111.515,Indonesia,IDN,186099
+Marbella,36.5166,-4.8833,Spain,ESP,186131
+Pecs,46.0804,18.22,Hungary,HUN,186262
+Hagerstown,39.6401,-77.7217,United States,USA,186377
+Shendi,16.6805,33.42,Sudan,SDN,186611
+Cienfuegos,22.1444,-80.4403,Cuba,CUB,186644
+San Cristobal de Las Casas,16.75,-92.6334,Mexico,MEX,186661
+Olsztyn,53.8,20.48,Poland,POL,186670
+Manpo,41.1454,126.2958,"Korea, North",PRK,186827
+Pinar del Rio,22.4175,-83.6981,Cuba,CUB,186990
+Cachoeiro de Itapemirim,-20.85,-41.13,Brazil,BRA,187019
+Gibraltar,36.1324,-5.3781,Gibraltar,GIB,187083
+Puerto Vallarta,20.6771,-105.245,Mexico,MEX,187134
+Kimchaek,40.6723,129.2027,"Korea, North",PRK,187270
+Petropavlovsk Kamchatskiy,53.062,158.623,Russia,RUS,187282
+Ternate,0.793,127.363,Indonesia,IDN,187521
+Arapiraca,-9.75,-36.67,Brazil,BRA,187668
+Szeged,46.2504,20.15,Hungary,HUN,187765
+Rio Grande,-32.0495,-52.12,Brazil,BRA,187838
+Paarl,-33.6996,18.96,South Africa,ZAF,187865
+Mostaganem,35.9404,0.09,Algeria,DZA,188354
+Angers,47.48,-0.53,France,FRA,188380
+Nandyal,15.5204,78.48,India,IND,188654
+Catamarca,-28.47,-65.78,Argentina,ARG,188812
+Parakou,9.34,2.62,Benin,BEN,188853
+Cork,51.8986,-8.4958,Ireland,IRL,188907
+Quelimane,-17.88,36.89,Mozambique,MOZ,188964
+Overland Park,38.8871,-94.6871,United States,USA,188966
+Kabwe,-14.44,28.45,Zambia,ZMB,188979
+Mwene-Ditu,-7,23.44,Congo (Kinshasa),COD,189177
+Dong Hoi,17.4833,106.6,Vietnam,VNM,189265
+Syzran,53.17,48.48,Russia,RUS,189338
+Aberdeen,57.1704,-2.08,United Kingdom,GBR,189364
+Son Tay,21.1382,105.505,Vietnam,VNM,189547
+La Paz,24.14,-110.32,Mexico,MEX,189767
+Sadiqabad,28.3006,70.1302,Pakistan,PAK,189876
+North Port,27.0577,-82.1976,United States,USA,190003
+St.-Denis,-20.8789,55.4481,Reunion,REU,190047
+Caen,49.1838,-0.35,France,FRA,190099
+Erie,42.1167,-80.0731,United States,USA,190443
+Butuan,8.9495,125.5436,Philippines,PHL,190557
+Grand Prairie,32.6869,-97.0209,United States,USA,190682
+Norwich,52.6304,1.3,United Kingdom,GBR,190756
+Bhiwani,28.81,76.125,India,IND,190855
+Waterbury,41.5583,-73.0361,United States,USA,190855
+Bridgetown,13.102,-59.6165,Barbados,BRB,191152
+Valera,9.32,-70.62,Venezuela,VEN,191167
+Dhamar,14.5575,44.3875,Yemen,YEM,191259
+Muar,2.0337,102.5666,Malaysia,MYS,191346
+Zlatoust,55.175,59.65,Russia,RUS,191366
+Barrancabermeja,7.09,-73.85,Colombia,COL,191403
+Ziguinchor,12.59,-16.29,Senegal,SEN,191716
+Dunhua,43.3505,128.22,China,CHN,191870
+Klaipeda,55.7204,21.1199,Lithuania,LTU,192307
+Bayamo,20.3795,-76.6433,Cuba,CUB,192632
+Deltona,28.9051,-81.2134,United States,USA,192730
+Ciudad Madero,22.3189,-97.8361,Mexico,MEX,192736
+Oxford,51.7704,-1.25,United Kingdom,GBR,192796
+Machilipatnam,16.2004,81.18,India,IND,192827
+Tarakan,3.3,117.633,Indonesia,IDN,193069
+Salinas,36.6881,-121.6316,United States,USA,193126
+Divinopolis,-20.1495,-44.9,Brazil,BRA,193832
+Bongor,10.2859,15.3872,Chad,TCD,193941
+Al Jahra,29.3375,47.6581,Kuwait,KWT,194193
+Severodvinsk,64.57,39.83,Russia,RUS,194292
+Olympia,47.0417,-122.8958,United States,USA,194532
+Brikama,13.2804,-16.6599,"Gambia, The",GMB,195136
+Coro,11.42,-69.68,Venezuela,VEN,195227
+Nagaoka,37.4504,138.86,Japan,JPN,195318
+Iskandar,41.5507,69.6807,Uzbekistan,UZB,195633
+Gandhinagar,23.3004,72.6399,India,IND,195891
+Burgas,42.5146,27.4746,Bulgaria,BGR,195966
+Engels,51.5004,46.12,Russia,RUS,196011
+Reims,49.2504,4.03,France,FRA,196565
+Porlamar,10.9604,-63.85,Venezuela,VEN,196934
+Cartago,9.87,-83.93,Costa Rica,CRI,196946
+Kure,34.251,132.5656,Japan,JPN,196991
+Burhanpur,21.3004,76.13,India,IND,197233
+Gurgaon,28.45,77.02,India,IND,197340
+El Tigre,8.8903,-64.26,Venezuela,VEN,197440
+Proddatur,14.7504,78.57,India,IND,197451
+Talca,-35.455,-71.67,Chile,CHL,197479
+Salamanca,20.5704,-101.2,Mexico,MEX,197524
+Kofu,35.6504,138.5833,Japan,JPN,197540
+Mbanza-Ngungu,-5.2496,14.86,Congo (Kinshasa),COD,197545
+Thanh Hoa,19.82,105.8,Vietnam,VNM,197551
+Gemena,3.26,19.77,Congo (Kinshasa),COD,198056
+Martapura,-3.4135,114.8365,Indonesia,IDN,198239
+Huntington,38.4109,-82.4344,United States,USA,198419
+Purnia,25.7854,87.48,India,IND,198453
+Kushiro,42.975,144.3747,Japan,JPN,198566
+Bulandshahr,28.4104,77.8484,India,IND,198612
+Gainesville,29.6814,-82.3454,United States,USA,198702
+Huangyan,28.65,121.25,China,CHN,198713
+Aydin,37.85,27.85,Turkey,TUR,198857
+Saskatoon,52.17,-106.67,Canada,CAN,198958
+Bila Tserkva,49.7743,30.1309,Ukraine,UKR,199163
+Rashid,31.4604,30.39,Egypt,EGY,199509
+Armavir,45.0004,41.13,Russia,RUS,199548
+Balakovo,52.03,47.8,Russia,RUS,199572
+Batu Pahat,1.8504,102.9333,Malaysia,MYS,199619
+Taza,34.2204,-4.02,Morocco,MAR,199633
+Bacau,46.5784,26.9196,Romania,ROU,199668
+Meymaneh,35.9302,64.7701,Afghanistan,AFG,199795
+Kasama,-10.1996,31.1799,Zambia,ZMB,200000
+Moratuwa,6.7804,79.88,Sri Lanka,LKA,200000
+Az Zawiyah,32.7604,12.72,Libya,LBY,200000
+Nema,16.6171,-7.25,Mauritania,MRT,200000
+Pokhara,28.264,83.972,Nepal,NPL,200000
+Zhubei,24.8333,121.0119,Taiwan,TWN,200000
+Rivera,-30.8996,-55.56,Uruguay,URY,200000
+Bergamo,45.7004,9.67,Italy,ITA,200000
+Huntington Beach,33.696,-118.0023,United States,USA,200652
+Haldia,22.0257,88.0583,India,IND,200762
+Dindigul,10.38,78,India,IND,200797
+Yonkers,40.9466,-73.8674,United States,USA,200807
+Glendale,34.1818,-118.2468,United States,USA,200831
+Puri,19.8204,85.9,India,IND,201026
+Aurora,41.7638,-88.2901,United States,USA,201110
+Cartagena,37.6004,-0.98,Spain,ESP,201274
+Gedaref,14.04,35.38,Sudan,SDN,201282
+Sete Lagoas,-19.4496,-44.25,Brazil,BRA,201334
+Dasoguz,41.84,59.965,Turkmenistan,TKM,201424
+Lashkar Gah,31.583,64.36,Afghanistan,AFG,201546
+San Miguel,13.4833,-88.1833,El Salvador,SLV,201563
+Pingzhen,24.9439,121.2161,Taiwan,TWN,201632
+Chiniot,31.72,72.98,Pakistan,PAK,201781
+Minatitlan,17.9805,-94.53,Mexico,MEX,201902
+Al Khums,32.6604,14.26,Libya,LBY,201943
+Pskov,57.83,28.3299,Russia,RUS,201990
+Taranto,40.5084,17.23,Italy,ITA,202033
+Angren,41.0304,70.1549,Uzbekistan,UZB,202070
+Biskra,34.86,5.73,Algeria,DZA,202103
+Fargo,46.8654,-96.829,United States,USA,202146
+Barisal,22.7004,90.375,Bangladesh,BGD,202242
+Mossoro,-5.19,-37.34,Brazil,BRA,202583
+Khvoy,38.5304,44.97,Iran,IRN,202728
+Djougou,9.7004,1.68,Benin,BEN,202810
+Ongole,15.5604,80.05,India,IND,202860
+Rostock,54.0704,12.15,Germany,DEU,203080
+Edea,3.8005,10.12,Cameroon,CMR,203149
+Timon,-5.115,-42.845,Brazil,BRA,203157
+Erfurt,50.9701,11.03,Germany,DEU,203254
+Agartala,23.8354,91.28,India,IND,203264
+Pisa,43.7205,10.4,Italy,ITA,203336
+Guaratingueta,-22.82,-45.19,Brazil,BRA,203580
+Lianxian,24.7815,112.3825,China,CHN,203639
+Santa Barbara,34.4285,-119.7202,United States,USA,203655
+Las Tunas,20.9601,-76.9544,Cuba,CUB,203684
+Sibu,2.303,111.843,Malaysia,MYS,203832
+Salalah,17.0255,54.0852,Oman,OMN,203877
+Colon,9.365,-79.875,Panama,PAN,204000
+Lampang,18.2916,99.4813,Thailand,THA,204081
+Criciuma,-28.68,-49.39,Brazil,BRA,204217
+Norwich,41.5495,-72.0882,United States,USA,204360
+College Station,30.5857,-96.296,United States,USA,204710
+Funchal,32.65,-16.88,Portugal,PRT,204767
+Sao Carlos,-22.02,-47.89,Brazil,BRA,205035
+Puqi,29.7204,113.88,China,CHN,205164
+Campeche,19.83,-90.5,Mexico,MEX,205212
+Jiutai,44.1447,125.8443,China,CHN,205399
+Moreno Valley,33.9244,-117.2045,United States,USA,205499
+North Shore,-36.7913,174.7758,New Zealand,NZL,205605
+Amarillo,35.1999,-101.8297,United States,USA,205821
+Portland,43.6772,-70.2713,United States,USA,206193
+Kalemie,-5.9333,29.2,Congo (Kinshasa),COD,206257
+Salzburg,47.8105,13.04,Austria,AUT,206279
+Korla,41.73,86.15,China,CHN,206373
+Beer Sheva,31.25,34.83,Israel,ISR,206408
+Yamoussoukro,6.8184,-5.2755,C����,CIV,206499
+Bahir Dar,11.6001,37.3833,Ethiopia,ETH,206748
+Laoag,18.1988,120.5936,Philippines,PHL,207048
+Pingliang,35.5304,106.6801,China,CHN,207256
+Lobito,-12.37,13.5412,Angola,AGO,207932
+Waitakere,-36.8524,174.5543,New Zealand,NZL,208100
+Hajjah,15.6917,43.6021,Yemen,YEM,208287
+Gaborone,-24.6463,25.9119,Botswana,BWA,208411
+La Romana,18.417,-68.9666,Dominican Republic,DOM,208437
+Bojnurd,37.47,57.32,Iran,IRN,208582
+Sidi bel Abbes,35.1903,-0.64,Algeria,DZA,208604
+Green Bay,44.5151,-87.9895,United States,USA,208670
+Santander,43.3805,-3.8,Spain,ESP,208763
+Tema,5.6404,0.01,Ghana,GHA,209000
+Ijebu Ode,6.8204,3.92,Nigeria,NGA,209175
+Rennes,48.1,-1.67,France,FRA,209375
+Sanming,26.23,117.58,China,CHN,209444
+Presidente Prudente,-22.12,-51.39,Brazil,BRA,209502
+Fontana,34.0967,-117.4599,United States,USA,209665
+Oral,51.2711,51.335,Kazakhstan,KAZ,209788
+Thai Binh,20.4503,106.333,Vietnam,VNM,210000
+Pali,25.7904,73.3299,India,IND,210103
+Toamasina,-18.1818,49.405,Madagascar,MDG,210226
+San-Pedro,4.7704,-6.64,C����,CIV,210273
+Abha,18.2301,42.5001,Saudi Arabia,SAU,210886
+Kirikkale,39.8504,33.53,Turkey,TUR,211138
+Tacoma,47.2431,-122.4531,United States,USA,211277
+Marilia,-22.21,-49.95,Brazil,BRA,212218
+Limbe,4.0304,9.19,Cameroon,CMR,212474
+Machala,-3.26,-79.96,Ecuador,ECU,213034
+Nanping,26.6304,118.17,China,CHN,213054
+Braila,45.292,27.969,Romania,ROU,213569
+Bergen,60.391,5.3245,Norway,NOR,213585
+Portoviejo,-1.06,-80.46,Ecuador,ECU,213601
+Lutsk,50.7472,25.3334,Ukraine,UKR,213661
+Oradea,47.05,21.92,Romania,ROU,213830
+Avondale,33.3858,-112.3236,United States,USA,214235
+Bremerton,47.5436,-122.7121,United States,USA,214549
+Kalamazoo,42.2749,-85.5882,United States,USA,214583
+Split,43.5204,16.47,Croatia,HRV,214741
+Navoi,40.1104,65.355,Uzbekistan,UZB,214828
+Zamora,19.9804,-102.28,Mexico,MEX,214947
+Owerri,5.493,7.026,Nigeria,NGA,215038
+Hickory,35.7425,-81.323,United States,USA,215120
+Biysk,52.5341,85.18,Russia,RUS,215430
+Mulhouse,47.7504,7.35,France,FRA,215454
+Kielce,50.8904,20.66,Poland,POL,215733
+Roanoke,37.2784,-79.9581,United States,USA,215793
+Trieste,45.6504,13.8,Italy,ITA,216035
+San Bernardino,34.1412,-117.2936,United States,USA,216239
+Groningen,53.2204,6.58,Netherlands,NLD,216688
+Rybinsk,58.0503,38.82,Russia,RUS,216724
+Gilgit,35.9171,74.3,Pakistan,PAK,216760
+Colombo,6.932,79.8578,Sri Lanka,LKA,217000
+Denow,38.2772,67.8872,Uzbekistan,UZB,217274
+Orleans,47.9004,1.9,France,FRA,217301
+Sibolga,1.75,98.8,Indonesia,IDN,217312
+Mallawi,27.7304,30.84,Egypt,EGY,217365
+San Pedro de Macoris,18.4504,-69.3,Dominican Republic,DOM,217899
+Potsdam,52.4004,13.07,Germany,DEU,218095
+Imperatriz,-5.52,-47.49,Brazil,BRA,218106
+Bertoua,4.5804,13.68,Cameroon,CMR,218111
+Dodoma,-6.1833,35.75,Tanzania,TZA,218269
+Wuhai,39.6647,106.8122,China,CHN,218427
+Thousand Oaks,34.1914,-118.8755,United States,USA,218548
+Velikiy Novgorod,58.5,31.33,Russia,RUS,218717
+Baghlan,36.1393,68.6993,Afghanistan,AFG,218748
+Gabes,33.9004,10.1,Tunisia,TUN,219517
+Thanjavur,10.7704,79.15,India,IND,219571
+Lhasa,29.645,91.1,China,CHN,219599
+Polokwane,-23.89,29.45,South Africa,ZAF,220045
+Cabanatuan,15.5021,120.9617,Philippines,PHL,220250
+Babruysk,53.1266,29.1928,Belarus,BLR,220517
+Cordoba,18.9204,-96.92,Mexico,MEX,220563
+Blagoveshchensk,50.2666,127.5333,Russia,RUS,221296
+Shakhty,47.7204,40.27,Russia,RUS,221312
+Appleton,44.2775,-88.3896,United States,USA,221379
+Formosa,-26.1728,-58.1828,Argentina,ARG,221383
+Tapachula,14.9,-92.27,Mexico,MEX,221521
+Amol,36.4713,52.3633,Iran,IRN,221650
+Neyshabur,36.22,58.82,Iran,IRN,221700
+Gueckedou,8.554,-10.151,Guinea,GIN,221715
+Banja Luka,44.7804,17.18,Bosnia And Herzegovina,BIH,221738
+Itabuna,-14.7896,-39.28,Brazil,BRA,221938
+Arar,30.99,41.0207,Saudi Arabia,SAU,222016
+Gulfport,30.4271,-89.0703,United States,USA,222131
+Hancheng,35.4704,110.43,China,CHN,222135
+Colima,19.23,-103.72,Mexico,MEX,223287
+McKinney,33.1989,-96.6678,United States,USA,223422
+Narayanganj,23.6204,90.5,Bangladesh,BGD,223622
+Okara,30.8104,73.45,Pakistan,PAK,223648
+Adiyaman,37.7704,38.2799,Turkey,TUR,223744
+Haeju,38.0394,125.7144,"Korea, North",PRK,224231
+Nicosia,35.1667,33.3666,Cyprus,CYP,224300
+Nagercoil,8.1804,77.43,India,IND,224329
+Vitoria,42.85,-2.67,Spain,ESP,224578
+Nacala,-14.5186,40.715,Mozambique,MOZ,224795
+Sucre,-19.041,-65.2595,Bolivia,BOL,224838
+Tanga,-5.07,39.09,Tanzania,TZA,224876
+Matsumoto,36.2404,137.97,Japan,JPN,224926
+Bac Lieu,9.2804,105.72,Vietnam,VNM,225000
+Karnal,29.6804,76.97,India,IND,225049
+Skikda,36.8804,6.9,Algeria,DZA,225181
+Nyanza,-2.3496,29.74,Rwanda,RWA,225209
+Juazeiro do Norte,-7.21,-39.32,Brazil,BRA,225230
+Novi Sad,45.2504,19.8499,Serbia,SRB,225457
+Mubi,10.2703,13.27,Nigeria,NGA,225705
+Sikasso,11.3204,-5.68,Mali,MLI,225753
+Kolpino,59.73,30.65,Russia,RUS,225801
+Groznyy,43.3187,45.6987,Russia,RUS,226100
+Sabzewar,36.22,57.63,Iran,IRN,226183
+Monywa,22.105,95.15,Burma,MMR,226222
+Chuncheon,37.8747,127.7342,"Korea, South",KOR,226509
+Chon Buri,13.4004,101,Thailand,THA,226618
+Tanjungpinang,0.9168,104.4714,Indonesia,IDN,226666
+Gusau,12.1704,6.66,Nigeria,NGA,226857
+Liaocheng,36.4304,115.97,China,CHN,226930
+Starsy Oskol,51.3004,37.84,Russia,RUS,226977
+Quillacollo,-17.4,-66.28,Bolivia,BOL,227052
+Pondicherry,11.935,79.83,India,IND,227411
+Hyeson,41.3927,128.1927,"Korea, North",PRK,227461
+Iquique,-20.25,-70.13,Chile,CHL,227499
+Nassau,25.0834,-77.35,"Bahamas, The",BHS,227940
+Miri,4.3999,113.9845,Malaysia,MYS,228212
+Petropavlovsk,54.88,69.22,Kazakhstan,KAZ,228238
+Er Rachidia,31.9404,-4.45,Morocco,MAR,228489
+Beipiao,41.81,120.76,China,CHN,228515
+Brownsville,25.9981,-97.4566,United States,USA,228534
+Uitenhage,-33.7596,25.39,South Africa,ZAF,228912
+Bharatpur,27.2504,77.5,India,IND,229384
+Nawabshah,26.2454,68.4,Pakistan,PAK,229504
+Kennewick,46.1979,-119.1732,United States,USA,229624
+Noginsk,55.8704,38.48,Russia,RUS,229731
+Noginsk,64.4833,91.2333,Russia,RUS,229731
+Tlimcen,34.8904,-1.32,Algeria,DZA,229777
+Magdeburg,52.1304,11.62,Germany,DEU,229826
+Nukus,42.47,59.615,Uzbekistan,UZB,230006
+Nashua,42.7492,-71.491,United States,USA,230061
+Zinder,13.8,8.9833,Niger,NER,230358
+Santarem,-2.4333,-54.7,Brazil,BRA,230428
+Ilheus,-14.78,-39.05,Brazil,BRA,230622
+Zhangye,38.93,100.45,China,CHN,230728
+Syktyvkar,61.66,50.82,Russia,RUS,230910
+Visalia,36.3271,-119.3265,United States,USA,231159
+Hailar,49.2,119.7,China,CHN,231171
+Osnabruck,52.2804,8.05,Germany,DEU,231268
+Debrecen,47.5305,21.63,Hungary,HUN,231286
+Ngaoundere,7.3204,13.58,Cameroon,CMR,231357
+Winter Haven,28.0126,-81.7021,United States,USA,231412
+Shishou,29.7004,112.4,China,CHN,231787
+Al Fallujah,33.3477,43.7773,Iraq,IRQ,231819
+Saidpur,25.8004,89,Bangladesh,BGD,232209
+Hetauda,27.4167,85.0334,Nepal,NPL,232334
+Nakhon Si Thammarat,8.4,99.97,Thailand,THA,232335
+Ploiesti,44.9469,26.0365,Romania,ROU,232542
+Maradi,13.4916,7.0964,Niger,NER,232555
+Kremenchuk,49.0835,33.4296,Ukraine,UKR,232742
+York,39.9651,-76.7315,United States,USA,232796
+Clermont-Ferrand,45.78,3.08,France,FRA,233050
+Fremont,37.5256,-121.987,United States,USA,233136
+Rancagua,-34.17,-70.74,Chile,CHL,233268
+Evansville,37.9882,-87.5339,United States,USA,233353
+Zabol,31.0215,61.4815,Iran,IRN,233968
+Nizhnekamsk,55.6404,51.82,Russia,RUS,234297
+Dili,-8.5594,125.5795,Timor-Leste,TLS,234331
+Singaraja,-8.1152,115.0944,Indonesia,IDN,234468
+Santa Ana,13.9946,-89.5598,El Salvador,SLV,234478
+Santa Ana,-13.76,-65.58,Bolivia,BOL,234478
+Zacatecas,22.7704,-102.58,Mexico,MEX,234481
+Porbandar,21.67,69.67,India,IND,234684
+Punto Fijo,11.72,-70.21,Venezuela,VEN,234736
+Turkmenabat,39.11,63.58,Turkmenistan,TKM,234817
+Ibb,13.9759,44.1709,Yemen,YEM,234837
+Kismaayo,-0.3566,42.5183,Somalia,SOM,234852
+Garland,32.91,-96.6305,United States,USA,234943
+Kediri,-7.7896,112,Indonesia,IDN,235143
+Boa Vista,2.8161,-60.666,Brazil,BRA,235150
+Palmas,-10.2377,-48.2878,Brazil,BRA,235315
+Jizzax,40.1004,67.83,Uzbekistan,UZB,235352
+Lubeck,53.8704,10.67,Germany,DEU,235390
+Yakutsk,62.035,129.735,Russia,RUS,235600
+Oviedo,43.3505,-5.83,Spain,ESP,235651
+Sahiwal,30.6717,73.1118,Pakistan,PAK,235695
+Luton,51.8804,-0.42,United Kingdom,GBR,235958
+Springs,-26.2696,28.43,South Africa,ZAF,236083
+Dera Ghazi Khan,30.0604,70.6351,Pakistan,PAK,236093
+Tours,47.3804,0.6999,France,FRA,236096
+Monclova,26.9,-101.42,Mexico,MEX,236244
+Hialeah,25.8696,-80.3045,United States,USA,236387
+Kosice,48.7304,21.25,Slovakia,SVK,236563
+Oostanay,53.2209,63.6283,Kazakhstan,KAZ,236901
+Sylhet,24.9036,91.8736,Bangladesh,BGD,237000
+Zicheng,30.3004,111.5,China,CHN,237042
+Tegal,-6.8696,109.12,Indonesia,IDN,237084
+Pathein,16.7704,94.75,Burma,MMR,237089
+Taiping,4.865,100.72,Malaysia,MYS,237095
+Gilbert,33.3103,-111.7463,United States,USA,237133
+Al Jubayl,27.0046,49.646,Saudi Arabia,SAU,237274
+Sasebo,33.1631,129.7177,Japan,JPN,237444
+Aarhus,56.1572,10.2107,Denmark,DNK,237551
+As Sib,23.6802,58.1825,Oman,OMN,237816
+Furth,49.47,11,Germany,DEU,237844
+Chesapeake,36.6778,-76.3024,United States,USA,237940
+Irving,32.8584,-96.9702,United States,USA,238289
+North Las Vegas,36.288,-115.0901,United States,USA,238702
+Hachinohe,40.51,141.54,Japan,JPN,239046
+San Pablo,14.0696,121.3226,Philippines,PHL,240830
+Linchuan,27.9703,116.36,China,CHN,241104
+Ivano-Frankivsk,48.9348,24.7094,Ukraine,UKR,241239
+Tehuacan,18.4504,-97.38,Mexico,MEX,241429
+Novorossiysk,44.73,37.7699,Russia,RUS,241856
+Ulanhot,46.08,122.08,China,CHN,241894
+Neuquen,-38.95,-68.06,Argentina,ARG,242092
+Caruaru,-8.28,-35.98,Brazil,BRA,242094
+Le Havre,49.505,0.105,France,FRA,242124
+Wilmington,34.21,-77.886,United States,USA,242770
+Hapur,28.7437,77.7628,India,IND,242920
+Angarsk,52.56,103.92,Russia,RUS,243158
+Nam Dinh,20.42,106.2,Vietnam,VNM,243186
+Atlantic City,39.3795,-74.4524,United States,USA,243285
+Wonju,37.3551,127.9396,"Korea, South",KOR,243387
+Killeen,31.0758,-97.7286,United States,USA,243947
+Manisa,38.6304,27.44,Turkey,TUR,243971
+Jessore,23.1704,89.2,Bangladesh,BGD,243987
+Gunsan,35.9818,126.716,"Korea, South",KOR,244080
+Concord,35.3939,-80.6358,United States,USA,244273
+Thu Dau Mot,10.9691,106.6527,Vietnam,VNM,244277
+Hebi,35.9504,114.22,China,CHN,244662
+Braunschweig,52.25,10.5,Germany,DEU,244715
+Ternopil,49.536,25.5821,Ukraine,UKR,244768
+Nizhenvartovsk,60.935,76.58,Russia,RUS,244937
+Norfolk,36.8945,-76.259,United States,USA,245115
+Qinzhou,21.9504,108.62,China,CHN,245376
+Juliaca,-15.5,-70.14,Peru,PER,245675
+Rzeszow,50.0705,22,Poland,POL,245686
+Shimonoseki,33.9654,130.9454,Japan,JPN,245786
+Mirzapur,25.1454,82.57,India,IND,245817
+Matadi,-5.8166,13.45,Congo (Kinshasa),COD,245862
+Glendale,33.5797,-112.2246,United States,USA,245895
+Bratsk,56.157,101.615,Russia,RUS,246348
+Oruro,-17.98,-67.13,Bolivia,BOL,246501
+Scottsdale,33.6872,-111.865,United States,USA,246645
+San Bernardo,-33.6,-70.7,Chile,CHL,246762
+Orsk,51.21,58.6273,Russia,RUS,246836
+Kattaqorgon,39.9007,66.2608,Uzbekistan,UZB,247113
+Udon Thani,17.4048,102.7893,Thailand,THA,247231
+Plymouth,50.3854,-4.16,United Kingdom,GBR,247297
+Chandler,33.2828,-111.8517,United States,USA,247477
+Miskolc,48.1004,20.78,Hungary,HUN,247757
+Singkawang,0.912,108.9655,Indonesia,IDN,248012
+Fukui,36.0704,136.22,Japan,JPN,248707
+Vung Tau,10.3554,107.085,Vietnam,VNM,248767
+Jalal Abad,40.9429,73.0025,Kyrgyzstan,KGZ,248899
+Los Mochis,25.79,-109,Mexico,MEX,249047
+Hafar al Batin,28.4337,45.9601,Saudi Arabia,SAU,249194
+Santa Maria,-29.6833,-53.8,Brazil,BRA,249219
+Mutare,-18.97,32.65,Zimbabwe,ZWE,249365
+Melun,48.5333,2.6666,France,FRA,249432
+Kirovohrad,48.5041,32.2603,Ukraine,UKR,249454
+Varzea Grande,-15.65,-56.14,Brazil,BRA,249752
+Jaffna,9.675,80.005,Sri Lanka,LKA,250000
+Zumpango,19.8104,-99.11,Mexico,MEX,250000
+Nis,43.3304,21.9,Serbia,SRB,250000
+Arua,3.0204,30.9,Uganda,UGA,250000
+Quang Ngai,15.1504,108.83,Vietnam,VNM,250000
+Luzern,47.0504,8.28,Switzerland,CHE,250000
+Laiyang,36.9684,120.7084,China,CHN,250000
+Kashan,33.9804,51.58,Iran,IRN,250000
+Como,45.81,9.08,Italy,ITA,250000
+Caserta,41.06,14.3374,Italy,ITA,250000
+Iwo,7.63,4.18,Nigeria,NGA,250443
+Santa Clara,22.4,-79.9667,Cuba,CUB,250512
+Sonipat,29,77.02,India,IND,250521
+Governador Valadares,-18.87,-41.97,Brazil,BRA,250878
+Morogoro,-6.82,37.66,Tanzania,TZA,250902
+Khon Kaen,16.42,102.83,Thailand,THA,251056
+Linhai,28.85,121.12,China,CHN,251759
+Borujerd,33.92,48.8,Iran,IRN,251958
+Messina,38.2005,15.55,Italy,ITA,252026
+Suihua,46.6304,126.98,China,CHN,252245
+Dire Dawa,9.59,41.86,Ethiopia,ETH,252279
+El Fasher,13.63,25.35,Sudan,SDN,252609
+Buenaventura,3.8724,-77.0505,Colombia,COL,252805
+Tallahassee,30.4549,-84.2527,United States,USA,252825
+Chirala,15.8604,80.34,India,IND,253000
+Pathankot,32.2703,75.72,India,IND,253987
+Fort-de-France,14.6104,-61.08,Martinique,MTQ,253995
+Paramaribo,5.835,-55.167,Suriname,SUR,254169
+Cirebon,-6.7333,108.5666,Indonesia,IDN,254298
+Chuxiong,25.0364,101.5456,China,CHN,254370
+Poza Rica de Hidalgo,20.5504,-97.47,Mexico,MEX,254481
+Freiburg,48.0004,7.8699,Germany,DEU,254889
+Turpan,42.9354,89.165,China,CHN,254900
+Rivne,50.6166,26.2528,Ukraine,UKR,255106
+Daloa,6.89,-6.45,C����,CIV,255168
+Raichur,16.2104,77.355,India,IND,255240
+Damaturu,11.749,11.966,Nigeria,NGA,255895
+Da Lat,11.9304,108.42,Vietnam,VNM,256019
+Myrtle Beach,33.7095,-78.8844,United States,USA,256079
+Salem,44.9231,-123.0245,United States,USA,256175
+Dzerzhinsk,56.2504,43.46,Russia,RUS,256537
+Montgomery,32.347,-86.2663,United States,USA,256554
+Ensenada,31.87,-116.62,Mexico,MEX,256565
+Anchorage,61.1508,-149.1091,United States,USA,256724
+Laredo,27.5536,-99.489,United States,USA,256752
+Chimoio,-19.12,33.47,Mozambique,MOZ,256936
+Ondo,7.0904,4.84,Nigeria,NGA,257005
+Cascavel,-24.9596,-53.46,Brazil,BRA,257172
+Mendefera,14.886,38.8163,Eritrea,ERI,257390
+Etawah,26.7855,79.015,India,IND,257448
+Rio Branco,-9.9666,-67.8,Brazil,BRA,257642
+Al Mukalla,14.5412,49.1259,Yemen,YEM,258132
+Nonthaburi,13.8337,100.4833,Thailand,THA,258550
+Popayan,2.42,-76.61,Colombia,COL,258750
+Tampere,61.5,23.75,Finland,FIN,259279
+Kondoz,36.728,68.8725,Afghanistan,AFG,259809
+Konibodom,40.2922,70.4272,Tajikistan,TJK,259876
+Adapazari,40.8,30.415,Turkey,TUR,260109
+Uberaba,-19.78,-47.95,Brazil,BRA,260843
+Wollongong,-34.4154,150.89,Australia,AUS,260914
+Acarigua,9.5804,-69.2,Venezuela,VEN,260921
+Petrolina,-9.38,-40.51,Brazil,BRA,260985
+Saint Petersburg,27.7931,-82.6652,United States,USA,260999
+Lubbock,33.5665,-101.8867,United States,USA,261076
+Sincelejo,9.2904,-75.38,Colombia,COL,261187
+Zhuanghe,39.6823,122.9619,China,CHN,261510
+Balikesir,39.6504,27.89,Turkey,TUR,261516
+Cabo Frio,-22.89,-42.04,Brazil,BRA,261721
+Hotan,37.0997,79.9269,China,CHN,261730
+Az Aubayr,30.3892,47.708,Iraq,IRQ,262219
+Parana,-31.7333,-60.5333,Argentina,ARG,262295
+Aqtobe,50.28,57.17,Kazakhstan,KAZ,262457
+Kindu,-2.9639,25.91,Congo (Kinshasa),COD,262914
+Graz,47.0778,15.41,Austria,AUT,263234
+Tubruq,32.08,23.96,Libya,LBY,263527
+Columbus,32.51,-84.8771,United States,USA,263737
+Eugene,44.0562,-123.1172,United States,USA,263860
+Sivas,39.7454,37.035,Turkey,TUR,264022
+Jersey City,40.7161,-74.0683,United States,USA,264152
+Georgetown,6.802,-58.167,Guyana,GUY,264350
+Uruapan,19.4204,-102.07,Mexico,MEX,264531
+Umuahia,5.532,7.486,Nigeria,NGA,264662
+Reading,40.34,-75.9266,United States,USA,264736
+Imphal,24.8,93.95,India,IND,264986
+Petrozavodsk,61.85,34.28,Russia,RUS,265025
+Peoria,40.7518,-89.6153,United States,USA,265218
+Saint-Etienne,45.4304,4.38,France,FRA,265684
+Lausanne,46.5304,6.65,Switzerland,CHE,265702
+Temuco,-38.73,-72.58,Chile,CHL,265901
+Irvine,33.6772,-117.7738,United States,USA,266122
+Myeik,12.4541,98.6115,Burma,MMR,266720
+Padangsidempuan,1.3887,99.2734,Indonesia,IDN,266882
+Santa Clarita,34.4119,-118.5036,United States,USA,266958
+Chula Vista,32.6281,-117.0144,United States,USA,267172
+Sterlitamak,53.63,55.96,Russia,RUS,267231
+Lafayette,30.2097,-92.0314,United States,USA,267376
+Tshikapa,-6.41,20.77,Congo (Kinshasa),COD,267462
+Yanbu al Bahr,24.0943,38.0493,Saudi Arabia,SAU,267590
+Tebingtinggi,3.3304,99.13,Indonesia,IDN,268043
+Windhoek,-22.57,17.0835,Namibia,NAM,268132
+Mokpo,34.8068,126.3958,"Korea, South",KOR,268402
+Nancy,48.6837,6.2,France,FRA,268976
+Malmo,55.5833,13.0333,Sweden,SWE,269349
+Kiel,54.3304,10.13,Germany,DEU,269427
+Thohoyandou,-22.95,30.48,South Africa,ZAF,269707
+Munster,51.9704,7.62,Germany,DEU,270184
+Gombe,10.2904,11.17,Nigeria,NGA,270366
+Venice,45.4387,12.335,Italy,ITA,270816
+Bijapur,16.8354,75.71,India,IND,271064
+Tasikmalaya,-7.3254,108.2147,Indonesia,IDN,271143
+Sari,36.5504,53.1,Iran,IRN,271467
+Elazig,38.68,39.23,Turkey,TUR,271492
+Pakalongan,-6.8796,109.67,Indonesia,IDN,272000
+Yamagata,38.2705,140.32,Japan,JPN,272209
+Majene,-3.5336,118.966,Indonesia,IDN,272377
+Canton,40.8082,-81.3678,United States,USA,272768
+Blackpool,53.8304,-3.05,United Kingdom,GBR,272792
+Guantanamo,20.1453,-75.2061,Cuba,CUB,272801
+Crato,-7.4639,-63.04,Brazil,BRA,273883
+Crato,-7.2296,-39.42,Brazil,BRA,273883
+Ubon Ratchathani,15.25,104.83,Thailand,THA,273893
+Jinshi,29.6321,111.8517,China,CHN,274000
+Pamplona,42.82,-1.65,Spain,ESP,274545
+Setif,36.18,5.4,Algeria,DZA,274744
+Ciudad Victoria,23.72,-99.13,Mexico,MEX,274900
+Mbandaka,0.04,18.26,Congo (Kinshasa),COD,274996
+Monteria,8.7575,-75.89,Colombia,COL,275198
+Bern,46.9167,7.467,Switzerland,CHE,275329
+Prokopyevsk,53.9,86.71,Russia,RUS,275615
+Komsomolsk na Amure,50.555,137.02,Russia,RUS,275908
+Sukabumi,-6.9096,106.9,Indonesia,IDN,276414
+Owo,7.2004,5.59,Nigeria,NGA,276574
+Kostroma,57.77,40.94,Russia,RUS,277656
+Kaolack,14.15,-16.1,Senegal,SEN,277812
+Taganrog,47.23,38.92,Russia,RUS,279056
+Sumqayt,40.58,49.63,Azerbaijan,AZE,279159
+Ica,-14.068,-75.7255,Peru,PER,279420
+Rize,41.0208,40.5219,Turkey,TUR,279450
+Cotabato,7.2169,124.2484,Philippines,PHL,279519
+Xinzhou,38.4104,112.72,China,CHN,279607
+South Bend,41.6771,-86.269,United States,USA,279698
+Tacloban,11.2504,125,Philippines,PHL,280006
+Tacna,-18,-70.25,Peru,PER,280098
+Savannah,32.0282,-81.1784,United States,USA,280692
+Lincoln,40.8102,-96.6808,United States,USA,280741
+Batna,35.57,6.17,Algeria,DZA,280798
+Gorgan,36.8303,54.48,Iran,IRN,281023
+Ambato,-1.2696,-78.62,Ecuador,ECU,281425
+Cap-Haitien,19.7592,-72.2125,Haiti,HTI,281487
+Bahia Blanca,-38.74,-62.265,Argentina,ARG,281536
+Jining,41.03,113.08,China,CHN,281716
+Newark,40.7242,-74.1724,United States,USA,281764
+Zhytomyr,50.2456,28.6622,Ukraine,UKR,282192
+Tongchuan,35.08,109.03,China,CHN,282258
+Kupang,-10.1787,123.583,Indonesia,IDN,282396
+Aizawl,23.7104,92.72,India,IND,283021
+Cadiz,10.9587,123.3086,Philippines,PHL,283157
+Cadiz,36.535,-6.225,Spain,ESP,283157
+Alwar,27.5454,76.6049,India,IND,283228
+Iksan,35.941,126.9454,"Korea, South",KOR,283501
+Port Moresby,-9.4647,147.1925,Papua New Guinea,PNG,283733
+Barinas,8.6,-70.25,Venezuela,VEN,284289
+Bago,17.32,96.515,Burma,MMR,284318
+Mandya,12.5704,76.92,India,IND,285034
+Zagazig,30.5833,31.5167,Egypt,EGY,285097
+Rangpur,25.75,89.28,Bangladesh,BGD,285564
+Hospet,15.2804,76.375,India,IND,286007
+Plano,33.0502,-96.7487,United States,USA,286057
+Petropolis,-22.5095,-43.2,Brazil,BRA,286071
+Sekondi,4.9433,-1.704,Ghana,GHA,286248
+Round Lake Beach,42.379,-88.0811,United States,USA,286350
+Butembo,0.13,29.28,Congo (Kinshasa),COD,286403
+Rockford,42.2594,-89.0646,United States,USA,286727
+Lakeland,28.0556,-81.9542,United States,USA,286876
+Cuenca,-2.9,-79,Ecuador,ECU,286878
+Tirupati,13.6504,79.42,India,IND,287035
+Springfield,37.1943,-93.2916,United States,USA,287124
+Coatzacoalcos,18.1204,-94.42,Mexico,MEX,287285
+Ciudad Obregon,27.4666,-109.925,Mexico,MEX,288002
+Talcahuano,-36.7167,-73.1167,Chile,CHL,288074
+Sinuiju,40.0859,124.4213,"Korea, North",PRK,288112
+Davenport,41.5558,-90.6052,United States,USA,288233
+Karimnagar,18.4604,79.11,India,IND,288251
+Huizhou,23.08,114.4,China,CHN,289201
+Bhuj,23.2504,69.81,India,IND,289429
+Victoria,48.4333,-123.35,Canada,CAN,289625
+Limeira,-22.5495,-47.4,Brazil,BRA,289665
+Kassel,51.3,9.5,Germany,DEU,289924
+Hulan Ergi,47.21,123.61,China,CHN,289999
+Kasur,31.1254,74.455,Pakistan,PAK,290643
+Bafoussam,5.4904,10.4099,Cameroon,CMR,290768
+Khammam,17.2804,80.1601,India,IND,290839
+Cagliari,39.2224,9.104,Italy,ITA,291511
+Mbeya,-8.89,33.43,Tanzania,TZA,291649
+Shreveport,32.4659,-93.7959,United States,USA,291749
+Bialystok,53.1504,23.17,Poland,POL,291855
+Minna,9.62,6.55,Nigeria,NGA,291905
+Ponta Grossa,-25.09,-50.16,Brazil,BRA,292177
+Makurdi,7.73,8.53,Nigeria,NGA,292645
+Panipat,29.4004,76.97,India,IND,292808
+Kakinada,16.9675,82.2375,India,IND,292923
+Henderson,36.0145,-115.0362,United States,USA,292969
+Thies,14.8104,-16.93,Senegal,SEN,293001
+Trenton,40.2237,-74.764,United States,USA,293697
+Blumenau,-26.92,-49.09,Brazil,BRA,293949
+Fukushima,37.74,140.47,Japan,JPN,294237
+Swansea,51.63,-3.95,United Kingdom,GBR,294339
+Sumy,50.9243,34.7809,Ukraine,UKR,294456
+Vologda,59.21,39.92,Russia,RUS,294889
+Port-of-Spain,10.652,-61.517,Trinidad And Tobago,TTO,294934
+Ar Ramadi,33.42,43.3,Iraq,IRQ,295121
+Morioka,39.72,141.13,Japan,JPN,295172
+Rampur,28.8154,79.025,India,IND,296418
+Bandar Seri Begawan,4.8833,114.9333,Brunei,BRN,296500
+Cherkasy,49.4347,32.0709,Ukraine,UKR,297568
+Iskenderun,36.5804,36.17,Turkey,TUR,297943
+Chernivtsi,48.3053,25.9216,Ukraine,UKR,298251
+Aomori,40.825,140.71,Japan,JPN,298394
+Al Kharj,24.1556,47.312,Saudi Arabia,SAU,298428
+Al Mubarraz,25.4291,49.5659,Saudi Arabia,SAU,298562
+Jember,-8.1727,113.6873,Indonesia,IDN,298585
+Dumyat,31.4204,31.82,Egypt,EGY,299459
+Baqubah,33.7476,44.6573,Iraq,IRQ,299479
+Kanggye,40.9732,126.6032,"Korea, North",PRK,299514
+Asheville,35.5703,-82.5536,United States,USA,299892
+Curepipe,-20.3162,57.5166,Mauritius,MUS,299975
+Qyzylorda,44.8,65.465,Kazakhstan,KAZ,300000
+Rach Gia,10.0154,105.0914,Vietnam,VNM,300000
+Soc Trang,9.6037,105.98,Vietnam,VNM,300000
+Porto-Novo,6.4833,2.6166,Benin,BEN,300000
+Bidar,17.9229,77.5175,India,IND,300136
+Mardan,34.2,72.04,Pakistan,PAK,300424
+Brest,52.1,23.7,Belarus,BLR,300715
+Antioch,37.9789,-121.7958,United States,USA,300780
+Hami,42.827,93.515,China,CHN,300848
+Tambov,52.73,41.43,Russia,RUS,301482
+Gujrat,32.58,74.08,Pakistan,PAK,301506
+Fort Collins,40.5487,-105.0656,United States,USA,301581
+Jinja,0.4404,33.1999,Uganda,UGA,301619
+Barddhaman,23.2504,87.865,India,IND,301725
+Qena,26.1505,32.72,Egypt,EGY,302027
+Batman,37.8904,41.14,Turkey,TUR,302074
+Kingston upon Hull,53.7504,-0.33,United Kingdom,GBR,302296
+Saint Paul,44.9477,-93.104,United States,USA,302398
+Chemnitz,50.83,12.92,Germany,DEU,302643
+Hakodate,41.795,140.74,Japan,JPN,302984
+Ganca,40.685,46.35,Azerbaijan,AZE,303268
+Mengzi,23.3619,103.4061,China,CHN,303341
+Saransk,54.1704,45.18,Russia,RUS,303394
+Constanta,44.2027,28.61,Romania,ROU,303399
+Los Teques,10.42,-67.02,Venezuela,VEN,303470
+Kom Ombo,24.47,32.95,Egypt,EGY,303962
+Craiova,44.3263,23.8259,Romania,ROU,304142
+Olongapo,14.8296,120.2828,Philippines,PHL,304388
+Rajahmundry,17.0303,81.79,India,IND,304804
+Franca,-20.53,-47.39,Brazil,BRA,305041
+Hatay,36.2304,36.12,Turkey,TUR,305564
+San Salvador de Jujuy,-24.1833,-65.3,Argentina,ARG,305891
+Porto Velho,-8.75,-63.9,Brazil,BRA,306180
+Firozabad,27.15,78.3949,India,IND,306409
+Tawau,4.271,117.896,Malaysia,MYS,306462
+Ksar El Kebir,35.0204,-5.91,Morocco,MAR,306600
+Ratlam,23.3504,75.03,India,IND,307229
+Huntsville,34.699,-86.6412,United States,USA,307319
+Chernihiv,51.5049,31.3015,Ukraine,UKR,307684
+Naltchik,43.4981,43.6179,Russia,RUS,307866
+Antsirabe,-19.85,47.0333,Madagascar,MDG,307921
+Vitoria da Conquista,-14.85,-40.84,Brazil,BRA,308204
+Valledupar,10.48,-73.25,Colombia,COL,308237
+Chita,52.055,113.465,Russia,RUS,308500
+Dayr az Zawr,35.3304,40.13,Syria,SYR,309141
+Sapele,5.8904,5.68,Nigeria,NGA,309162
+Antofagasta,-23.65,-70.4,Chile,CHL,309832
+Pucallpa,-8.3689,-74.535,Peru,PER,310750
+Sambalpur,21.4704,83.9701,India,IND,310852
+Brasov,45.6475,25.6072,Romania,ROU,311044
+Galati,45.4559,28.0459,Romania,ROU,311156
+Semey,50.435,80.275,Kazakhstan,KAZ,311353
+Qurghonteppa,37.8373,68.7713,Tajikistan,TJK,311574
+Cherepovets,59.1404,37.91,Russia,RUS,311850
+Lexington,38.0423,-84.4587,United States,USA,312495
+Koblenz,50.3505,7.6,Germany,DEU,312633
+Varna,43.2156,27.8953,Bulgaria,BGR,312770
+Aswan,24.0875,32.8989,Egypt,EGY,313442
+Ninde,26.6804,119.5301,China,CHN,314077
+Angeles,15.1451,120.5451,Philippines,PHL,314493
+Gdynia,54.5204,18.53,Poland,POL,314664
+Pescara,42.4554,14.2187,Italy,ITA,314789
+Ljubljana,46.0553,14.515,Slovenia,SVN,314807
+Timisoara,45.7588,21.2234,Romania,ROU,315053
+Armenia,4.5343,-75.6811,Colombia,COL,315328
+Maiquetia,10.6004,-66.97,Venezuela,VEN,315442
+Dezful,32.3804,48.47,Iran,IRN,315482
+Alicante,38.3512,-0.4836,Spain,ESP,315863
+Bauchi,10.3104,9.84,Nigeria,NGA,316149
+Cluj-Napoca,46.7884,23.5984,Romania,ROU,316748
+Fayetteville,35.0847,-78.9777,United States,USA,316764
+El Faiyum,29.31,30.84,Egypt,EGY,316772
+Rohtak,28.9,76.58,India,IND,317245
+Hrodna,53.6779,23.8341,Belarus,BLR,317365
+Cumana,10.45,-64.18,Venezuela,VEN,317603
+New Delhi,28.6,77.2,India,IND,317797
+Poltava,49.574,34.5703,Ukraine,UKR,317847
+Hat Yai,6.9964,100.4714,Thailand,THA,317954
+Lansing,42.7142,-84.5598,United States,USA,318278
+Vladimir,56.13,40.4099,Russia,RUS,318648
+Tepic,21.5054,-104.88,Mexico,MEX,318781
+Oskemen,49.99,82.6149,Kazakhstan,KAZ,319067
+Holguin,20.8872,-76.2631,Cuba,CUB,319102
+Windsor,42.3333,-83.0333,Canada,CAN,319246
+Murmansk,68.97,33.1,Russia,RUS,319263
+Bukhara,39.78,64.43,Uzbekistan,UZB,319476
+Pachuca,20.1704,-98.73,Mexico,MEX,319581
+Anapolis,-16.3196,-48.96,Brazil,BRA,319587
+Maroua,10.5956,14.3247,Cameroon,CMR,319941
+Akita,39.71,140.09,Japan,JPN,320069
+Legazpi,13.17,123.75,Philippines,PHL,320081
+Itu,-23.26,-47.3,Brazil,BRA,320170
+Shahjahanpur,27.8804,79.905,India,IND,320434
+Kherson,46.6325,32.6007,Ukraine,UKR,320477
+Podolsk,55.3804,37.5299,Russia,RUS,320635
+Pelotas,-31.75,-52.33,Brazil,BRA,320674
+Ciudad del Este,-25.5167,-54.6161,Paraguay,PRY,320872
+Smolensk,54.7827,32.0473,Russia,RUS,320991
+Cordoba,37.88,-4.77,Spain,ESP,321376
+Al Kut,32.4907,45.8304,Iraq,IRQ,321521
+Santa Rosa,38.4465,-122.7059,United States,USA,321699
+Valladolid,41.65,-4.75,Spain,ESP,322304
+Mobile,30.6782,-88.1161,United States,USA,322496
+Chenzhou,25.8004,113.0301,China,CHN,322997
+Volzhskiy,48.7948,44.7744,Russia,RUS,323293
+Miyazaki,31.9182,131.4184,Japan,JPN,324384
+Yoshkar Ola,56.6354,47.8749,Russia,RUS,324406
+Ann Arbor,42.2757,-83.7312,United States,USA,324421
+Birjand,32.88,59.2199,Iran,IRN,324703
+Brahmapur,19.32,84.8,India,IND,324726
+Iasi,47.1683,27.5749,Romania,ROU,325914
+Fort Wayne,41.0885,-85.1436,United States,USA,326814
+Sousse,35.83,10.625,Tunisia,TUN,327004
+Itajai,-26.8996,-48.68,Brazil,BRA,327126
+Montpellier,43.6104,3.87,France,FRA,327254
+Sochi,43.59,39.73,Russia,RUS,327608
+Canberra,-35.283,149.129,Australia,AUS,327700
+Sagar,23.8504,78.75,India,IND,328240
+Maringa,-23.4095,-51.93,Brazil,BRA,328335
+Pavlodar,52.3,76.95,Kazakhstan,KAZ,329002
+Wonsan,39.1605,127.4308,"Korea, North",PRK,329207
+Patiala,30.3204,76.385,India,IND,329224
+Baishan,41.9,126.43,China,CHN,330000
+Mymensingh,24.7504,90.38,Bangladesh,BGD,330126
+Mathura,27.5,77.67,India,IND,330511
+Heyuan,23.7304,114.68,China,CHN,330961
+Bujumbura,-3.3761,29.36,Burundi,BDI,331700
+Greensboro,36.096,-79.8275,United States,USA,331894
+Bielefeld,52.03,8.53,Germany,DEU,331906
+Montes Claros,-16.72,-43.86,Brazil,BRA,332379
+Medani,14.4,33.52,Sudan,SDN,332714
+Hangu,39.232,117.777,China,CHN,332793
+Toyama,36.7,137.23,Japan,JPN,332812
+Beni,0.4904,29.45,Congo (Kinshasa),COD,332903
+Muzaffarpur,26.1204,85.3799,India,IND,333200
+Santa Ana,33.7366,-117.8819,United States,USA,334217
+Takamatsu,34.3447,134.0448,Japan,JPN,334223
+Orel,52.97,36.07,Russia,RUS,334552
+Nakhon Ratchasima,15,102.1,Thailand,THA,334984
+Bauru,-22.33,-49.08,Brazil,BRA,335024
+Kochi,33.5624,133.5375,Japan,JPN,335570
+Gijon,43.53,-5.67,Spain,ESP,335972
+Santa Cruz de Tenerife,28.47,-16.25,Spain,ESP,336061
+Fayetteville,36.0713,-94.166,United States,USA,336152
+Alor Setar,6.1133,100.3729,Malaysia,MYS,336475
+Phan Thiet,10.9337,108.1001,Vietnam,VNM,336846
+Lalitpur,27.6666,85.3333,Nepal,NPL,337785
+Kawagoe,35.9177,139.4911,Japan,JPN,337931
+Ciudad Bolivar,8.1,-63.6,Venezuela,VEN,338000
+Kaesong,37.964,126.5644,"Korea, North",PRK,338155
+Flint,43.0235,-83.6921,United States,USA,338616
+East London,-32.97,27.87,South Africa,ZAF,338627
+Kaluga,54.5204,36.27,Russia,RUS,338978
+Irapuato,20.67,-101.5,Mexico,MEX,339554
+Tieling,42.3004,123.82,China,CHN,340000
+Yaan,29.9804,103.08,China,CHN,340000
+Aksu,41.15,80.25,China,CHN,340020
+Chitungwiza,-18,31.1,Zimbabwe,ZWE,340360
+Plovdiv,42.154,24.754,Bulgaria,BGR,340494
+Koriyama,37.41,140.38,Japan,JPN,340560
+Corrientes,-27.49,-58.81,Argentina,ARG,340823
+Arusha,-3.36,36.67,Tanzania,TZA,341136
+Pematangsiantar,2.9614,99.0615,Indonesia,IDN,341200
+Jhang,31.2804,72.325,Pakistan,PAK,341210
+Corpus Christi,27.7173,-97.3822,United States,USA,341570
+Yeosu,34.7368,127.7458,"Korea, South",KOR,341994
+Piracicaba,-22.71,-47.64,Brazil,BRA,342209
+Jackson,32.3163,-90.2124,United States,USA,342607
+Vitsyebsk,55.1887,30.1853,Belarus,BLR,342700
+Kohat,33.6027,71.4327,Pakistan,PAK,343027
+Kurgan,55.46,65.345,Russia,RUS,343129
+Maebashi,36.3927,139.0727,Japan,JPN,344871
+Al Amarah,31.8416,47.1512,Iraq,IRQ,345007
+Kosti,13.17,32.66,Sudan,SDN,345068
+Belgorod,50.63,36.5999,Russia,RUS,345289
+Charleroi,50.4204,4.45,Belgium,BEL,345367
+Merida,8.4,-71.13,Venezuela,VEN,345489
+Astana,51.1811,71.4278,Kazakhstan,KAZ,345604
+Victorville,34.5277,-117.3537,United States,USA,346449
+London,42.97,-81.25,Canada,CAN,346765
+Verona,45.4404,10.99,Italy,ITA,347459
+Camaguey,21.3808,-77.9169,Cuba,CUB,347562
+Lancaster,34.6934,-118.1753,United States,USA,348760
+Linz,48.3192,14.2888,Austria,AUT,349161
+Sanandaj,35.3,47.02,Iran,IRN,349176
+Nuevo Laredo,27.5,-99.55,Mexico,MEX,349550
+Muzaffarnagar,29.485,77.695,India,IND,349706
+Chimbote,-9.07,-78.57,Peru,PER,349846
+Buon Me Thuot,12.667,108.05,Vietnam,VNM,349945
+Haarlem,52.3804,4.63,Netherlands,NLD,349957
+Qoqon,40.5404,70.94,Uzbekistan,UZB,350000
+Long Xuyen,10.3804,105.42,Vietnam,VNM,350000
+Viet Tri,21.3304,105.43,Vietnam,VNM,350000
+Yumen,39.83,97.73,China,CHN,350000
+Kuala Terengganu,5.3304,103.12,Malaysia,MYS,350210
+Hualien,23.9837,121.6,Taiwan,TWN,350468
+Anaheim,33.839,-117.8572,United States,USA,351043
+Vinnytsya,49.2254,28.4816,Ukraine,UKR,352115
+Pensacola,30.4427,-87.1886,United States,USA,352187
+Neiva,2.931,-75.3302,Colombia,COL,352855
+Rahim Yar Khan,28.4202,70.2952,Pakistan,PAK,353203
+Eldoret,0.52,35.27,Kenya,KEN,353381
+Safi,32.32,-9.24,Morocco,MAR,353476
+Mito,36.3704,140.48,Japan,JPN,353892
+Santiago del Estero,-27.7833,-64.2667,Argentina,ARG,354692
+Longxi,35.0476,104.6394,China,CHN,355037
+Orizaba,18.85,-97.13,Mexico,MEX,355333
+Ambon,-3.7167,128.2,Indonesia,IDN,355596
+Wafangdian,39.6259,121.996,China,CHN,355844
+Archangel,64.575,40.545,Russia,RUS,356051
+Mirput Khas,25.5318,69.0118,Pakistan,PAK,356435
+Asahikawa,43.755,142.38,Japan,JPN,356612
+Ca Mau,9.1774,105.15,Vietnam,VNM,356636
+Fuyu,45.1804,124.82,China,CHN,356905
+Encarnacion,-27.3472,-55.8739,Paraguay,PRY,357119
+Posadas,-27.3578,-55.8851,Argentina,ARG,357119
+Iwaki,37.0553,140.89,Japan,JPN,357309
+San Sebastian,43.3204,-1.98,Spain,ESP,357468
+Zanjan,36.67,48.5,Iran,IRN,357471
+Toulon,43.1342,5.9188,France,FRA,357693
+Taraz,42.9,71.365,Kazakhstan,KAZ,358153
+Ad Diwaniyah,31.9889,44.924,Iraq,IRQ,358408
+Sungai Petani,5.6497,100.4793,Malaysia,MYS,358499
+Augsburg,48.35,10.9,Germany,DEU,358989
+Halifax,44.65,-63.6,Canada,CAN,359111
+Lublin,51.2504,22.5727,Poland,POL,360044
+Bobo Dioulasso,11.18,-4.29,Burkina Faso,BFA,360106
+Ulan Ude,51.825,107.625,Russia,RUS,360278
+Tamale,9.4004,-0.84,Ghana,GHA,360579
+Cusco,-13.525,-71.9722,Peru,PER,361182
+Sheikhu Pura,31.72,73.99,Pakistan,PAK,361303
+Maseru,-29.3167,27.4833,Lesotho,LSO,361324
+Bhagalpur,25.23,86.98,India,IND,361548
+Aurora,39.7085,-104.7274,United States,USA,361710
+Sanya,18.2591,109.504,China,CHN,362689
+Stavropol,45.05,41.98,Russia,RUS,363064
+Christchurch,-43.535,172.63,New Zealand,NZL,363200
+Larkana,27.5618,68.2068,Pakistan,PAK,364033
+Vladikavkaz,43.0504,44.67,Russia,RUS,364630
+Nakuru,-0.28,36.07,Kenya,KEN,364727
+Kissimmee,28.3042,-81.4164,United States,USA,365099
+Gorontalo,0.55,123.07,Indonesia,IDN,365497
+Kuantan,3.83,103.32,Malaysia,MYS,366229
+Bydgoszcz,53.1204,18.01,Poland,POL,366452
+Longyan,25.1804,117.03,China,CHN,367896
+Mazatlan,23.2211,-106.42,Mexico,MEX,368204
+Valletta,35.8997,14.5147,Malta,MLT,368250
+Al-Qatif,26.5196,50.0115,Saudi Arabia,SAU,368892
+Mahilyow,53.8985,30.3247,Belarus,BLR,369200
+Najran,17.5065,44.1316,Saudi Arabia,SAU,369609
+Reading,51.47,-0.98,United Kingdom,GBR,369804
+Rajapalaiyam,9.4204,77.58,India,IND,369991
+Quzhou,28.9704,118.87,China,CHN,370000
+Abadan,30.3307,48.2797,Iran,IRN,370180
+La Coruna,43.33,-8.42,Spain,ESP,370610
+Van,38.4954,43.4,Turkey,TUR,371713
+Youngstown,41.0994,-80.6463,United States,USA,372039
+Denizli,37.7704,29.08,Turkey,TUR,372344
+Seremban,2.7105,101.94,Malaysia,MYS,372917
+Shache,38.4261,77.25,China,CHN,373492
+Latur,18.4004,76.57,India,IND,374394
+Kaunas,54.9504,23.88,Lithuania,LTU,374643
+Sao Jose do Rio Preto,-20.7996,-49.39,Brazil,BRA,374699
+Villavicencio,4.1533,-73.635,Colombia,COL,374763
+Khorramabad,33.4804,48.35,Iran,IRN,375198
+Shillong,25.5705,91.88,India,IND,375527
+Manukau,-37,174.885,New Zealand,NZL,375600
+Palma,39.5743,2.6542,Spain,ESP,375773
+Manizales,5.06,-75.52,Colombia,COL,375848
+Kahramanmaras,37.61,36.945,Turkey,TUR,376045
+Putian,25.4303,119.02,China,CHN,376558
+Makiyivka,48.0297,37.9746,Ukraine,UKR,376610
+Zhoukou,33.6304,114.63,China,CHN,377061
+Karlsruhe,49,8.4,Germany,DEU,377487
+Modesto,37.6371,-121.003,United States,USA,377755
+Parbhani,19.2704,76.76,India,IND,378326
+Las Palmas,28.1,-15.43,Spain,ESP,378495
+Vigo,42.22,-8.73,Spain,ESP,378952
+Boise,43.5991,-116.2306,United States,USA,379410
+Dezhou,37.4504,116.3,China,CHN,379555
+Xichang,27.88,102.3,China,CHN,379993
+Nizhny Tagil,57.92,59.975,Russia,RUS,381116
+Caxias do Sul,-29.18,-51.17,Brazil,BRA,381270
+Pasto,1.2136,-77.2811,Colombia,COL,382236
+Bonita Springs,26.3557,-81.7859,United States,USA,382869
+Celaya,20.53,-100.8,Mexico,MEX,383697
+Southampton,50.9,-1.4,United Kingdom,GBR,384417
+Bejaia,36.7604,5.07,Algeria,DZA,384937
+Hail,27.5236,41.7001,Saudi Arabia,SAU,385257
+Oxnard,34.1961,-119.1821,United States,USA,385837
+Misratah,32.38,15.1,Libya,LBY,386120
+Qarshi,38.8704,65.8,Uzbekistan,UZB,386361
+Baicheng,45.62,122.82,China,CHN,386861
+Resistencia,-27.46,-58.99,Argentina,ARG,387158
+Campos,-21.75,-41.32,Brazil,BRA,387417
+Scranton,41.4043,-75.6649,United States,USA,387448
+Iloilo,10.705,122.545,Philippines,PHL,387681
+Alajuela,10.02,-84.23,Costa Rica,CRI,387743
+Coventry,52.4204,-1.5,United Kingdom,GBR,388271
+Brno,49.2004,16.61,Czechia,CZE,388277
+Granada,37.165,-3.585,Spain,ESP,388290
+Nizamabad,18.6704,78.1,India,IND,388505
+Nampula,-15.136,39.293,Mozambique,MOZ,388526
+Grenoble,45.1804,5.72,France,FRA,388574
+Samut Prakan,13.6069,100.6115,Thailand,THA,388920
+Augusta,33.3644,-82.0708,United States,USA,389215
+Comilla,23.4704,91.17,Bangladesh,BGD,389411
+Bhilwara,25.3504,74.635,India,IND,389911
+Stockton,37.9766,-121.3111,United States,USA,390117
+Stoke,53.0004,-2.18,United Kingdom,GBR,390801
+Osh,40.5404,72.79,Kyrgyzstan,KGZ,391277
+Poughkeepsie,41.6949,-73.921,United States,USA,391552
+Ahmednagar,19.1104,74.75,India,IND,391760
+Sandakan,5.843,118.108,Malaysia,MYS,392288
+Niyala,12.06,24.89,Sudan,SDN,392373
+Arlington,32.6998,-97.1251,United States,USA,392772
+El Obeid,13.1833,30.2167,Sudan,SDN,393311
+Wellington,-41.3,174.7833,New Zealand,NZL,393400
+Tallinn,59.4339,24.728,Estonia,EST,394024
+Kollam,8.9004,76.57,India,IND,394163
+Palm Coast,29.5403,-81.2468,United States,USA,395224
+Kisumu,-0.09,34.75,Kenya,KEN,395615
+Yuxi,24.38,102.57,China,CHN,396325
+Ndola,-12.9999,28.65,Zambia,ZMB,396339
+Horlivka,48.2996,38.0547,Ukraine,UKR,396885
+Piura,-5.21,-80.63,Peru,PER,396932
+Chiang Mai,18.8,98.98,Thailand,THA,397211
+Eindhoven,51.43,5.5,Netherlands,NLD,398053
+Khmelnytskyy,49.4249,27.0015,Ukraine,UKR,398346
+Buraydah,26.3664,43.9628,Saudi Arabia,SAU,398581
+Gomez Palacio,25.5701,-103.5,Mexico,MEX,399328
+Tumkur,13.33,77.1,India,IND,399606
+Surgut,61.2599,73.425,Russia,RUS,400000
+Jingmen,31.0304,112.1,China,CHN,400000
+Sikar,27.6104,75.14,India,IND,400000
+Tver,56.86,35.89,Russia,RUS,400212
+Durham,35.9801,-78.9045,United States,USA,400379
+Sunchon,39.4236,125.939,"Korea, North",PRK,400629
+Spokane,47.6671,-117.433,United States,USA,400936
+Lancaster,40.0421,-76.3012,United States,USA,401205
+Kassala,15.46,36.39,Sudan,SDN,401477
+Indio,33.7346,-116.2347,United States,USA,402166
+Mbale,1.0904,34.17,Uganda,UGA,402368
+Pasay City,14.5504,121,Philippines,PHL,403064
+Bissau,11.865,-15.5984,Guinea-Bissau,GNB,403339
+Yining,43.9,81.35,China,CHN,403489
+Taubate,-23.0195,-45.56,Brazil,BRA,403560
+Chattanooga,35.0657,-85.2488,United States,USA,403618
+Zanzibar,-6.16,39.2,Tanzania,TZA,403658
+Kitwe,-12.81,28.22,Zambia,ZMB,404901
+Tanta,30.7904,31,Egypt,EGY,404901
+Murcia,37.98,-1.13,Spain,ESP,406807
+Syracuse,43.0409,-76.1438,United States,USA,407208
+Szczecin,53.4204,14.53,Poland,POL,407811
+Ipatinga,-19.4796,-42.52,Brazil,BRA,407894
+Oshogbo,7.7704,4.56,Nigeria,NGA,408245
+Jeju,33.5101,126.5219,"Korea, South",KOR,408364
+Al Ayn,24.2305,55.74,United Arab Emirates,ARE,408733
+Metz,49.1203,6.18,France,FRA,409186
+Oujda,34.69,-1.91,Morocco,MAR,409391
+Kursk,51.74,36.19,Russia,RUS,409431
+Xuanhua,40.5944,115.0243,China,CHN,409745
+Maturin,9.75,-63.17,Venezuela,VEN,410972
+Nha Trang,12.25,109.17,Vietnam,VNM,411556
+Winston-Salem,36.1029,-80.261,United States,USA,412490
+Huancayo,-12.08,-75.2,Peru,PER,412733
+Gifu,35.4231,136.7628,Japan,JPN,412895
+Magnitogorsk,53.4227,58.98,Russia,RUS,413351
+Ardabil,38.25,48.3,Iran,IRN,414603
+Meizhou,24.3005,116.12,China,CHN,414930
+Middlesbrough,54.5804,-1.23,United Kingdom,GBR,416042
+Kitchener,43.45,-80.5,Canada,CAN,417001
+Campina Grande,-7.23,-35.88,Brazil,BRA,417261
+Luohe,33.57,114.03,China,CHN,417356
+Sukkur,27.7136,68.8486,Pakistan,PAK,417767
+Kolwezi,-10.7167,25.4724,Congo (Kinshasa),COD,418000
+Oakland,37.7903,-122.2165,United States,USA,420005
+Asyut,27.19,31.1799,Egypt,EGY,420585
+Akure,7.2504,5.2,Nigeria,NGA,420594
+Erzurum,39.9204,41.29,Turkey,TUR,420691
+Ivanovo,57.01,41.01,Russia,RUS,420839
+Ibague,4.4389,-75.2322,Colombia,COL,421685
+Port Saint Lucie,27.2795,-80.3882,United States,USA,422966
+Gaya,24.8,85,India,IND,423692
+Bratislava,48.15,17.117,Slovakia,SVK,423737
+Batangas,13.7817,121.0217,Philippines,PHL,424508
+Chaozhou,23.68,116.63,China,CHN,424787
+Kurnool,15.83,78.03,India,IND,424920
+Heidelberg,49.42,8.7,Germany,DEU,426590
+Bengkulu,-3.8,102.27,Indonesia,IDN,426673
+Bournemouth,50.73,-1.9,United Kingdom,GBR,426945
+Reno,39.5487,-119.8486,United States,USA,427007
+Bryansk,53.26,34.43,Russia,RUS,427236
+Villahermosa,18,-92.9,Mexico,MEX,428564
+Santa Marta,11.2472,-74.2017,Colombia,COL,431781
+Welkom,-27.97,26.73,South Africa,ZAF,431944
+Katsina,12.9904,7.6,Nigeria,NGA,432149
+Denton,33.2165,-97.1411,United States,USA,432200
+San Luis,-33.3,-66.35,Argentina,ARG,432310
+Spanish Town,17.9833,-76.95,Jamaica,JAM,432704
+Likasi,-10.97,26.78,Congo (Kinshasa),COD,434408
+Kaliningrad,54.7,20.4973,Russia,RUS,434954
+Madison,43.0809,-89.3921,United States,USA,434967
+Pohang,36.0209,129.3715,"Korea, South",KOR,435266
+Nagasaki,32.765,129.885,Japan,JPN,435455
+Tuticorin,8.82,78.13,India,IND,436094
+Bukavu,-2.51,28.84,Congo (Kinshasa),COD,436779
+Garoua,9.3,13.39,Cameroon,CMR,436899
+Khomeini Shahr,32.7004,51.47,Iran,IRN,437138
+Guangyuan,32.43,105.87,China,CHN,437435
+Khujand,40.29,69.6199,Tajikistan,TJK,437684
+Nantes,47.2104,-1.59,France,FRA,438537
+San Cristobal,7.77,-72.25,Venezuela,VEN,438798
+Mawlamyine,16.5004,97.67,Burma,MMR,438861
+Harrisburg,40.2752,-76.8843,United States,USA,438995
+Strasbourg,48.58,7.75,France,FRA,439972
+Wakayama,34.2231,135.1677,Japan,JPN,440006
+Foz do Iguacu,-25.5235,-54.53,Brazil,BRA,440455
+Cabimas,10.43,-71.45,Venezuela,VEN,441094
+Portsmouth,50.8003,-1.08,United Kingdom,GBR,442252
+Wuzhou,23.48,111.32,China,CHN,442315
+Little Rock,34.7255,-92.3584,United States,USA,442554
+Tokushima,34.0674,134.5525,Japan,JPN,443760
+Gent,51.03,3.7,Belgium,BEL,444336
+Bamenda,5.96,10.15,Cameroon,CMR,445299
+Bellary,15.15,76.915,India,IND,445388
+Balikpapan,-1.25,116.83,Indonesia,IDN,445905
+Ado Ekiti,7.6304,5.22,Nigeria,NGA,446749
+Cheboksary,56.13,47.25,Russia,RUS,446781
+San Juan,-31.55,-68.52,Argentina,ARG,447048
+Baguio City,16.43,120.5699,Philippines,PHL,447824
+Oita,33.2432,131.5979,Japan,JPN,448907
+Chlef,36.1704,1.32,Algeria,DZA,449167
+Xuchang,34.0204,113.82,China,CHN,449258
+Chengde,40.9604,117.93,China,CHN,449325
+Sanliurfa,37.17,38.795,Turkey,TUR,449549
+Belfast,54.6,-5.96,United Kingdom,GBR,450406
+Qitaihe,45.8,130.85,China,CHN,450617
+Oshawa,43.88,-78.85,Canada,CAN,450963
+An Nasiriyah,31.0429,46.2676,Iraq,IRQ,451547
+Qaraghandy,49.885,73.115,Kazakhstan,KAZ,451800
+Manado,1.48,124.85,Indonesia,IDN,451893
+Luhansk,48.5698,39.3344,Ukraine,UKR,452000
+Xalapa,19.53,-96.92,Mexico,MEX,452186
+Sunderland,54.92,-1.38,United Kingdom,GBR,452934
+Sfax,34.75,10.72,Tunisia,TUN,453050
+Hengshui,37.72,115.7,China,CHN,456356
+Volta Redonda,-22.5196,-44.095,Brazil,BRA,456362
+Jambi,-1.59,103.61,Indonesia,IDN,457090
+Durango,24.0311,-104.67,Mexico,MEX,457140
+Jingdezhen,29.2704,117.18,China,CHN,457298
+Kirov,58.5901,49.67,Russia,RUS,457437
+Leicester,52.63,-1.1332,United Kingdom,GBR,457983
+Mazar-e Sharif,36.7,67.1,Afghanistan,AFG,458151
+Iquitos,-3.75,-73.25,Peru,PER,458729
+Cranbourne,-38.0996,145.2834,Australia,AUS,460491
+Hamah,35.1503,36.73,Syria,SYR,460602
+Naberezhnyye Chelny,55.7,52.3199,Russia,RUS,461086
+Bandar-e-Abbas,27.2041,56.2721,Iran,IRN,461499
+Panzhihua,26.55,101.73,China,CHN,461513
+Malatya,38.3704,38.3,Turkey,TUR,461574
+Calabar,4.9604,8.33,Nigeria,NGA,461796
+Greenville,34.8364,-82.3649,United States,USA,462640
+Bloemfontein,-29.12,26.2299,South Africa,ZAF,463064
+Qazvin,36.27,50,Iran,IRN,464551
+Iligan,8.1712,124.2154,Philippines,PHL,464599
+Shymkent,42.32,69.595,Kazakhstan,KAZ,465392
+Piraievs,37.95,23.7,Greece,GRC,466065
+Izmit,40.776,29.9306,Turkey,TUR,466504
+Udaipur,24.6,73.73,India,IND,469737
+Long Beach,33.8059,-118.161,United States,USA,470130
+Juiz de Fora,-21.77,-43.375,Brazil,BRA,470193
+Chaoyang,41.5504,120.42,China,CHN,470296
+Jiaojing,28.6804,121.45,China,CHN,471500
+Staten Island,40.5834,-74.1496,United States,USA,476015
+Murrieta,33.572,-117.1909,United States,USA,476630
+Des Moines,41.5725,-93.6104,United States,USA,476689
+Nazret,8.55,39.27,Ethiopia,ETH,476892
+Kemerovo,55.34,86.09,Russia,RUS,477090
+Sialkote,32.52,74.56,Pakistan,PAK,477396
+Yazd,31.9201,54.37,Iran,IRN,477905
+Ostrava,49.8304,18.25,Czechia,CZE,478963
+Dhule,20.9,74.77,India,IND,479073
+Americana,-22.7499,-47.33,Brazil,BRA,479472
+Zhaoqing,23.0504,112.45,China,CHN,480000
+Homyel,52.43,31,Belarus,BLR,480951
+Herat,34.33,62.17,Afghanistan,AFG,481009
+Tuxtla Gutierrez,16.75,-93.15,Mexico,MEX,481128
+Mariupol,47.0962,37.5562,Ukraine,UKR,481626
+Shah Alam,3.0667,101.55,Malaysia,MYS,481654
+Feira de Santana,-12.25,-38.97,Brazil,BRA,481911
+Wichita,37.6894,-97.344,United States,USA,482205
+Ife,7.4804,4.56,Nigeria,NGA,482365
+Palm Bay,27.9861,-80.6628,United States,USA,483098
+Bhatpara,22.8504,88.52,India,IND,483129
+Gulbarga,17.35,76.82,India,IND,483615
+Mesa,33.4016,-111.718,United States,USA,484587
+Saharanpur,29.97,77.55,India,IND,484873
+Bologna,44.5004,11.34,Italy,ITA,488172
+Yanji,42.8823,129.5128,China,CHN,488740
+Beni Suef,29.0804,31.09,Egypt,EGY,489450
+Tula,54.2,37.6299,Russia,RUS,489486
+Santa Fe,-31.6239,-60.69,Argentina,ARG,489505
+Port Sudan,19.6158,37.2164,Sudan,SDN,489725
+Toledo,41.6639,-83.582,United States,USA,492237
+Wuwei,37.928,102.641,China,CHN,493092
+Mwanza,-2.52,32.93,Tanzania,TZA,493944
+Skopje,42,21.4335,Macedonia,MKD,494087
+Worcester,42.2705,-71.8079,United States,USA,495856
+Douma,33.5833,36.4,Syria,SYR,496145
+Shahrisabz,39.0618,66.8315,Uzbekistan,UZB,498545
+Reynosa,26.08,-98.3,Mexico,MEX,498654
+Macapa,0.033,-51.05,Brazil,BRA,499166
+Mataram,-8.5795,116.135,Indonesia,IDN,499409
+Mazatlan,29.0171,-110.1333,Mexico,MEX,500000
+Awka,6.2104,7.07,Nigeria,NGA,500000
+San Lorenzo,-25.34,-57.52,Paraguay,PRY,500000
+Taoyuan,24.9889,121.3111,Taiwan,TWN,500000
+Chiayi,23.4755,120.4351,Taiwan,TWN,500000
+Keelung,25.1333,121.7333,Taiwan,TWN,500000
+Thai Nguyen,21.6,105.83,Vietnam,VNM,500000
+Shuangyashan,46.6704,131.35,China,CHN,500000
+El Minya,28.09,30.75,Egypt,EGY,500000
+Damanhur,31.0504,30.47,Egypt,EGY,500000
+Pasuruan,-7.6296,112.9,Indonesia,IDN,500000
+Tsu,34.7171,136.5167,Japan,JPN,500000
+Bari,41.1142,16.8728,Italy,ITA,500577
+Provo,40.2458,-111.6457,United States,USA,501690
+Bradford,53.8,-1.75,United Kingdom,GBR,501700
+Astrakhan,46.3487,48.055,Russia,RUS,502533
+Brighton,50.8303,-0.17,United Kingdom,GBR,503008
+Akola,20.71,77.01,India,IND,503502
+Annaba,36.92,7.76,Algeria,DZA,503524
+Pingtung,22.6817,120.4817,Taiwan,TWN,503530
+Vina del Mar,-33.03,-71.54,Chile,CHL,503534
+Davangere,14.47,75.92,India,IND,503564
+Arak,34.0804,49.7,Iran,IRN,503647
+Tlaxcala,19.32,-98.23,Mexico,MEX,503878
+Edinburgh,55.9483,-3.2191,United Kingdom,GBR,504966
+Jundiai,-23.2,-46.88,Brazil,BRA,505548
+Kota Baharu,6.12,102.23,Malaysia,MYS,505583
+Liaoyuan,42.9,125.13,China,CHN,506548
+Bukittinggi,-0.3031,100.3615,Indonesia,IDN,506964
+Gliwice,50.3304,18.67,Poland,POL,507670
+Suez,30.005,32.5499,Egypt,EGY,508335
+Karbala,32.6149,44.0245,Iraq,IRQ,510692
+Mykolayiv,46.9677,31.9843,Ukraine,UKR,510840
+Blida,36.4203,2.83,Algeria,DZA,511348
+Penza,53.18,45,Russia,RUS,512602
+Salta,-24.7834,-65.4166,Argentina,ARG,512686
+Ujjain,23.1904,75.79,India,IND,513350
+Banda Aceh,5.55,95.32,Indonesia,IDN,513698
+Eskisehir,39.795,30.53,Turkey,TUR,514869
+Siliguri,26.7204,88.455,India,IND,515574
+Lipetsk,52.62,39.64,Russia,RUS,515655
+Tyumen,57.14,65.53,Russia,RUS,519119
+Bello,6.33,-75.57,Colombia,COL,519670
+Shashi,30.32,112.23,China,CHN,520000
+Ryazan,54.62,39.72,Russia,RUS,520173
+Londrina,-23.3,-51.18,Brazil,BRA,520238
+Jian,27.1304,115,China,CHN,520248
+Gold Coast,-28.0815,153.4482,Australia,AUS,527660
+Kota Kinabalu,5.98,116.11,Malaysia,MYS,527671
+Cangzhou,38.3204,116.87,China,CHN,527681
+Hamadan,34.796,48.515,Iran,IRN,528256
+Trablous,34.42,35.87,Lebanon,LBN,530000
+Guntur,16.33,80.45,India,IND,530577
+Beira,-19.82,34.87,Mozambique,MOZ,530604
+Oaxaca,17.0827,-96.6699,Mexico,MEX,530728
+Jiangmen,22.5804,113.08,China,CHN,532419
+Rouen,49.4304,1.08,France,FRA,532559
+Matsuyama,33.8455,132.7658,Japan,JPN,533541
+Linxia,35.6,103.2,China,CHN,534555
+Tomsk,56.495,84.975,Russia,RUS,535479
+Otsu,35.0064,135.8674,Japan,JPN,536976
+Goteborg,57.75,12,Sweden,SWE,537797
+Matamoros,25.88,-97.5,Mexico,MEX,538785
+Al Ladhiqiyah,35.54,35.78,Syria,SYR,539147
+Novokuznetsk,53.75,87.115,Russia,RUS,539616
+Yangzhou,32.4,119.43,China,CHN,539715
+Cancun,21.17,-86.83,Mexico,MEX,542043
+Tirunelveli,8.7304,77.69,India,IND,542200
+Vilnius,54.6834,25.3166,Lithuania,LTU,542366
+Leipzig,51.3354,12.41,Germany,DEU,542529
+Sargodha,32.0854,72.675,Pakistan,PAK,542603
+Bilaspur,22.0904,82.16,India,IND,543454
+Matola,-25.9696,32.46,Mozambique,MOZ,543907
+Kashgar,39.4763,75.9699,China,CHN,543914
+Hisar,29.17,75.725,India,IND,544829
+Jiujiang,29.73,115.98,China,CHN,545616
+Puerto la Cruz,10.17,-64.68,Venezuela,VEN,546616
+Tabuk,28.3838,36.555,Saudi Arabia,SAU,547957
+Malaga,36.7204,-4.42,Spain,ESP,550058
+Orenburg,51.78,55.11,Russia,RUS,550204
+Kanazawa,36.56,136.64,Japan,JPN,551249
+Ribeirao Preto,-21.17,-47.83,Brazil,BRA,551267
+Kenitra,34.2704,-6.58,Morocco,MAR,551786
+Bahawalpur,29.39,71.675,Pakistan,PAK,552607
+Bristol,51.45,-2.5833,United Kingdom,GBR,553528
+Uyo,5.008,7.85,Nigeria,NGA,554906
+Bhavnagar,21.7784,72.13,India,IND,554978
+Makhachkala,42.98,47.5,Russia,RUS,554981
+Surakarta,-7.565,110.825,Indonesia,IDN,555308
+Kagoshima,31.586,130.5611,Japan,JPN,555352
+Siping,43.17,124.33,China,CHN,555609
+Santiago de Cuba,20.025,-75.8213,Cuba,CUB,555865
+Mar del Plata,-38,-57.58,Argentina,ARG,555897
+Weihai,37.5,122.1,China,CHN,560255
+Tongling,30.9504,117.78,China,CHN,562832
+Sorocaba,-23.49,-47.47,Brazil,BRA,563281
+New Haven,41.3112,-72.9245,United States,USA,563460
+Uberlandia,-18.9,-48.28,Brazil,BRA,563536
+Manama,26.2361,50.5831,Bahrain,BHR,563920
+Binjai,3.6204,98.5001,Indonesia,IDN,564979
+Akron,41.0802,-81.5219,United States,USA,565311
+Bouake,7.69,-5.03,C����,CIV,567481
+Bakersfield,35.3528,-119.0354,United States,USA,567585
+Macau,22.203,113.545,Macau,MAC,568700
+Pereira,4.8104,-75.68,Colombia,COL,568750
+Niigata,37.92,139.04,Japan,JPN,569797
+Shuozhou,39.3004,112.42,China,CHN,570000
+Kuching,1.53,110.33,Malaysia,MYS,570407
+Columbia,34.0366,-80.9043,United States,USA,571249
+Ogden,41.2281,-111.9677,United States,USA,571457
+Shihezi,44.3,86.0299,China,CHN,573182
+Quetzaltenango,14.83,-91.52,Guatemala,GTM,575263
+Bikaner,28.0304,73.3299,India,IND,576015
+Urmia,37.53,45,Iran,IRN,577307
+Kerman,30.3,57.08,Iran,IRN,577514
+Libreville,0.3854,9.458,Gabon,GAB,578156
+Kisangani,0.52,25.22,Congo (Kinshasa),COD,578470
+Veracruz,19.1773,-96.16,Mexico,MEX,578963
+Khabarovsk,48.455,135.12,Russia,RUS,579000
+Hachioji,35.6577,139.3261,Japan,JPN,579399
+Cuttack,20.47,85.8899,India,IND,580000
+Anqing,30.5,117.05,China,CHN,580497
+Knoxville,35.969,-83.9498,United States,USA,581787
+Blantyre,-15.79,34.9899,Malawi,MWI,584877
+Irkutsk,52.32,104.245,Russia,RUS,586695
+Vladivostok,43.13,131.91,Russia,RUS,587022
+Dortmund,51.53,7.45,Germany,DEU,588462
+Baton Rouge,30.4422,-91.1314,United States,USA,589675
+Ajmer,26.45,74.64,India,IND,589985
+Samarinda,-0.5,117.15,Indonesia,IDN,592228
+Kayseri,38.735,35.49,Turkey,TUR,592840
+Abeokuta,7.1604,3.35,Nigeria,NGA,593100
+Vinh,18.7,105.68,Vietnam,VNM,593645
+Nagano,36.65,138.17,Japan,JPN,594311
+Rasht,37.3,49.63,Iran,IRN,594590
+Al Hillah,23.4895,46.7564,Saudi Arabia,SAU,594605
+Al Hillah,32.4721,44.4217,Iraq,IRQ,594605
+Chandrapur,19.97,79.3,India,IND,595118
+Grand Rapids,42.9615,-85.6557,United States,USA,595467
+Port Louis,-20.1666,57.5,Mauritius,MUS,595491
+Hermosillo,29.0989,-110.9541,Mexico,MEX,595811
+Albany,42.6664,-73.7987,United States,USA,596419
+Chiclayo,-6.7629,-79.8366,Peru,PER,596792
+Jalalabad,34.4415,70.4361,Afghanistan,AFG,597971
+Zahedan,29.5,60.83,Iran,IRN,598887
+Barnaul,53.355,83.745,Russia,RUS,599579
+Canoas,-29.92,-51.18,Brazil,BRA,600000
+El Mansura,31.0504,31.38,Egypt,EGY,600000
+Sohag,26.5504,31.7,Egypt,EGY,600000
+Barcelona,10.1304,-64.72,Venezuela,VEN,600954
+Sangli,16.8604,74.575,India,IND,601214
+Kirkuk,35.4722,44.3923,Iraq,IRQ,601433
+Mission Viejo,33.6095,-117.655,United States,USA,602851
+Abu Dhabi,24.4667,54.3666,United Arab Emirates,ARE,603492
+Bandjarmasin,-3.33,114.5801,Indonesia,IDN,603576
+Constantine,36.36,6.5999,Algeria,DZA,605179
+Yaroslavl,57.62,39.87,Russia,RUS,606730
+Pontianak,-0.03,109.32,Indonesia,IDN,607311
+Belgaum,15.865,74.505,India,IND,608756
+Luxor,25.7,32.65,Egypt,EGY,609248
+Samsun,41.28,36.3437,Turkey,TUR,609339
+Xiangtai,37.05,114.5,China,CHN,611739
+Taizhou,32.4904,119.9,China,CHN,612356
+Palu,-0.907,119.833,Indonesia,IDN,612445
+Charleston,32.8137,-79.9643,United States,USA,613847
+Changping,40.2248,116.1944,China,CHN,614821
+Wiesbaden,50.0804,8.25,Germany,DEU,617126
+Dresden,51.05,13.75,Germany,DEU,617515
+Cape Coral,26.644,-81.9961,United States,USA,617896
+Southend-on-Sea,51.55,0.72,United Kingdom,GBR,618386
+Asmara,15.3333,38.9333,Eritrea,ERI,620802
+Bannu,32.989,70.5986,Pakistan,PAK,622419
+Nanded,19.17,77.3,India,IND,623708
+Bur Said,31.26,32.29,Egypt,EGY,623864
+Poznan,52.4058,16.8999,Poland,POL,623997
+Quebec,46.84,-71.2456,Canada,CAN,624177
+Colorado Springs,38.8673,-104.7605,United States,USA,624789
+Springfield,42.1155,-72.5395,United States,USA,625300
+Raurkela,22.2304,84.83,India,IND,625831
+Zhuozhou,39.5401,115.79,China,CHN,628000
+Izhevsk,56.85,53.23,Russia,RUS,631038
+Winnipeg,49.883,-97.166,Canada,CAN,632063
+Wroclaw,51.1104,17.03,Poland,POL,634893
+Yogyakarta,-7.78,110.375,Indonesia,IDN,636660
+Al Hufuf,25.3487,49.5856,Saudi Arabia,SAU,637389
+Kikwit,-5.03,18.85,Congo (Kinshasa),COD,637736
+Utrecht,52.1003,5.12,Netherlands,NLD,640000
+Ulyanovsk,54.33,48.41,Russia,RUS,640680
+Morelia,19.7334,-101.1895,Mexico,MEX,644306
+Diyarbakir,37.9204,40.23,Turkey,TUR,644763
+Lilongwe,-13.9833,33.7833,Malawi,MWI,646750
+Genoa,44.41,8.93,Italy,ITA,647497
+Zaragoza,41.65,-0.89,Spain,ESP,649404
+Concord,37.9722,-122.0016,United States,USA,649437
+Krasnodar,45.02,39,Russia,RUS,649851
+Andijon,40.79,72.34,Uzbekistan,UZB,650000
+Tiruppur,11.0804,77.33,India,IND,650000
+Irbid,32.55,35.85,Jordan,JOR,650000
+Kryvyy Rih,47.9283,33.345,Ukraine,UKR,652380
+Zhanyi,25.6005,103.8166,China,CHN,652604
+Bien Hoa,10.97,106.8301,Vietnam,VNM,652646
+Shimoga,13.9304,75.56,India,IND,654055
+Ismailia,30.5903,32.26,Egypt,EGY,656135
+At Taif,21.2622,40.3823,Saudi Arabia,SAU,657282
+Pointe-Noire,-4.77,11.88,Congo (Brazzaville),COG,659084
+Bytom,50.35,18.91,Poland,POL,662247
+Santo Andre,-23.6528,-46.5278,Brazil,BRA,662373
+Sao Jose dos Pinhais,-25.57,-49.18,Brazil,BRA,665063
+An Najaf,32.0003,44.3354,Iraq,IRQ,665552
+Puyang,35.7004,114.98,China,CHN,666322
+Utsunomiya,36.55,139.87,Japan,JPN,667752
+Chongjin,41.7846,129.79,"Korea, North",PRK,672614
+Ipoh,4.6,101.065,Malaysia,MYS,673318
+Tulsa,36.1284,-95.9037,United States,USA,674211
+Gorakhpur,26.7504,83.38,India,IND,674246
+Catania,37.5,15.08,Italy,ITA,674542
+Nellore,14.44,79.9899,India,IND,678004
+Allentown,40.5962,-75.4756,United States,USA,678169
+San Pedro Sula,15.5,-88.03,Honduras,HND,680091
+Bonn,50.7205,7.08,Germany,DEU,680543
+Aracaju,-10.9,-37.12,Brazil,BRA,685356
+Huangshi,30.22,115.1,China,CHN,688090
+Chisinau,47.005,28.8577,Moldova,MDA,688134
+Enugu,6.45,7.5,Nigeria,NGA,688862
+Malegaon,20.5604,74.525,India,IND,690844
+Fresno,36.7834,-119.7933,United States,USA,690895
+La Plata,-34.9096,-57.96,Argentina,ARG,694253
+Sarajevo,43.85,18.383,Bosnia And Herzegovina,BIH,696731
+Meknes,33.9004,-5.56,Morocco,MAR,697628
+Soledad,10.92,-74.77,Colombia,COL,698852
+Bulawayo,-20.17,28.58,Zimbabwe,ZWE,699385
+Sarasota,27.3391,-82.5439,United States,USA,701487
+Shizuoka,34.9858,138.3854,Japan,JPN,701561
+Jaboatao,-8.11,-35.02,Brazil,BRA,702621
+Tolyatti,53.4804,49.53,Russia,RUS,702879
+Changzhi,36.1839,113.1053,China,CHN,706000
+Qingyuan,23.7004,113.0301,China,CHN,706717
+Samarqand,39.67,66.945,Uzbekistan,UZB,708000
+Jeonju,35.8314,127.1404,"Korea, South",KOR,711424
+Dehra Dun,30.3204,78.05,India,IND,714223
+Rochester,43.1681,-77.6162,United States,USA,714852
+Kandahar,31.61,65.6949,Afghanistan,AFG,715542
+Acapulco,16.85,-99.916,Mexico,MEX,715584
+Lianyungang,34.6004,119.17,China,CHN,715600
+Kumamoto,32.8009,130.7006,Japan,JPN,718232
+Dayton,39.7798,-84.1999,United States,USA,718772
+Shaoguan,24.8,113.58,China,CHN,720266
+Moshi,-3.3396,37.34,Tanzania,TZA,721018
+Hamilton,43.25,-79.83,Canada,CAN,721053
+Cucuta,7.92,-72.52,Colombia,COL,722146
+Hannover,52.367,9.7167,Germany,DEU,722490
+Zagreb,45.8,16,Croatia,HRV,722526
+As Sulaymaniyah,35.5613,45.4309,Iraq,IRQ,723170
+Bremen,53.08,8.8,Germany,DEU,724909
+Ashgabat,37.95,58.3833,Turkmenistan,TKM,727700
+Beihai,21.4804,109.1,China,CHN,728978
+Sokoto,13.06,5.24,Nigeria,NGA,732178
+Denpasar,-8.65,115.22,Indonesia,IDN,732344
+Amravati,20.95,77.77,India,IND,734451
+Muscat,23.6133,58.5933,Oman,OMN,734697
+Oyo,7.8504,3.93,Nigeria,NGA,736072
+Nurnberg,49.45,11.08,Germany,DEU,737304
+Ansan,37.3481,126.8595,"Korea, South",KOR,739493
+Gdansk,54.36,18.64,Poland,POL,740000
+Naga,13.6192,123.1814,Philippines,PHL,741635
+Nouakchott,18.0864,-15.9753,Mauritania,MRT,742144
+Riga,56.95,24.1,Latvia,LVA,742572
+Hegang,47.4,130.37,China,CHN,743307
+Ciudad Guayana,8.37,-62.62,Venezuela,VEN,746535
+Liege,50.63,5.58,Belgium,BEL,749110
+Birmingham,33.5276,-86.7986,United States,USA,749299
+Changhua,24.0734,120.5134,Taiwan,TWN,750000
+Hsinchu,24.8168,120.9767,Taiwan,TWN,750000
+Fargona,40.39,71.78,Uzbekistan,UZB,750000
+Namangan,41,71.67,Uzbekistan,UZB,750000
+Kolhapur,16.7,74.22,India,IND,750000
+Tangier,35.7473,-5.8327,Morocco,MAR,750060
+Pietermaritzburg,-29.61,30.39,South Africa,ZAF,750845
+Taizz,13.6045,44.0394,Yemen,YEM,751000
+Hungnam,39.8231,127.6232,"Korea, North",PRK,751322
+Sao Jose dos Campos,-23.2,-45.8799,Brazil,BRA,753769
+Vientiane,17.9667,102.6,Laos,LAO,754000
+Saltillo,25.42,-101.005,Mexico,MEX,754000
+Krakow,50.06,19.96,Poland,POL,756000
+Lodz,51.775,19.4514,Poland,POL,758000
+Albuquerque,35.1055,-106.6476,United States,USA,759517
+Jincheng,35.5004,112.83,China,CHN,760000
+Cotonou,6.4,2.52,Benin,BEN,762000
+Trabzon,40.98,39.72,Turkey,TUR,764714
+Kananga,-5.89,22.4,Congo (Kinshasa),COD,765000
+Trujillo,-8.12,-79.02,Peru,PER,765171
+Quetta,30.22,67.025,Pakistan,PAK,768000
+Fuxin,42.0105,121.66,China,CHN,770000
+Shiyan,32.57,110.78,China,CHN,770000
+Saarbrucken,49.2504,6.97,Germany,DEU,770001
+Ilorin,8.49,4.55,Nigeria,NGA,771000
+Fuyang,30.0533,119.9519,China,CHN,771000
+Zamboanga,6.92,122.08,Philippines,PHL,773000
+Hamhung,39.9101,127.5454,"Korea, North",PRK,773000
+Cheongju,36.6439,127.5012,"Korea, South",KOR,775096
+Wuppertal,51.25,7.17,Germany,DEU,776525
+Mangalore,12.9,74.85,India,IND,776632
+Shaoxing,30.0004,120.57,China,CHN,777000
+Yichun,47.6999,128.9,China,CHN,777000
+Campo Grande,-20.45,-54.6166,Brazil,BRA,778000
+Al Hudaydah,14.7979,42.953,Yemen,YEM,780000
+Islamabad,33.7,73.1666,Pakistan,PAK,780000
+Antalya,36.89,30.7,Turkey,TUR,783000
+Moradabad,28.8418,78.7568,India,IND,787000
+Zaporizhzhya,47.8573,35.1768,Ukraine,UKR,788000
+Malacca,2.2064,102.2465,Malaysia,MYS,788706
+Jammu,32.7118,74.8467,India,IND,791000
+Omaha,41.2634,-96.0453,United States,USA,792463
+Chihuahua,28.645,-106.085,Mexico,MEX,793000
+Liaoyang,41.28,123.18,China,CHN,794000
+Yingkow,40.6703,122.28,China,CHN,795000
+Bhiwandi,19.35,73.13,India,IND,795000
+Oran,35.71,-0.62,Algeria,DZA,798000
+McAllen,26.2203,-98.2457,United States,USA,798187
+Pekanbaru,0.565,101.425,Indonesia,IDN,799000
+Baoji,34.38,107.15,China,CHN,800000
+Bordeaux,44.85,-0.595,France,FRA,803000
+Lvov,49.835,24.03,Ukraine,UKR,803880
+Malang,-7.98,112.61,Indonesia,IDN,805000
+Aligarh,27.8922,78.0618,India,IND,805000
+Qui Nhon,13.78,109.18,Vietnam,VNM,805290
+Cuiaba,-15.5696,-56.085,Brazil,BRA,806000
+Lingyuan,41.24,119.4011,China,CHN,806000
+Valencia,39.485,-0.4,Spain,ESP,808000
+Culiacan,24.83,-107.38,Mexico,MEX,809000
+Zhaotang,27.3204,103.72,China,CHN,809000
+Rajshahi,24.375,88.605,Bangladesh,BGD,810000
+Langfang,39.5204,116.68,China,CHN,810000
+Wuhu,31.3504,118.37,China,CHN,810000
+Liverpool,53.416,-2.918,United Kingdom,GBR,811000
+Arequipa,-16.42,-71.53,Peru,PER,815000
+Cebu,10.32,123.9001,Philippines,PHL,815000
+Xingyi,25.0904,104.89,China,CHN,816000
+Jos,9.93,8.89,Nigeria,NGA,816824
+Bareilly,28.3454,79.42,India,IND,817000
+Butterworth,5.4171,100.4,Malaysia,MYS,821652
+Agadir,30.44,-9.62,Morocco,MAR,825467
+Nottingham,52.9703,-1.17,United Kingdom,GBR,825600
+Yueyang,29.3801,113.1,China,CHN,826000
+Jhansi,25.453,78.5575,India,IND,826494
+Braga,41.555,-8.4213,Portugal,PRT,826833
+Freetown,8.47,-13.2342,Sierra Leone,SLE,827000
+Kota,25.18,75.835,India,IND,827000
+Thessaloniki,40.6961,22.885,Greece,GRC,828000
+Kermanshah,34.38,47.06,Iran,IRN,828313
+Tucuman,-26.816,-65.2166,Argentina,ARG,830000
+Basel,47.5804,7.59,Switzerland,CHE,830000
+Warri,5.52,5.76,Nigeria,NGA,830106
+Bangui,4.3666,18.5583,Central African Republic,CAF,831925
+Linfen,36.0803,111.52,China,CHN,834000
+Cuernavaca,18.9211,-99.24,Mexico,MEX,834001
+Oslo,59.9167,10.75,Norway,NOR,835000
+Honolulu,21.3293,-157.846,United States,USA,836995
+Bishkek,42.8731,74.5852,Kyrgyzstan,KGZ,837000
+Yancheng,33.3856,120.1253,China,CHN,839000
+Yuci,37.6804,112.73,China,CHN,840000
+Saratov,51.58,46.03,Russia,RUS,843000
+Voronezh,51.73,39.27,Russia,RUS,844000
+Bhubaneshwar,20.2704,85.8274,India,IND,844000
+Nova Iguacu,-22.74,-43.47,Brazil,BRA,844583
+El Paso,31.8478,-106.431,United States,USA,845059
+Toulouse,43.62,1.4499,France,FRA,847000
+Zunyi,27.7,106.92,China,CHN,849000
+Anshun,26.2504,105.93,China,CHN,849000
+Pingdingshan,33.7304,113.3,China,CHN,849000
+Valparaiso,-33.0478,-71.621,Chile,CHL,854000
+Zhenjiang,32.22,119.43,China,CHN,854000
+Fort Worth,32.7813,-97.3466,United States,USA,854113
+Padang,-0.96,100.36,Indonesia,IDN,855000
+Jullundur,31.3349,75.569,India,IND,855000
+Jiaozuo,35.25,113.22,China,CHN,857000
+Tampico,22.3,-97.87,Mexico,MEX,859419
+Kigali,-1.9536,30.0605,Rwanda,RWA,860000
+Tucson,32.1558,-110.8777,United States,USA,860333
+Cardiff,51.5,-3.225,United Kingdom,GBR,861400
+Palermo,38.125,13.35,Italy,ITA,863000
+Rizhao,35.4304,119.45,China,CHN,865000
+Bandar Lampung,-5.43,105.27,Indonesia,IDN,865000
+Xuanzhou,30.9525,118.7553,China,CHN,866000
+Puch'on,37.4989,126.7831,"Korea, South",KOR,866000
+Okayama,34.672,133.9171,Japan,JPN,866092
+Aguascalientes,21.8795,-102.2904,Mexico,MEX,869000
+Dandong,40.1436,124.3936,China,CHN,870000
+Basra,30.5135,47.8136,Iraq,IRQ,870000
+Marrakesh,31.63,-8,Morocco,MAR,872000
+Kaifeng,34.85,114.35,China,CHN,872000
+Yangjiang,21.8504,111.97,China,CHN,872363
+Salem,11.67,78.1801,India,IND,873000
+Johor Bahru,1.48,103.73,Malaysia,MYS,875000
+Yichang,30.7,111.28,China,CHN,875000
+Raipur,21.235,81.635,India,IND,875000
+Bilbao,43.25,-2.93,Spain,ESP,875552
+Callao,-12.07,-77.135,Peru,PER,876877
+Novo Hamburgo,-29.7096,-51.14,Brazil,BRA,876990
+Newcastle,55.0004,-1.6,United Kingdom,GBR,882000
+Mombasa,-4.04,39.6899,Kenya,KEN,882000
+Tongliao,43.62,122.27,China,CHN,884000
+Ulaanbaatar,47.9167,106.9166,Mongolia,MNG,885000
+Mexicali,32.65,-115.48,Mexico,MEX,885000
+Anyang,36.08,114.35,China,CHN,887000
+Cartagena,10.3997,-75.5144,Colombia,COL,887000
+Mysore,12.31,76.66,India,IND,887000
+Zaria,11.08,7.71,Nigeria,NGA,889000
+Concepcion,-36.83,-73.05,Chile,CHL,889725
+Hubli,15.36,75.125,India,IND,890000
+Mendoza,-32.8833,-68.8166,Argentina,ARG,893000
+Bengbu,32.95,117.33,China,CHN,894000
+Tarsus,36.9204,34.88,Turkey,TUR,894318
+Az Zarqa,32.07,36.1,Jordan,JOR,894691
+Kathmandu,27.7167,85.3166,Nepal,NPL,895000
+Tirana,41.3275,19.8189,Albania,ALB,895350
+Maiduguri,11.85,13.16,Nigeria,NGA,896000
+Aba,5.1004,7.35,Nigeria,NGA,897560
+Yibin,28.77,104.57,China,CHN,902000
+Xinxiang,35.3204,113.87,China,CHN,903000
+Goyang,37.6527,126.8372,"Korea, South",KOR,903000
+Naha,26.2072,127.673,Japan,JPN,905238
+Teresina,-5.095,-42.78,Brazil,BRA,907000
+Xinyu,27.8,114.93,China,CHN,913000
+Huaibei,33.9504,116.75,China,CHN,913000
+Hartford,41.7661,-72.6834,United States,USA,913587
+Niamey,13.5167,2.1167,Niger,NER,915000
+Bogor,-6.57,106.75,Indonesia,IDN,918000
+Konya,37.875,32.475,Turkey,TUR,919000
+Managua,12.153,-86.2685,Nicaragua,NIC,920000
+Antwerpen,51.2204,4.415,Belgium,BEL,920000
+Buffalo,42.9016,-78.8487,United States,USA,920136
+Olinda,-8,-34.85,Brazil,BRA,921840
+Djibouti,11.595,43.148,Djibouti,DJI,923000
+Krasnoyarsk,56.014,92.866,Russia,RUS,925000
+Irbil,36.179,44.0086,Iraq,IRQ,926000
+Nice,43.715,7.265,France,FRA,927000
+Naypyidaw,19.7666,96.1186,Burma,MMR,930000
+Bridgeport,41.1909,-73.1958,United States,USA,934289
+Kingston,17.9771,-76.7674,Jamaica,JAM,937700
+Songnam,37.4386,127.1378,"Korea, South",KOR,942000
+Foshan,23.0301,113.12,China,CHN,943000
+Tegucigalpa,14.102,-87.2175,Honduras,HND,946000
+Nantong,32.0304,120.825,China,CHN,947000
+Oklahoma City,35.4677,-97.5138,United States,USA,948154
+Bacolod,10.6317,122.9817,Philippines,PHL,949354
+Hue,16.47,107.58,Vietnam,VNM,950000
+General Santos,6.1108,125.1747,Philippines,PHL,950530
+Ogbomosho,8.13,4.24,Nigeria,NGA,951000
+Tiruchirappalli,10.81,78.69,India,IND,951000
+Kozhikode,11.2504,75.77,India,IND,953000
+Thiruvananthapuram,8.5,76.95,India,IND,954000
+Salerno,40.6804,14.7699,Italy,ITA,954265
+Kelang,3.0204,101.55,Malaysia,MYS,956000
+Joao Pessoa,-7.1011,-34.8761,Brazil,BRA,956000
+Jinzhou,41.1204,121.1,China,CHN,956000
+Queretaro,20.63,-100.38,Mexico,MEX,961000
+Pingxiang,27.62,113.85,China,CHN,961000
+Xinyi,34.38,118.35,China,CHN,962656
+Merida,20.9666,-89.6166,Mexico,MEX,965000
+Jixi,45.3,130.97,China,CHN,965000
+Qom,34.65,50.95,Iran,IRN,973000
+Hamamatsu,34.7181,137.7327,Japan,JPN,977023
+Gwalior,26.23,78.1801,India,IND,978000
+Chandigarh,30.72,76.78,India,IND,979000
+Natal,-6.9838,-60.2699,Brazil,BRA,980588
+Yangquan,37.87,113.57,China,CHN,981448
+Yichun,27.8333,114.4,China,CHN,982000
+Guwahati,26.16,91.77,India,IND,983000
+Volgograd,48.71,44.5,Russia,RUS,984000
+Dahuk,36.8667,43,Iraq,IRQ,986000
+Guilin,25.28,110.28,China,CHN,987000
+Donetsk,48,37.83,Ukraine,UKR,988000
+Joinville,-26.32,-48.8399,Brazil,BRA,988000
+Jiaxing,30.7704,120.75,China,CHN,988000
+Ndjamena,12.1131,15.0491,Chad,TCD,989000
+Odessa,46.49,30.71,Ukraine,UKR,991000
+Yinchuan,38.468,106.273,China,CHN,991000
+San Luis Potosi,22.17,-101,Mexico,MEX,992000
+Jodhpur,26.2918,73.0168,India,IND,995000
+Ahvaz,31.28,48.72,Iran,IRN,996000
+Perm,58,56.25,Russia,RUS,997000
+Kitakyushu,33.8704,130.82,Japan,JPN,997536
+Aden,12.7797,45.0095,Yemen,YEM,1000000
+Da Nang,16.06,108.25,Vietnam,VNM,1000000
+Cochabamba,-17.41,-66.17,Bolivia,BOL,1000000
+Yongzhou,26.2304,111.62,China,CHN,1000000
+Baoshan,25.12,99.15,China,CHN,1000000
+Fez,34.0546,-5.0004,Morocco,MAR,1002000
+Qinhuangdao,39.9304,119.62,China,CHN,1003000
+Louisville,38.1662,-85.6488,United States,USA,1003412
+Cologne,50.93,6.95,Germany,DEU,1004000
+Rotterdam,51.92,4.48,Netherlands,NLD,1005000
+Hims,34.73,36.72,Syria,SYR,1005000
+Raleigh,35.8323,-78.6441,United States,USA,1005457
+Maracay,10.2469,-67.5958,Venezuela,VEN,1007000
+Bucaramanga,7.1301,-73.1259,Colombia,COL,1009000
+Medina,24.5,39.58,Saudi Arabia,SAU,1010000
+Haifa,32.8204,34.98,Israel,ISR,1011000
+Benxi,41.3304,123.75,China,CHN,1012000
+Hengyang,26.88,112.59,China,CHN,1016000
+Ufa,54.79,56.04,Russia,RUS,1018000
+Port Harcourt,4.81,7.01,Nigeria,NGA,1020000
+Jiamusi,46.83,130.35,China,CHN,1020000
+Port Elizabeth,-33.97,25.6,South Africa,ZAF,1021000
+Florianopolis,-27.58,-48.52,Brazil,BRA,1023000
+Zhuhai,22.2769,113.5678,China,CHN,1023000
+Guatemala,14.6211,-90.527,Guatemala,GTM,1024000
+New Orleans,30.0687,-89.9288,United States,USA,1024421
+Jerusalem,31.7784,35.2066,Israel,ISR,1029300
+Amsterdam,52.35,4.9166,Netherlands,NLD,1031000
+Sao Luis,-2.516,-44.266,Brazil,BRA,1038000
+Monrovia,6.3106,-10.8048,Liberia,LBR,1041000
+Richmond,37.5294,-77.4755,United States,USA,1041877
+Gaziantep,37.075,37.385,Turkey,TUR,1044000
+Lille,50.65,3.08,France,FRA,1044000
+Ranchi,23.37,85.33,India,IND,1044000
+Zhangjiakou,40.83,114.93,China,CHN,1046000
+Xining,36.62,101.77,China,CHN,1048000
+Dnipro,48.48,35,Ukraine,UKR,1050000
+Rostov,47.2346,39.7127,Russia,RUS,1052000
+Sholapur,17.6704,75.9,India,IND,1057000
+Edmonton,53.55,-113.5,Canada,CAN,1058000
+Dublin,53.3331,-6.2489,Ireland,IRL,1059000
+Zhucheng,35.99,119.3801,China,CHN,1060000
+Amman,31.95,35.9333,Jordan,JOR,1060000
+Ulsan,35.5467,129.317,"Korea, South",KOR,1061000
+Salt Lake City,40.7774,-111.9301,United States,USA,1061156
+Nashville,36.1714,-86.7844,United States,USA,1065078
+Xiangfan,32.02,112.13,China,CHN,1069000
+Memphis,35.1047,-89.9773,United States,USA,1069661
+Vereeniging,-26.6496,27.96,South Africa,ZAF,1074000
+Suwon,37.2578,127.0109,"Korea, South",KOR,1078000
+Zhuzhou,27.83,113.15,China,CHN,1080000
+Changwon,35.2191,128.5836,"Korea, South",KOR,1081499
+Kobenhavn,55.6786,12.5635,Denmark,DNK,1085000
+Dushanbe,38.56,68.7739,Tajikistan,TJK,1086244
+Natal,-5.78,-35.24,Brazil,BRA,1088000
+Chelyabinsk,55.155,61.4387,Russia,RUS,1091000
+Jinhua,29.12,119.65,China,CHN,1092852
+Bhilai,21.2167,81.4333,India,IND,1097000
+Belgrade,44.8186,20.468,Serbia,SRB,1099000
+Ikare,7.5304,5.76,Nigeria,NGA,1099931
+Mogadishu,2.0667,45.3667,Somalia,SOM,1100000
+Huambo,-12.75,15.76,Angola,AGO,1100000
+Ankang,32.68,109.02,China,CHN,1100000
+Tbilisi,41.725,44.7908,Georgia,GEO,1100000
+Yerevan,40.1812,44.5136,Armenia,ARM,1102000
+Sharjah,25.3714,55.4065,United Arab Emirates,ARE,1103027
+Zigong,29.4,104.78,China,CHN,1105000
+Baoding,38.8704,115.48,China,CHN,1107000
+Zurich,47.38,8.55,Switzerland,CHE,1108000
+Nezahualcoyotl,19.41,-99.03,Mexico,MEX,1109363
+Calgary,51.083,-114.08,Canada,CAN,1110000
+Aurangabad,19.8957,75.3203,India,IND,1113000
+Kazan,55.7499,49.1263,Russia,RUS,1115000
+Helsinki,60.1756,24.9341,Finland,FIN,1115000
+Barquisimeto,10.05,-69.3,Venezuela,VEN,1116000
+Can Tho,10.05,105.77,Vietnam,VNM,1121000
+Cagayan de Oro,8.4508,124.6853,Philippines,PHL,1121561
+Xianyang,34.3456,108.7147,China,CHN,1126000
+Yulin,22.63,110.15,China,CHN,1127000
+Nampo,38.7669,125.4524,"Korea, North",PRK,1127000
+Newcastle,-32.8453,151.815,Australia,AUS,1134616
+Omsk,54.99,73.4,Russia,RUS,1135000
+Samara,53.195,50.1513,Russia,RUS,1137000
+Vijayawada,16.52,80.63,India,IND,1137000
+Srinagar,34.1,74.815,India,IND,1140000
+Jacksonville,30.3322,-81.6749,United States,USA,1141459
+Torreon,25.5701,-103.42,Mexico,MEX,1144000
+Shangrao,28.4704,117.97,China,CHN,1144577
+Adelaide,-34.935,138.6,Australia,AUS,1145000
+Ottawa,45.4167,-75.7,Canada,CAN,1145000
+Ouagadougou,12.3703,-1.5247,Burkina Faso,BFA,1149000
+Leshan,29.5671,103.7333,China,CHN,1157000
+Glasgow,55.8744,-4.2507,United Kingdom,GBR,1160000
+Prague,50.0833,14.466,Czechia,CZE,1162000
+Cilacap,-7.7188,109.0154,Indonesia,IDN,1174964
+Banghazi,32.1167,20.0667,Libya,LBY,1180000
+Abbottabad,34.1495,73.1995,Pakistan,PAK,1183647
+Sofia,42.6833,23.3167,Bulgaria,BGR,1185000
+Maceio,-9.62,-35.73,Brazil,BRA,1186000
+Jining,35.4004,116.55,China,CHN,1186000
+Benin City,6.3405,5.62,Nigeria,NGA,1190000
+Providence,41.8229,-71.4186,United States,USA,1198789
+Allahabad,25.455,81.84,India,IND,1201000
+Rosario,-32.9511,-60.6663,Argentina,ARG,1203000
+Warangal,18.01,79.58,India,IND,1203853
+Almaty,43.325,76.915,Kazakhstan,KAZ,1209000
+Vila Velha,-20.3676,-40.318,Brazil,BRA,1209091
+Vila Velha,3.2167,-51.2167,Brazil,BRA,1209091
+Amritsar,31.64,74.87,India,IND,1212000
+Seville,37.405,-5.98,Spain,ESP,1212045
+Maoming,21.9204,110.87,China,CHN,1217715
+Dusseldorf,51.2204,6.78,Germany,DEU,1220000
+Lupanshui,26.5944,104.8333,China,CHN,1221000
+Tianshui,34.6,105.92,China,CHN,1225000
+Huzhou,30.8704,120.1,China,CHN,1231000
+Geneva,46.21,6.14,Switzerland,CHE,1240000
+Shiraz,29.63,52.57,Iran,IRN,1240000
+Mudangiang,44.575,129.59,China,CHN,1244000
+Dhanbad,23.8004,86.42,India,IND,1246000
+Rajkot,22.31,70.8,India,IND,1260000
+Ujungpandang,-5.14,119.432,Indonesia,IDN,1262000
+Stockholm,59.3508,18.0973,Sweden,SWE,1264000
+Huaiyin,33.58,119.03,China,CHN,1264000
+Munich,48.1299,11.575,Germany,DEU,1275000
+Duisburg,51.43,6.75,Germany,DEU,1276757
+Chifeng,42.27,118.95,China,CHN,1277000
+Nizhny Novgorod,56.333,44.0001,Russia,RUS,1278000
+Panama City,8.968,-79.533,Panama,PAN,1281000
+San Jose,9.935,-84.0841,Costa Rica,CRI,1284000
+Jabalpur,23.1751,79.9551,India,IND,1285000
+Sheffield,53.3667,-1.5,United Kingdom,GBR,1292900
+Adana,36.995,35.32,Turkey,TUR,1293000
+Madurai,9.92,78.12,India,IND,1294000
+Mbuji-Mayi,-6.15,23.6,Congo (Kinshasa),COD,1295000
+Mandalay,21.97,96.085,Burma,MMR,1300000
+Jamshedpur,22.7875,86.1975,India,IND,1300000
+Peshawar,34.005,71.535,Pakistan,PAK,1303000
+Yekaterinburg,56.85,60.6,Russia,RUS,1313000
+Mosul,36.345,43.145,Iraq,IRQ,1316000
+Changzhou,31.78,119.97,China,CHN,1327000
+Lusaka,-15.4166,28.2833,Zambia,ZMB,1328000
+Asansol,23.6833,86.9833,India,IND,1328000
+Porto,41.15,-8.62,Portugal,PRT,1337000
+Pretoria,-25.7069,28.2294,South Africa,ZAF,1338000
+Heze,35.23,115.45,China,CHN,1338000
+Ghaziabad,28.6604,77.4084,India,IND,1341000
+Ciudad Juarez,31.6904,-106.49,Mexico,MEX,1343000
+Lubumbashi,-11.68,27.48,Congo (Kinshasa),COD,1352000
+Yiyang,28.6004,112.33,China,CHN,1352000
+Varanasi,25.33,83,India,IND,1352000
+Brazzaville,-4.2592,15.2847,Congo (Brazzaville),COG,1355000
+Maanshan,31.7304,118.48,China,CHN,1366302
+Milwaukee,43.064,-87.9669,United States,USA,1377104
+Auckland,-36.8481,174.763,New Zealand,NZL,1377200
+Dubai,25.23,55.28,United Arab Emirates,ARE,1379000
+Makkah,21.43,39.82,Saudi Arabia,SAU,1385000
+Novosibirsk,55.03,82.96,Russia,RUS,1389000
+Faridabad,28.4333,77.3167,India,IND,1394000
+Mianyang,31.47,104.77,China,CHN,1396000
+Semarang,-6.9666,110.42,Indonesia,IDN,1396000
+Meerut,29.0004,77.7,India,IND,1398000
+Marseille,43.29,5.375,France,FRA,1400000
+Davao,7.11,125.63,Philippines,PHL,1402000
+The Hague,52.08,4.27,Netherlands,NLD,1406000
+Tabriz,38.0863,46.3012,Iran,IRN,1413000
+Kampala,0.3167,32.5833,Uganda,UGA,1420000
+Lyon,45.77,4.83,France,FRA,1423000
+Karaj,35.8004,50.97,Iran,IRN,1423000
+Suining,30.5333,105.5333,China,CHN,1425000
+San Salvador,13.71,-89.203,El Salvador,SLV,1433000
+Kawasaki,35.53,139.705,Japan,JPN,1437266
+Charlotte,35.208,-80.8308,United States,USA,1438351
+Gwangju,35.171,126.9104,"Korea, South",KOR,1440000
+Kaduna,10.52,7.44,Nigeria,NGA,1442000
+Maputo,-25.9553,32.5892,Mozambique,MOZ,1446000
+Kuala Lumpur,3.1667,101.7,Malaysia,MYS,1448000
+Doha,25.2866,51.533,Qatar,QAT,1450000
+Huainan,32.63,116.98,China,CHN,1451000
+Lome,6.1319,1.2228,Togo,TGO,1452000
+Cordoba,-31.4,-64.1823,Argentina,ARG,1452000
+Bronx,40.8501,-73.8662,United States,USA,1455720
+Hyderabad,25.38,68.375,Pakistan,PAK,1459000
+Kharkiv,50,36.25,Ukraine,UKR,1461000
+Quanzhou,24.9,118.58,China,CHN,1463000
+Neijiang,29.5804,105.05,China,CHN,1466000
+Phnom Penh,11.55,104.9166,Cambodia,KHM,1466000
+Daejeon,36.3355,127.425,"Korea, South",KOR,1468000
+Changde,29.03,111.68,China,CHN,1469000
+Fushun,41.8654,123.87,China,CHN,1470000
+Nasik,20.0004,73.78,India,IND,1473000
+Virginia Beach,36.7335,-76.0435,United States,USA,1487505
+Leon,21.15,-101.7,Mexico,MEX,1488000
+Bursa,40.2,29.07,Turkey,TUR,1492000
+Bamako,12.65,-8,Mali,MLI,1494000
+Conakry,9.5315,-13.6802,Guinea,GIN,1494000
+Columbus,39.9859,-82.9852,United States,USA,1495146
+Liuzhou,24.28,109.25,China,CHN,1497000
+Ganzhou,25.92,114.95,China,CHN,1500000
+Florence,43.78,11.25,Italy,ITA,1500000
+Niteroi,-22.9,-43.1,Brazil,BRA,1500513
+Gujranwala,32.1604,74.185,Pakistan,PAK,1513000
+Montevideo,-34.858,-56.1711,Uruguay,URY,1513000
+Kochi,10.015,76.2239,India,IND,1519000
+Multan,30.2,71.455,Pakistan,PAK,1522000
+Kobe,34.68,135.17,Japan,JPN,1528478
+Leeds,53.83,-1.58,United Kingdom,GBR,1529000
+Vishakhapatnam,17.73,83.305,India,IND,1529000
+Toluca,19.3304,-99.67,Mexico,MEX,1531000
+Perth,-31.955,115.84,Australia,AUS,1532000
+Luzhou,28.88,105.38,China,CHN,1537000
+Xinyang,32.1304,114.07,China,CHN,1541000
+Indianapolis,39.7771,-86.1458,United States,USA,1550488
+Santiago,19.5,-70.67,Dominican Republic,DOM,1550753
+Tijuana,32.5,-117.08,Mexico,MEX,1553000
+Khulna,22.84,89.56,Bangladesh,BGD,1553000
+Weifang,36.7204,119.1001,China,CHN,1553000
+Xiantao,30.3704,113.44,China,CHN,1556000
+Harare,-17.8178,31.0447,Zimbabwe,ZWE,1572000
+Abuja,9.0833,7.5333,Nigeria,NGA,1576000
+Kalyan,19.2502,73.1602,India,IND,1576614
+La Paz,-16.498,-68.15,Bolivia,BOL,1590000
+Zhanjiang,21.2,110.38,China,CHN,1590000
+Kansas City,39.1239,-94.5541,United States,USA,1590762
+Agra,27.1704,78.015,India,IND,1592000
+Shantou,23.37,116.67,China,CHN,1601000
+Yaounde,3.8667,11.5167,Cameroon,CMR,1611000
+Isfahan,32.7,51.7,Iran,IRN,1628000
+Taian,36.2,117.1201,China,CHN,1629000
+Handan,36.58,114.48,China,CHN,1631000
+Zhongli,24.965,121.2168,Taiwan,TWN,1632616
+Austin,30.3038,-97.7545,United States,USA,1633847
+Cincinnati,39.1412,-84.506,United States,USA,1634573
+Anshan,41.115,122.94,China,CHN,1639000
+Qiqihar,47.345,123.99,China,CHN,1641000
+Manhattan,40.7834,-73.9662,United States,USA,1643734
+Kumasi,6.69,-1.63,Ghana,GHA,1646000
+Ludhiana,30.9278,75.8723,India,IND,1649000
+Suzhou,31.3005,120.62,China,CHN,1650000
+Turin,45.0704,7.67,Italy,ITA,1652000
+Budapest,47.5,19.0833,Hungary,HUN,1679000
+Wanzhou,30.82,108.4,China,CHN,1680000
+Luan,31.7503,116.48,China,CHN,1690000
+Daqing,46.58,125,China,CHN,1693000
+Coimbatore,11,76.95,India,IND,1696000
+Antananarivo,-18.9166,47.5166,Madagascar,MDG,1697000
+Quito,-0.215,-78.5001,Ecuador,ECU,1701000
+Vitoria,-20.324,-40.366,Brazil,BRA,1704000
+Rabat,34.0253,-6.8361,Morocco,MAR,1705000
+Warsaw,52.25,21,Poland,POL,1707000
+Jianmen,30.6501,113.16,China,CHN,1708000
+Santos,-23.9537,-46.3329,Brazil,BRA,1709000
+Luoyang,34.68,112.4701,China,CHN,1715000
+Pittsburgh,40.4396,-79.9763,United States,USA,1722206
+Hohhot,40.82,111.66,China,CHN,1726000
+Bhopal,23.25,77.41,India,IND,1727000
+Cleveland,41.4766,-81.6805,United States,USA,1731637
+Essen,51.45,7.0166,Germany,DEU,1742135
+Brussels,50.8333,4.3333,Belgium,BEL,1743000
+Wuxi,31.58,120.3,China,CHN,1749000
+Palembang,-2.98,104.75,Indonesia,IDN,1749000
+Manaus,-3.1,-60,Brazil,BRA,1753000
+Shangqiu,34.4504,115.65,China,CHN,1753000
+Vadodara,22.31,73.18,India,IND,1756000
+Hamburg,53.55,10,Germany,DEU,1757000
+Orlando,28.4801,-81.3448,United States,USA,1757288
+Valencia,10.23,-67.98,Venezuela,VEN,1770000
+Shuyang,34.1299,118.7734,China,CHN,1770000
+Barranquilla,10.96,-74.8,Colombia,COL,1798000
+San Jose,37.302,-121.8488,United States,USA,1804359
+Minsk,53.9,27.5666,Belarus,BLR,1805000
+Kyoto,35.03,135.75,Japan,JPN,1805000
+Sacramento,38.5666,-121.4683,United States,USA,1830061
+Beirut,33.872,35.5097,Lebanon,LBN,1846000
+Rawalpindi,33.6,73.04,Pakistan,PAK,1858000
+Brisbane,-27.455,153.0351,Australia,AUS,1860000
+Saidu,34.75,72.35,Pakistan,PAK,1860310
+Asuncion,-25.2964,-57.6415,Paraguay,PRY,1870000
+Datong,40.08,113.3,China,CHN,1873000
+Tainan,23,120.2,Taiwan,TWN,1876312
+Tangshan,39.6243,118.1944,China,CHN,1879000
+Douala,4.0604,9.71,Cameroon,CMR,1906000
+Ningbo,29.88,121.55,China,CHN,1923000
+Bucharest,44.4334,26.0999,Romania,ROU,1942000
+Nanyang,33.0004,112.53,China,CHN,1944000
+Suzhou,33.6361,116.9789,China,CHN,1964000
+Haiphong,20.83,106.6801,Vietnam,VNM,1969000
+San Antonio,29.4722,-98.5247,United States,USA,1976787
+Port-au-Prince,18.541,-72.336,Haiti,HTI,1998000
+Sanaa,15.3547,44.2066,Yemen,YEM,2008000
+Goiania,-16.72,-49.3,Brazil,BRA,2022000
+Indore,22.7151,75.865,India,IND,2026000
+Portland,45.5372,-122.65,United States,USA,2027629
+Hefei,31.85,117.28,China,CHN,2035000
+Baotou,40.6522,109.822,China,CHN,2036000
+Las Vegas,36.2288,-115.2603,United States,USA,2044731
+Hiroshima,34.3878,132.4429,Japan,JPN,2045000
+Haikou,20.05,110.32,China,CHN,2046189
+Ad Damman,26.4282,50.0997,Saudi Arabia,SAU,2054710
+Kuwait,29.3697,47.9783,Kuwait,KWT,2063000
+Riverside,33.9382,-117.3949,United States,USA,2065627
+Maracaibo,10.73,-71.66,Venezuela,VEN,2072000
+Linyi,35.08,118.33,China,CHN,2082000
+Xuzhou,34.28,117.18,China,CHN,2091000
+Saint Louis,38.6358,-90.2451,United States,USA,2096990
+Santa Cruz,-17.7539,-63.226,Bolivia,BOL,2102998
+Medan,3.58,98.65,Indonesia,IDN,2115000
+Yantai,37.5304,121.4,China,CHN,2116000
+Accra,5.55,-0.2167,Ghana,GHA,2121000
+Baku,40.3953,49.8622,Azerbaijan,AZE,2122300
+Zaozhuang,34.88,117.57,China,CHN,2145000
+Urumqi,43.805,87.575,China,CHN,2151000
+Santo Domingo,18.4701,-69.9001,Dominican Republic,DOM,2154000
+Patna,25.625,85.13,India,IND,2158000
+Belem,-1.45,-48.48,Brazil,BRA,2167000
+Nanning,22.82,108.32,China,CHN,2167000
+Nanchong,30.7804,106.13,China,CHN,2174000
+Havana,23.132,-82.3642,Cuba,CUB,2174000
+Baltimore,39.3051,-76.6144,United States,USA,2181206
+Tashkent,41.3117,69.2949,Uzbekistan,UZB,2184000
+Tripoli,32.8925,13.18,Libya,LBY,2189000
+Puebla,19.05,-98.2,Mexico,MEX,2195000
+Manchester,53.5004,-2.248,United Kingdom,GBR,2230000
+Naples,40.84,14.245,Italy,ITA,2250000
+Sendai,38.2871,141.0217,Japan,JPN,2250000
+Cali,3.4,-76.5,Colombia,COL,2254000
+Birmingham,52.475,-1.92,United Kingdom,GBR,2285000
+Vancouver,49.2734,-123.1216,Canada,CAN,2313328
+Queens,40.7498,-73.7976,United States,USA,2333054
+Nanchang,28.68,115.88,China,CHN,2350000
+Wenzhou,28.02,120.6501,China,CHN,2350000
+Mannheim,49.5004,8.47,Germany,DEU,2362000
+Bekasi,-6.2173,106.9723,Indonesia,IDN,2378211
+Bandung,-6.95,107.57,Indonesia,IDN,2394000
+Omdurman,15.6167,32.48,Sudan,SDN,2395159
+Jilin,43.85,126.55,China,CHN,2396000
+Vienna,48.2,16.3666,Austria,AUT,2400000
+Tunis,36.8028,10.1797,Tunisia,TUN,2412500
+Shijianzhuang,38.05,114.48,China,CHN,2417000
+Jinxi,40.7503,120.83,China,CHN,2426000
+Nagpur,21.17,79.09,India,IND,2454000
+Daegu,35.8668,128.607,"Korea, South",KOR,2460000
+Damascus,33.5,36.3,Syria,SYR,2466000
+Mashhad,36.27,59.57,Iran,IRN,2469000
+George Town,5.4136,100.3294,Malaysia,MYS,2500000
+Guayaquil,-2.22,-79.92,Ecuador,ECU,2514000
+Xiamen,24.45,118.08,China,CHN,2519000
+Sapporo,43.075,141.34,Japan,JPN,2544000
+Incheon,37.4761,126.6422,"Korea, South",KOR,2550000
+Lanzhou,36.056,103.792,China,CHN,2561000
+Xiangtan,27.8504,112.9,China,CHN,2586948
+Izmir,38.4361,27.1518,Turkey,TUR,2587000
+Dakar,14.7158,-17.4731,Senegal,SEN,2604000
+Changsha,28.2,112.97,China,CHN,2604000
+Fuzhou,26.08,119.3,China,CHN,2606000
+Faisalabad,31.41,73.11,Pakistan,PAK,2617000
+Ibadan,7.38,3.93,Nigeria,NGA,2628000
+Brooklyn,40.6501,-73.9496,United States,USA,2629150
+Taichung,24.1521,120.6817,Taiwan,TWN,2629323
+Zhengzhou,34.755,113.6651,China,CHN,2636000
+El Giza,30.01,31.19,Egypt,EGY,2681863
+Lucknow,26.855,80.915,India,IND,2695000
+Kiev,50.4334,30.5166,Ukraine,UKR,2709000
+Durban,-29.865,30.98,South Africa,ZAF,2729000
+Aleppo,36.23,37.17,Syria,SYR,2738000
+Denver,39.7621,-104.8759,United States,USA,2741534
+Tampa,27.9937,-82.4454,United States,USA,2744107
+Katowice,50.2604,19.02,Poland,POL,2746000
+Quezon City,14.6504,121.03,Philippines,PHL,2761720
+Kaohsiung,22.6333,120.2666,Taiwan,TWN,2769072
+Campinas,-22.9,-47.1,Brazil,BRA,2791000
+Fukuoka,33.595,130.41,Japan,JPN,2792000
+Jinan,36.675,116.995,China,CHN,2798000
+Lisbon,38.7227,-9.1449,Portugal,PRT,2812000
+Surabaya,-7.2492,112.7508,Indonesia,IDN,2845000
+Qingdao,36.09,120.33,China,CHN,2866000
+Minneapolis,44.9635,-93.2679,United States,USA,2866604
+Frankfurt,50.1,8.675,Germany,DEU,2895000
+Taiyuan,37.875,112.5451,China,CHN,2913000
+Jaipur,26.9211,75.81,India,IND,2917000
+Dar es Salaam,-6.8,39.2683,Tanzania,TZA,2930000
+Kunming,25.07,102.68,China,CHN,2931000
+Stuttgart,48.78,9.2,Germany,DEU,2944700
+Milan,45.47,9.205,Italy,ITA,2945000
+Caracas,10.501,-66.917,Venezuela,VEN,2985000
+Benoni,-26.1496,28.3299,South Africa,ZAF,2986000
+Hangzhou,30.25,120.17,China,CHN,3007000
+Nairobi,-1.2833,36.8167,Kenya,KEN,3010000
+Jeddah,21.5169,39.2192,Saudi Arabia,SAU,3012000
+Zibo,36.8,118.05,China,CHN,3061000
+Curitiba,-25.42,-49.32,Brazil,BRA,3084000
+Addis Ababa,9.0333,38.7,Ethiopia,ETH,3100000
+Tel Aviv-Yafo,32.08,34.77,Israel,ISR,3112000
+Kano,12,8.52,Nigeria,NGA,3140000
+Kanpur,26.46,80.32,India,IND,3162000
+Dalian,38.9228,121.6298,China,CHN,3167000
+Casablanca,33.6,-7.6164,Morocco,MAR,3181000
+San Diego,32.8312,-117.1225,United States,USA,3181172
+Changchun,43.865,125.34,China,CHN,3183000
+Cape Town,-33.92,18.435,South Africa,ZAF,3215000
+Nagoya,35.155,136.915,Japan,JPN,3230000
+Athens,37.9833,23.7333,Greece,GRC,3242000
+Kabul,34.5167,69.1833,Afghanistan,AFG,3277000
+Medellin,6.275,-75.575,Colombia,COL,3297000
+Pyongyang,39.0194,125.7547,"Korea, North",PRK,3300000
+Rome,41.896,12.4833,Italy,ITA,3339000
+Algiers,36.7631,3.0506,Algeria,DZA,3354000
+Berlin,52.5218,13.4015,Germany,DEU,3406000
+Johannesburg,-26.17,28.03,South Africa,ZAF,3435000
+Busan,35.0951,129.01,"Korea, South",KOR,3480000
+Salvador,-12.97,-38.48,Brazil,BRA,3484000
+Detroit,42.3834,-83.1024,United States,USA,3520589
+Zhangzhou,24.5204,117.67,China,CHN,3531147
+Seattle,47.6217,-122.3238,United States,USA,3541236
+San Francisco,37.7561,-122.4429,United States,USA,3548847
+Fortaleza,-3.75,-38.58,Brazil,BRA,3602319
+Harbin,45.75,126.65,China,CHN,3621000
+Recife,-8.0756,-34.9156,Brazil,BRA,3651000
+Guiyang,26.58,106.72,China,CHN,3662000
+Montreal,45.5,-73.5833,Canada,CAN,3678000
+Nanjing,32.05,118.78,China,CHN,3679000
+Yokohama,35.32,139.58,Japan,JPN,3697894
+Monterrey,25.67,-100.33,Mexico,MEX,3712000
+Ankara,39.9272,32.8644,Turkey,TUR,3716000
+Brasilia,-15.7833,-47.9161,Brazil,BRA,3716996
+Abidjan,5.32,-4.04,C����,CIV,3802000
+Hechi,23.0965,109.6091,China,CHN,3830000
+Surat,21.2,72.84,India,IND,3842000
+Porto Alegre,-30.05,-51.2,Brazil,BRA,3917000
+Xian,34.275,108.895,China,CHN,4009000
+Phoenix,33.5722,-112.0891,United States,USA,4054083
+Rangoon,16.7834,96.1667,Burma,MMR,4088000
+Chengdu,30.67,104.07,China,CHN,4123000
+Alexandria,31.2,29.95,Egypt,EGY,4165000
+Melbourne,-37.82,144.975,Australia,AUS,4170000
+Guadalajara,20.67,-103.33,Mexico,MEX,4198000
+Hanoi,21.0333,105.85,Vietnam,VNM,4378000
+Riyadh,24.6408,46.7727,Saudi Arabia,SAU,4465000
+Dongguan,23.0489,113.7447,China,CHN,4528000
+Chittagong,22.33,91.8,Bangladesh,BGD,4529000
+St. Petersburg,59.939,30.316,Russia,RUS,4553000
+Boston,42.3189,-71.0838,United States,USA,4556916
+Sydney,-33.92,151.1852,Australia,AUS,4630000
+Pune,18.53,73.85,India,IND,4672000
+Khartoum,15.5881,32.5342,Sudan,SDN,4754000
+Shenyeng,41.805,123.45,China,CHN,4787000
+Haora,22.5804,88.3299,India,IND,4841638
+Barcelona,41.3833,2.1834,Spain,ESP,4920000
+Baghdad,33.3386,44.3939,Iraq,IRQ,5054000
+Atlanta,33.7627,-84.4231,United States,USA,5080712
+Luanda,-8.8383,13.2344,Angola,AGO,5172900
+Singapore,1.293,103.8558,Singapore,SGP,5183700
+Washington,38.9047,-77.0163,United States,USA,5191844
+Toronto,43.7,-79.42,Canada,CAN,5213000
+Ho Chi Minh City,10.78,106.695,Vietnam,VNM,5314000
+Ahmedabad,23.0301,72.58,India,IND,5375000
+Houston,29.7871,-95.3936,United States,USA,5424720
+Madrid,40.4,-3.6834,Spain,ESP,5567000
+Belo Horizonte,-19.915,-43.915,Brazil,BRA,5575000
+Philadelphia,40.0076,-75.134,United States,USA,5591554
+Dallas,32.7938,-96.7659,United States,USA,5634307
+Santiago,-33.45,-70.667,Chile,CHL,5720000
+Miami,25.784,-80.2102,United States,USA,6247425
+Hyderabad,17.4,78.48,India,IND,6376000
+Chongqing,29.565,106.595,China,CHN,6461000
+Lahore,31.56,74.35,Pakistan,PAK,6577000
+Bangkok,13.75,100.5166,Thailand,THA,6704000
+Bangalore,12.97,77.56,India,IND,6787000
+Taipei,25.0358,121.5683,Taiwan,TWN,6900273
+Chennai,13.09,80.28,India,IND,7163000
+Tianjin,39.13,117.2,China,CHN,7180000
+Hong Kong,22.305,114.185,Hong Kong,HKG,7206000
+Wuhan,30.58,114.27,China,CHN,7243000
+Shenzhen,22.5524,114.1221,China,CHN,7581000
+Bogota,4.5964,-74.0833,Colombia,COL,7772000
+Kinshasa,-4.3297,15.315,Congo (Kinshasa),COD,7843000
+Tehran,35.6719,51.4243,Iran,IRN,7873000
+Lima,-12.048,-77.0501,Peru,PER,8012000
+London,51.5,-0.1167,United Kingdom,GBR,8567000
+Chicago,41.8373,-87.6861,United States,USA,8639278
+Guangzhou,23.145,113.325,China,CHN,8829000
+Jakarta,-6.1744,106.8294,Indonesia,IDN,9125000
+Lagos,6.4433,3.3915,Nigeria,NGA,9466000
+Seoul,37.5663,126.9997,"Korea, South",KOR,9796000
+Paris,48.8667,2.3333,France,FRA,9904000
+Istanbul,41.105,29.01,Turkey,TUR,10061000
+Moscow,55.7522,37.6155,Russia,RUS,10452000
+Manila,14.6042,120.9822,Philippines,PHL,11100000
+Beijing,39.9289,116.3883,China,CHN,11106000
+Osaka,34.75,135.4601,Japan,JPN,11294000
+Rio de Janeiro,-22.925,-43.225,Brazil,BRA,11748000
+Cairo,30.05,31.25,Egypt,EGY,11893000
+Karachi,24.87,66.99,Pakistan,PAK,12130000
+Los Angeles,34.114,-118.4068,United States,USA,12740381
+Buenos Aires,-34.6025,-58.3975,Argentina,ARG,12795000
+Dhaka,23.7231,90.4086,Bangladesh,BGD,12797394
+Kolkata,22.495,88.3247,India,IND,14787000
+Shanghai,31.2165,121.4365,China,CHN,14987000
+Delhi,28.67,77.23,India,IND,15926000
+Sao Paulo,-23.5587,-46.625,Brazil,BRA,18845000
+Mumbai,19.017,72.857,India,IND,18978000
+Mexico City,19.4424,-99.131,Mexico,MEX,19028000
+New York,40.6943,-73.9249,United States,USA,19164071
+Tokyo,35.685,139.7514,Japan,JPN,35676000
